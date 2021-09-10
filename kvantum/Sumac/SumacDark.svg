@@ -22,16 +22,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="-35.654178"
-     inkscape:cy="68.97278"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-19.580257"
+     inkscape:cy="21.054459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="928"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="56"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -683,62 +683,50 @@
        xlink:href="#sideShadow"
        inkscape:collect="always" />
     <linearGradient
-       id="buttonBottomHighlight"
-       inkscape:collect="always">
-      <stop
-         id="stop3001"
-         offset="0"
-         style="stop-color:#1664db;stop-opacity:1" />
-      <stop
-         id="stop3003"
-         offset="1"
-         style="stop-color:#1162de;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
-       id="buttonTopHighlight">
+       id="buttonGradient">
       <stop
          style="stop-color:#1669e6;stop-opacity:1"
          offset="0"
          id="stop2961" />
       <stop
-         style="stop-color:#1664db;stop-opacity:1"
+         style="stop-color:#1162de;stop-opacity:1"
          offset="1"
          id="stop2963" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#buttonTopHighlight"
+       xlink:href="#buttonGradient"
        id="linearGradient4523"
-       x1="-37"
+       x1="-36.5"
        y1="55.362186"
-       x2="-37"
-       y2="61.362186"
+       x2="-36.5"
+       y2="72.362183"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#buttonTopHighlight"
+       xlink:href="#buttonGradient"
        id="linearGradient4531"
        x1="-33.999962"
        y1="55.362202"
        x2="-33.999962"
-       y2="61.362202"
+       y2="72.362198"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#buttonBottomHighlight"
+       xlink:href="#buttonGradient"
        id="linearGradient4539"
-       x1="-39.500015"
-       y1="61.362179"
-       x2="-39.500015"
+       x1="-36.500015"
+       y1="72.362183"
+       x2="-36.500015"
        y2="55.362179"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#buttonBottomHighlight"
+       xlink:href="#buttonGradient"
        id="linearGradient4547"
        x1="-33.999977"
-       y1="67.362206"
+       y1="56.362202"
        x2="-33.999977"
        y2="73.362206"
        gradientUnits="userSpaceOnUse" />
@@ -1628,6 +1616,51 @@
        id="linearGradient3799"
        xlink:href="#linearShadow"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#buttonGradient"
+       id="linearGradient2846"
+       x1="-36.500004"
+       y1="55.862183"
+       x2="-36.500004"
+       y2="72.862183"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#buttonGradient"
+       id="linearGradient2854"
+       x1="-33.999981"
+       y1="55.862236"
+       x2="-33.999981"
+       y2="72.862236"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       gradientTransform="matrix(-4.3001022e-7,-1.9999856,2.3333333,-4.9239814e-7,-180.33328,82.362063)"
+       gradientUnits="userSpaceOnUse"
+       r="3"
+       fy="69.999985"
+       fx="10.000002"
+       cy="69.999985"
+       cx="10.000002"
+       id="radialGradient4935"
+       xlink:href="#linearHighlight5.5r"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearHighlight5.5r"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop4931" />
+      <stop
+         id="stop4942"
+         offset="0.8333391"
+         style="stop-color:#ffffff;stop-opacity:0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4929" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata7">
@@ -2323,6 +2356,10 @@
          width="37"
          height="1000"
          style="opacity:0.33" />
+      <path
+         d="m -17.500005,56.362185 c -3.1625,0 -5.5,2.337518 -5.5,5.5 v 0.5 h 0.02344 c 0.233404,-2.904726 2.48386,-5 5.476563,-5 h 0.5 v -1 z"
+         style="opacity:0.25;fill:url(#radialGradient4935);fill-opacity:1;fill-rule:evenodd;stroke-width:0.499997"
+         id="use4862" />
     </g>
     <g
        id="g4395"
@@ -2336,7 +2373,7 @@
          width="48"
          height="1000" />
       <use
-         style="fill:#1664db;fill-opacity:1"
+         style="fill:url(#linearGradient2846);fill-opacity:1"
          height="1000"
          width="48"
          transform="translate(20.499984,1.50004)"
@@ -2426,7 +2463,7 @@
          width="48"
          height="1000" />
       <use
-         style="fill:#1664db;fill-opacity:1"
+         style="fill:url(#linearGradient2854);fill-opacity:1"
          height="1000"
          width="48"
          transform="translate(21.000001,1.499998)"
@@ -2464,6 +2501,14 @@
          width="37"
          height="1000"
          style="opacity:0.33" />
+      <use
+         id="use2907"
+         xlink:href="#rect2884"
+         y="0"
+         x="0"
+         transform="translate(9.0000368,6.000014)"
+         width="100%"
+         height="100%" />
     </g>
     <use
        x="0"
