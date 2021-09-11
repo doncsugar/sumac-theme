@@ -1,0 +1,34 @@
+COLORS
++ decide on summaculate vs sumac
+
+KVANTUM
++ fix/choose highlight colors
++ make tabs readable
++ 3 variants: square tabs, round tabs (malice-style), square-flat tabs
+
+PLASMA
++ determine appropriate opacity, panel colors, and CE values
++ make dock tasks.svg for 48px icons
++ red close for sumac, background color for summaculate?
++ summaculate will be for latte, sumac will use stock
+
+AURORAE
++ test cubic shadow and 40% opacity
++ glass and blur/opaque
++ blur/opaque have small button variants
++ glass only has large button variant
++ incorporate directions into theme name or global's screenshot
+
+WALLPAPER
++ upload big sur svg
++ consider uploading edited versions of big sur/monterey
+
+SDDM
++ use adjusted clock
++ use blur effect to draw login box, plasma elements are not needed, will not support peak
+
+LOCKSCREEN
++ will use similar to SDDM
+
+FONT
++ Inter is a good choice
