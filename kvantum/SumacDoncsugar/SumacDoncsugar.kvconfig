@@ -1,6 +1,6 @@
 [%General]
 author=doncsugar
-comment=A MacOS-style 11+ light demo theme.
+comment=A theme version used by the developer, doncsugar.
 
 
 x11drag=true
@@ -73,9 +73,9 @@ intensity=1
 saturation=2
 
 translucent_windows=true
-reduce_window_opacity=0
+reduce_window_opacity=15
 reduce_menu_opacity=0
-popup_blurring=true
+popup_blurring=false
 shadowless_popup=false
 
 opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,QtCreator,VirtualBox,trojita,dragon,digikam,lyx
@@ -143,8 +143,8 @@ dark_titlebar=false
 
 
 
-window.color=#f3f3f3d9
-inactive.window.color=#f3f3f3d9
+window.color=#f3f3f3
+inactive.window.color=#f3f3f3
 
 base.color=#ffffff
 inactive.base.color=#ffffff
@@ -201,7 +201,7 @@ respect_darkness=false
 force_size_grip=true
 
 iconless_pushbutton=false
-iconless_menu=false
+iconless_menu=true
 disabled_icon_opacity=100
 no_selection_tint=false
 tint_on_mouseover=0
@@ -688,7 +688,7 @@ text.margin.top=2
 text.margin.bottom=2
 
 text.normal.color=#252525
-text.focus.color=#252525
+text.focus.color=#ffffff
 text.normal.inactive.color=#9b9b9b
 
 
@@ -743,7 +743,7 @@ text.margin.left=3
 text.margin.right=3
 
 text.normal.color=#252525
-text.focus.color=#252525
+text.focus.color=#ffffff
 text.shadow=false
 
 

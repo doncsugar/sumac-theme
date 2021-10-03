@@ -8,14 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="Sumac.svg"
+   sodipodi:docname="SumacDoncsugar.svg"
    inkscape:version="1.0 (1.0+r73+1)"
    version="1.1"
    id="svg2"
    height="1000"
    width="37">
   <sodipodi:namedview
-     inkscape:snap-global="false"
      inkscape:document-rotation="0"
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
@@ -33,9 +32,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="302.42527"
-     inkscape:cx="-80.301095"
-     inkscape:zoom="45.254834"
+     inkscape:cy="86.338868"
+     inkscape:cx="-4.8322658"
+     inkscape:zoom="2.8284271"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -1417,7 +1416,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8066,7 +8065,7 @@
       <path
          d="M 113.04492 234.46289 A 2.5277801 2.5277801 0 0 0 111.27539 235.19727 A 2.5277801 2.5277801 0 0 0 111.26562 238.77344 L 121.42969 248.99414 L 111.21289 259.21289 A 2.5277801 2.5277801 0 0 0 111.21289 262.78711 A 2.5277801 2.5277801 0 0 0 114.78711 262.78711 L 126.78711 250.78711 A 2.5280328 2.5280328 0 0 0 126.79297 247.2168 L 114.84961 235.20703 A 2.5277801 2.5277801 0 0 0 113.04492 234.46289 z "
          id="path5124"
-         style="fill:#252525;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <use
        x="0"
@@ -12574,7 +12573,7 @@
       <path
          sodipodi:nodetypes="cccc"
          id="path90510"
-         style="opacity:0.5;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="opacity:1;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m -22.91015,419.99968 c 0.4199,-2.51812 2.39204,-4.49026 4.91016,-4.91016 v 4.91016 z" />
     </g>
     <g
@@ -12582,7 +12581,7 @@
        id="g5789">
       <path
          d="m -19,982 v -7 h -5 v 7 z"
-         style="opacity:0.5;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none"
          id="use2403"
          sodipodi:nodetypes="ccccc" />
       <path
@@ -12757,7 +12756,7 @@
        height="5.0000005"
        width="5"
        id="rect90768"
-       style="opacity:0.5;fill:#f5f5f5;fill-opacity:1" />
+       style="opacity:1;fill:#f5f5f5;fill-opacity:1" />
     <g
        id="g90900"
        transform="translate(20.499955,0.999996)">
@@ -13209,7 +13208,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13218,7 +13216,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13227,7 +13224,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13236,7 +13232,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13245,7 +13240,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13254,7 +13248,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13263,7 +13256,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13272,7 +13264,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13281,7 +13272,6 @@
        y="0"
        x="0" />
     <use
-       style="opacity:0.24"
        height="1000"
        width="37"
        transform="translate(105,-50.000017)"
@@ -13766,8 +13756,8 @@
        y="0"
        x="0" />
     <path
-       sodipodi:nodetypes="ssssssssssssssssss"
-       d="m -85.999997,329.36218 c -1.662002,0 -3.000003,1.338 -3.000003,3 v 8 c 0,1.662 1.337999,3 2.999997,3 l 8.000006,0 c 1.661998,0 2.999997,-1.338 2.999997,-3 l 0,-8 c 0,-1.662 -1.338,-3 -3,-3 z m -3e-6,1 h 7.999997 c 1.108002,0 2.000003,0.892 2.000003,2 l 0,8 c 0,1.108 -0.892,2 -2,2 l -8,0 c -1.108,0 -2,-0.892 -2,-2 v -8 c 0,-1.108 0.892,-2 2,-2 z"
+       sodipodi:nodetypes="sssssssss"
+       d="m -85.5,329.36218 c -1.939,0 -3.5,1.561 -3.5,3.5 v 7 c 0,1.939 1.561,3.5 3.5,3.5 h 7 c 1.939,0 3.5,-1.561 3.5,-3.5 v -7 c 0,-1.939 -1.561,-3.5 -3.5,-3.5 z"
        style="fill-opacity:1;stroke:none"
        id="rect11326" />
     <g
@@ -13799,17 +13789,35 @@
          width="48"
          height="1000" />
       <path
-         id="path5250"
-         d="M 136.16602 201.14844 A 0.88 0.88 0 0 0 135.45703 201.51953 L 131.50781 207.08594 L 129.66992 204.92969 A 0.88 0.88 0 0 0 128.42969 204.83008 A 0.88 0.88 0 0 0 128.33008 206.07031 L 130.90234 209.08789 A 0.880088 0.880088 0 0 0 132.28906 209.02734 L 136.89258 202.53711 A 0.88 0.88 0 0 0 136.68359 201.31055 A 0.88 0.88 0 0 0 136.16602 201.14844 z "
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1" />
+         id="path34959"
+         d="m 129,205.50001 2.57143,3.01785 4.6033,-6.49003"
+         style="fill:none;stroke:#ffffff;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:nodetypes="ccc" />
     </g>
     <path
-       d="m -81,350.86218 c -3.589848,0 -6.499997,2.91015 -6.499997,6.5 0,3.58985 2.910149,6.5 6.499997,6.5 3.589848,0 6.499997,-2.91015 6.499997,-6.5 0,-3.58985 -2.910149,-6.5 -6.499997,-6.5 z m 0,1 c 3.03757,0 5.5,2.46243 5.5,5.5 0,3.03757 -2.46243,5.5 -5.5,5.5 -3.03757,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.46243,-5.5 5.5,-5.5 z"
+       d="m -81,350.86218 c -3.58985,0 -6.5,2.91015 -6.5,6.5 0,3.58985 2.91015,6.5 6.5,6.5 3.58985,0 6.5,-2.91015 6.5,-6.5 0,-3.58985 -2.91015,-6.5 -6.5,-6.5 z m 0,1 c 3.03757,0 5.5,2.46243 5.5,5.5 0,3.03757 -2.46243,5.5 -5.5,5.5 -3.03757,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.46243,-5.5 5.5,-5.5 z"
        style="fill-opacity:1;stroke:none"
        id="path34961"
        sodipodi:nodetypes="ssssssssss" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g34923"
+       id="menu-radio-checked-normal"
+       transform="translate(143,18)"
+       width="37"
+       height="1000" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g34955"
+       id="menu-radio-checked-focused"
+       transform="translate(143,18)"
+       width="37"
+       height="1000" />
     <g
-       id="menu-radio-normal">
+       id="menu-radio-normal"
+       style="opacity:0.003">
       <use
          x="0"
          y="0"
@@ -13828,7 +13836,8 @@
          height="1000" />
     </g>
     <g
-       id="menu-checkbox-normal">
+       id="menu-checkbox-normal"
+       style="opacity:0.16">
       <use
          height="1000"
          width="48"
@@ -13847,11 +13856,11 @@
          height="1000" />
     </g>
     <g
-       style="fill:#252525;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;opacity:0.003"
        transform="translate(17,-2.1837582e-7)"
        id="menu-radio-focused">
       <use
-         style="fill:#252525;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          height="1000"
          width="48"
          transform="matrix(5.3333332,0,0,5.3333332,76.33333,109.43055)"
@@ -13860,7 +13869,7 @@
          y="0"
          x="0" />
       <use
-         style="fill:#252525;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          height="1000"
          width="37"
          transform="translate(144,18.000003)"
@@ -13870,11 +13879,11 @@
          x="0" />
     </g>
     <g
-       style="fill:#252525;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;opacity:0.24"
        transform="translate(17,-2.1837582e-7)"
        id="menu-checkbox-focused">
       <use
-         style="fill:#252525;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          x="0"
          y="0"
          xlink:href="#transparentBase"
@@ -13883,7 +13892,7 @@
          width="48"
          height="1000" />
       <use
-         style="fill:#252525;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          height="1000"
          width="37"
          transform="translate(145,21.000003)"
@@ -13936,7 +13945,6 @@
        r="5"
        id="dial-handle-inactive" />
     <use
-       style="opacity:0.24"
        x="0"
        y="0"
        xlink:href="#menuitem-normal"
@@ -14023,7 +14031,7 @@
       <path
          d="m 203.50586,271.75 a 0.75,0.75 0 0 0 -0.53711,0.21875 0.75,0.75 0 0 0 0,1.0625 l 3,3 a 0.750075,0.750075 0 0 0 1.0625,0 l 3,-3 a 0.75,0.75 0 0 0 0,-1.0625 0.75,0.75 0 0 0 -1.0625,0 L 206.5,274.4375 204.03125,271.96875 A 0.75,0.75 0 0 0 203.50586,271.75 Z"
          id="path5015"
-         style="fill:#252525;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <use
        height="100%"
@@ -14210,123 +14218,44 @@
        y="0"
        x="0" />
     <g
-       transform="translate(16.000003)"
-       id="menu-radio-checked-normal">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#transparentBase"
-         id="use5273"
-         transform="matrix(5.3333333,0,0,5.3333333,58.33333,129.43054)"
-         width="48"
-         height="1000"
-         style="stroke-width:1.125" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#path34961"
-         id="use5277"
-         transform="translate(126,38.000007)"
-         width="100%"
-         height="100%" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g23241"
-         id="use5281"
-         transform="translate(91,19)"
-         width="100%"
-         height="100%" />
-    </g>
-    <g
-       transform="translate(16.000003)"
-       style="fill-opacity:1;fill:#252525"
-       id="menu-radio-checked-focused">
-      <use
-         style="fill-opacity:1;stroke-width:1.125;fill:#252525"
-         height="1000"
-         width="48"
-         transform="matrix(5.3333333,0,0,5.3333333,58.333333,145.43054)"
-         id="use5275"
-         xlink:href="#transparentBase"
-         y="0"
-         x="0" />
-      <use
-         style="fill-opacity:1;fill:#252525"
-         height="100%"
-         width="100%"
-         transform="translate(126,54.000003)"
-         id="use5279"
-         xlink:href="#path34961"
-         y="0"
-         x="0" />
-      <use
-         style="fill-opacity:1;fill:#252525"
-         height="100%"
-         width="100%"
-         transform="translate(90.999996,35)"
-         id="use5283"
-         xlink:href="#g23241"
-         y="0"
-         x="0" />
-    </g>
-    <g
        id="menu-checkbox-checked-normal">
-      <g
-         id="use5311"
-         transform="translate(-87,190.36217)">
-        <use
-           x="0"
-           y="0"
-           xlink:href="#transparentBase"
-           id="use5319"
-           transform="matrix(5.3333332,0,0,5.3333332,145.33333,-60.931623)"
-           width="48"
-           height="1000" />
-        <path
-           id="path5321"
-           d="m 128.5,205.50001 2.57143,3.01785 4.6033,-6.49003"
-           style="fill:none;stroke:#252525;stroke-width:1.76;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           sodipodi:nodetypes="ccc" />
-      </g>
       <use
+         height="1000"
+         width="37"
+         transform="translate(127,18)"
+         id="use2865"
+         xlink:href="#g34923"
+         y="0"
+         x="0" />
+      <use
+         style="opacity:0.16"
+         id="use2844"
+         xlink:href="#rect11326"
+         y="0"
+         x="0"
+         width="100%"
+         height="100%"
+         transform="translate(127.5,59.000003)" />
+    </g>
+    <g
+       id="menu-checkbox-checked-focused">
+      <use
+         height="1000"
+         width="37"
+         transform="translate(127,18)"
+         id="use2888"
+         xlink:href="#g34955"
+         y="0"
+         x="0" />
+      <use
+         style="opacity:0.24;fill:#ffffff;fill-opacity:1"
+         transform="translate(127.5,75.500003)"
+         height="100%"
+         width="100%"
          x="0"
          y="0"
          xlink:href="#rect11326"
-         id="use5303"
-         transform="translate(127,59.000003)"
-         width="100%"
-         height="100%" />
-    </g>
-    <g
-       style="fill-opacity:1;fill:#252525"
-       id="menu-checkbox-checked-focused">
-      <g
-         style="fill:#252525;fill-opacity:1"
-         transform="translate(-87,206.36217)"
-         id="use5317">
-        <use
-           height="1000"
-           width="48"
-           transform="matrix(5.3333332,0,0,5.3333332,145.33333,-60.931623)"
-           id="use5325"
-           xlink:href="#transparentBase"
-           y="0"
-           x="0" />
-        <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-           d="m 135.66573,201.14844 a 0.88,0.88 0 0 0 -0.70899,0.37109 l -3.94922,5.56641 -1.83789,-2.15625 a 0.88,0.88 0 0 0 -1.24023,-0.0996 0.88,0.88 0 0 0 -0.0996,1.24023 l 2.57226,3.01758 a 0.880088,0.880088 0 0 0 1.38672,-0.0605 l 4.60352,-6.49023 a 0.88,0.88 0 0 0 -0.20899,-1.22656 0.88,0.88 0 0 0 -0.51757,-0.16211 z"
-           id="path5327" />
-      </g>
-      <use
-         style="fill-opacity:1;fill:#252525"
-         height="100%"
-         width="100%"
-         transform="translate(127,75.000003)"
-         id="use5305"
-         xlink:href="#rect11326"
-         y="0"
-         x="0" />
+         id="use2867" />
     </g>
   </g>
 </svg>

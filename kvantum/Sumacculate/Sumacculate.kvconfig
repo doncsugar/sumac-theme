@@ -1,6 +1,6 @@
 [%General]
 author=doncsugar
-comment=A MacOS-style 11+ light demo theme.
+comment=A MacOS-style 11+ light demo theme aiming to match closely.
 
 
 x11drag=true
@@ -45,7 +45,7 @@ toolbutton_style=0
 toolbar_icon_size=
 
 
-dialog_button_layout=0
+dialog_button_layout=3
 
 
 spread_progressbar=true
@@ -160,8 +160,8 @@ mid.color=#e6e6e6
 
 shadow.color=#000000
 
-highlight.color=#3484e250
-inactive.highlight.color=#00000035
+highlight.color=#3484e2
+inactive.highlight.color=#00000032
 highlight.text.color=#242424
 inactive.highlight.text.color=#343434
 
@@ -183,7 +183,8 @@ progress.indicator.text.color=#ffffff
 
 
 
-
+highlight.text.color=white
+inactive.highlight.text.color=#252525
 
 
 [Hacks]
@@ -201,7 +202,7 @@ respect_darkness=false
 force_size_grip=true
 
 iconless_pushbutton=false
-iconless_menu=false
+iconless_menu=true
 disabled_icon_opacity=100
 no_selection_tint=false
 tint_on_mouseover=0
@@ -238,8 +239,8 @@ indicator.element=toolarrow
 
 text.normal.color=#252525
 text.focus.color=#252525
-text.press.color=#252525
-text.toggle.color=#252525
+text.press.color=#ffffff
+text.toggle.color=#ffffff
 text.normal.inactive.color=#252525
 text.toggle.inactive.color=#252525
 
@@ -383,7 +384,6 @@ interior.element=tle
 
 
 
-
 [IndicatorSpinBox]
 inherits=PanelButtonCommand
 indicator.element=math
@@ -420,8 +420,8 @@ interior.element=progress
 text.margin=0
 text.normal.color=#252525
 text.focus.color=#252525
-text.press.color=#252525
-text.toggle.color=#252525
+text.press.color=#ffffff
+text.toggle.color=#ffffff
 
 [ProgressbarContents]
 inherits=PanelButtonCommand
@@ -572,7 +572,7 @@ frame.right=1
 text.normal.color=#252525
 text.focus.color=#252525
 text.press.color=#252525
-text.toggle.color=#252525
+text.toggle.color=#ffffff
 text.toggle.inactive.color=#252525
 
 text.margin.top=4
@@ -622,8 +622,8 @@ text.margin.right=3
 
 text.normal.color=#252525
 text.focus.color=#252525
-text.press.color=#252525
-text.toggle.color=#252525
+text.press.color=#ffffff
+text.toggle.color=#ffffff
 
 
 
@@ -688,7 +688,7 @@ text.margin.top=2
 text.margin.bottom=2
 
 text.normal.color=#252525
-text.focus.color=#252525
+text.focus.color=#ffffff
 text.normal.inactive.color=#9b9b9b
 
 
@@ -743,7 +743,7 @@ text.margin.left=3
 text.margin.right=3
 
 text.normal.color=#252525
-text.focus.color=#252525
+text.focus.color=#ffffff
 text.shadow=false
 
 
