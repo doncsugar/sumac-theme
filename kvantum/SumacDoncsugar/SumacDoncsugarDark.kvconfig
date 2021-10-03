@@ -45,7 +45,7 @@ toolbutton_style=0
 toolbar_icon_size=
 
 
-dialog_button_layout=3
+dialog_button_layout=0
 
 
 spread_progressbar=true
