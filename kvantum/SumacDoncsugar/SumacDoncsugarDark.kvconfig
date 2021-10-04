@@ -45,7 +45,7 @@ toolbutton_style=0
 toolbar_icon_size=
 
 
-dialog_button_layout=0
+dialog_button_layout=3
 
 
 spread_progressbar=true
@@ -503,7 +503,7 @@ text.margin.left=7
 text.margin.right=7
 text.margin.top=4
 text.margin.bottom=4
-text.normal.color=#fcfcfc
+text.normal.color=#fcfcfcbf
 text.focus.color=#fcfcfc
 text.press.color=#fcfcfc
 text.toggle.color=#fcfcfc
