@@ -5,6 +5,7 @@ KVANTUM
 + set highlight inactive to white for dark themes
 + make tabs readable
 + 3 variants: square tabs, round tabs (malice-style), square-flat tabs
++ resize checkmarks (radio button) to the large size when used next to checkboxes
 
 PLASMA
 + determine appropriate opacity, panel colors, and CE values
