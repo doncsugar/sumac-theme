@@ -1,0 +1,27 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "KDE Visual Design Group and doncsugar",
+                "Name[x-test]": "xxKDE Visual Design Group and doncsugarxx"
+            }
+        ],
+        "Category": "",
+        "Description": "Sumac by the KDE VDG and doncsugar",
+        "Description[x-test]": "xxSumac by the KDE VDG and doncsugarxx",
+        "Id": "org.kde.sumac.desktop",
+        "License": "GPLv3+",
+        "Name": "Sumac Desktop",
+        "Name[x-test]": "xxSumac Desktopxx",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "2.0",
+        "Website": "https://www.kde.org"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "Keywords[x-test]": "xxDesktopxx;xxWorkspacexx;xxAppearancexx;xxLook and Feelxx;xxLogoutxx;xxLockxx;xxSuspendxx;xxShutdownxx;xxHibernatexx;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "defaults"
+}
