@@ -100,10 +100,10 @@ SessionManagementScreen {
                     property var padding: 6
                 }
 
-                leftPadding: (passwordBox.height - font.pointSize) / 2
+                leftPadding: Math.round((passwordBox.height - font.pointSize) / 2)
                 // leftPadding: background.padding + ((LayoutMirroring.enabled * 3) + 1) * PlasmaCore.Units.mediumSpacing
                 topPadding: background.padding
-                rightPadding: (!LayoutMirroring.enabled) * (background.padding + (4) * PlasmaCore.Units.mediumSpacing)
+                rightPadding: Math.round((!LayoutMirroring.enabled) * (background.padding + (4) * PlasmaCore.Units.mediumSpacing))
                 // added 1 to center Text
                 bottomPadding: background.padding
 
