@@ -3,6 +3,10 @@ author=doncsugar
 comment=A theme version used by the developer, doncsugar.
 
 
+menu_blur_radius=5
+tooltip_blur_radius=0
+
+
 x11drag=true
 alt_mnemonic=true
 

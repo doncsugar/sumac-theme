@@ -3,6 +3,10 @@ author=doncsugar
 comment=A MacOS-style 11+ light demo theme aiming to match closely.
 
 
+menu_blur_radius=5
+tooltip_blur_radius=0
+
+
 x11drag=true
 alt_mnemonic=true
 
