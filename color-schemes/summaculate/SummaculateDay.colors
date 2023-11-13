@@ -19,7 +19,7 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=215,215,215
+BackgroundAlternate=240,240,240
 BackgroundNormal=255,255,255
 
 ForegroundInactive=128,128,128
@@ -51,7 +51,7 @@ ForegroundNeutral=239,125,0
 ForegroundPositive=130,188,29
 
 [Colors:Header]
-BackgroundAlternate=206,206,206
+BackgroundAlternate=231,231,231
 BackgroundNormal=246,246,246
 
 ForegroundInactive=128,128,128
@@ -67,7 +67,7 @@ ForegroundNeutral=246,116,0
 ForegroundPositive=39,174,96
 
 [Colors:Header][Inactive]
-BackgroundAlternate=192,192,192
+BackgroundAlternate=217,217,217
 BackgroundNormal=232,232,232
 
 ForegroundInactive=128,128,128
@@ -99,7 +99,7 @@ ForegroundNeutral=246,116,0
 ForegroundPositive=39,174,96
 
 [Colors:Tooltip]
-BackgroundAlternate=206,206,206
+BackgroundAlternate=231,231,231
 BackgroundNormal=246,246,246
 
 ForegroundInactive=128,128,128
@@ -115,7 +115,7 @@ ForegroundNeutral=246,116,0
 ForegroundPositive=39,174,96
 
 [Colors:View]
-BackgroundAlternate=198,198,198
+BackgroundAlternate=223,223,223
 BackgroundNormal=238,238,238
 
 ForegroundInactive=128,128,128
@@ -131,7 +131,7 @@ ForegroundNeutral=246,116,0
 ForegroundPositive=39,174,96
 
 [Colors:Window]
-BackgroundAlternate=203,203,203
+BackgroundAlternate=228,228,228
 BackgroundNormal=243,243,243
 
 ForegroundInactive=128,128,128
