@@ -1,0 +1,33 @@
+[ContrastEffect]
+enabled=true
+
+# contrast=1
+# intensity=1.1
+# saturation=1.35
+# this may be oversatured, red is overcompensated and green is under.
+contrast=.85
+intensity=1.1
+# the lower values seem to be saner than oversaturating with 2.18
+# saturation=1.35
+saturation=1.35
+# saturation=2.18
+
+# Review Raw files for different variations
+
+
+[Desktop Entry]
+Name=Sumac Day
+X-KDE-PluginInfo-Author=doncsugar
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=sumac-day-plasma
+X-KDE-PluginInfo-Version=.13
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true
+

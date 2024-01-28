@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg7813"
+   sodipodi:docname="compass.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7815"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="11.313709"
+     inkscape:cx="30.052037"
+     inkscape:cy="0.83968927"
+     inkscape:window-width="1920"
+     inkscape:window-height="944"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="compass">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7934"
+       spacingy="0.5"
+       spacingx="0.5"
+       empspacing="2"
+       color="#c600e5"
+       opacity="0.14902"
+       originx="0"
+       originy="0"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7792">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <g
+     id="compass"
+     fill="currentColor"
+     class="ColorScheme-Text">
+    <rect
+       width="22"
+       height="22"
+       rx="0"
+       ry="0"
+       opacity="0"
+       stroke-width="2"
+       style="paint-order:fill markers stroke"
+       id="rect7799"
+       x="0"
+       y="0" />
+    <path
+       id="path2"
+       d="M 5.5,3 C 3.5610019,3 2,4.5610089 2,6.5 v 8 C 2,16.438991 3.5610019,18 5.5,18 H 9.1523438 16.5 c 1.938998,0 3.5,-1.561009 3.5,-3.5 v -6 C 20,6.5610089 18.438998,5 16.5,5 H 13 C 10.500003,5 9.999997,3 7.5,3 Z m 0,2 h 2 C 8.2166653,5 8.3906264,5.1640635 9.140625,5.6640625 9.890623,6.1640615 11.21667,7 13,7 h 3.5 C 17.365588,7 18,7.6344182 18,8.5 v 6 C 18,15.365582 17.365588,16 16.5,16 H 9.1523438 5.5 C 4.6344121,16 4,15.365582 4,14.5 v -8 C 4,5.6344182 4.6344121,5 5.5,5 Z"
+       sodipodi:nodetypes="sssscssssssssssssssscssss" />
+  </g>
+</svg>

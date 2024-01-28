@@ -1,0 +1,66 @@
+[ContrastEffect]
+enabled=true
+# https://niccolo.venerandi.com/backstage/files/ownopacity/main.html
+# 2 favorites, like the brighter one more, but readability is higher on the darker
+# probably fair recommended option
+# contrast=.4
+# intensity=.7
+# saturation=3.5
+contrast=.65
+intensity=.45
+saturation=3
+
+# good shader material
+# contrast=.6
+# intensity=.4
+# saturation=2.75
+
+# enabled=true
+# contrast=.4
+# intensity=1.25
+# saturation=4.5
+# contrast=.8
+# enabled=true
+# intensity=1.1
+# saturation=4.5
+# can't figure out how to lesson darkness on light walls
+# contrast=1.3
+# enabled=true
+# intensity=-1.
+# saturation=-1.2
+# great for sci-fi themes
+# contrast=10
+# enabled=true
+# saturation=-10
+# intensity=-1
+# contrast=.65
+# intensity=.45
+# saturation=3
+# contrast=1.3
+# enabled=true
+# intensity=1.2
+# saturation=2
+
+# 1a1a1a at 50%
+
+# contrast=.9
+# enabled=true
+# intensity=1.
+# saturation=2
+
+
+[Desktop Entry]
+Name=Sumac Night
+X-KDE-PluginInfo-Author=doncsugar
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=sumac-night-plasma
+X-KDE-PluginInfo-Version=.1
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true

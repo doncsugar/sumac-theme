@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg80"
+   sodipodi:docname="applications.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview82"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="9.8305085"
+     inkscape:cy="15.355932"
+     inkscape:window-width="1920"
+     inkscape:window-height="944"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg80">
+    <inkscape:grid
+       type="xygrid"
+       id="grid190"
+       spacingx="0.125"
+       spacingy="0.125"
+       empspacing="4"
+       color="#e500c2"
+       opacity="0.14902"
+       originx="0"
+       originy="-10"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <g
+     id="22-22-applications-other"
+     transform="translate(0,-10)">
+    <path
+       d="M 0,10 V 32 H 22 V 10 Z"
+       fill="none"
+       id="path70" />
+    <rect
+       id="rect12"
+       width="4"
+       height="4"
+       x="3"
+       y="13"
+       rx="2"
+       ry="2"
+       fill="currentColor"
+       class="ColorScheme-Text" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use13"
+       transform="translate(6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use14"
+       transform="translate(12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use15"
+       transform="translate(0,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use16"
+       transform="translate(6,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use17"
+       transform="translate(12,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use18"
+       transform="translate(0,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use19"
+       transform="translate(6,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use20"
+       transform="translate(12,12)" />
+  </g>
+  <g
+     id="applications-other"
+     transform="matrix(1.4545455,0,0,1.4545455,22,-14.545455)">
+    <path
+       d="M 0,10 V 32 H 22 V 10 Z"
+       fill="none"
+       id="path70-7" />
+    <rect
+       id="rect12-5"
+       width="4"
+       height="4"
+       x="3"
+       y="13"
+       rx="2"
+       ry="2"
+       fill="currentColor"
+       class="ColorScheme-Text" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12-5"
+       id="use13-3"
+       transform="translate(6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12-5"
+       id="use14-5"
+       transform="translate(12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12-5"
+       id="use15-6"
+       transform="translate(0,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12-5"
+       id="use16-2"
+       transform="translate(6,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12-5"
+       id="use17-9"
+       transform="translate(12,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12-5"
+       id="use18-1"
+       transform="translate(0,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12-5"
+       id="use19-2"
+       transform="translate(6,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12-5"
+       id="use20-7"
+       transform="translate(12,12)" />
+  </g>
+  <g
+     id="16-16-applications-otherno"
+     transform="translate(-19,-13)">
+    <path
+       d="M 3,13 V 29 H 19 V 13 Z"
+       fill="none"
+       id="path1"
+       style="stroke-width:0.727273" />
+    <rect
+       id="rect1"
+       width="4"
+       height="4"
+       x="3"
+       y="13"
+       rx="2"
+       ry="2"
+       fill="currentColor"
+       class="ColorScheme-Text"
+       style="color:#363636" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use1"
+       transform="translate(6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use2"
+       transform="translate(12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use3"
+       transform="translate(0,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use4"
+       transform="translate(6,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use5"
+       transform="translate(12,6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use6"
+       transform="translate(0,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use7"
+       transform="translate(6,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect12"
+       id="use8"
+       transform="translate(12,12)" />
+  </g>
+</svg>
