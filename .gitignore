@@ -1,2 +1,4 @@
-
+global-themes/output/*
+icon-packs/output/*
+plasma-styles/output/*
 *.zip
