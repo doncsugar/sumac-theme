@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "doncsugar",
+                "Name[x-test]": "xxdoncsugarxx"
+            }
+        ],
+        "Id": "SumacDynamic",
+        "License": "GPLv3",
+        "Name": "Sumac",
+        "Name[x-test]": "xxSumacxx"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": {
+        "Dark": "#1d81fe",
+        "Light": "#1d81fe"
+    }
+}
