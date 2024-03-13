@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "doncsugar"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "A MacOS style demo.",
+        "EnabledByDefault": true,
+        "Id": "summaculate-day-blur",
+        "License": "GPLv3",
+        "Name": "Summaculate Day Blur",
+        "Version": "0.1"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "doncsugar"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "A MacOS style demo.",
+        "EnabledByDefault": true,
+        "Id": "summaculate-night-blur",
+        "License": "GPLv3",
+        "Name": "Summaculate Night Blur",
+        "Version": "0.1"
+    }
+}
