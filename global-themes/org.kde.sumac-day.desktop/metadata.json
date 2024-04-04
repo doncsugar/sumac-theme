@@ -34,7 +34,8 @@
         "3": "Latte Spacer (1287102)",
         "4": "Plasma Drawer (1973454) [replaces Launchpad Plasma (1364064)]",
         "5": "Window Title Applet (1274218)",
-        "6PRO_ONLY": "Active Window Control (998910)"
+        "6": "Control Centre (1916655)",
+        "7PRO_ONLY": "Active Window Control (998910)",
     },
     "_theme_kpackage_comment_community_theme": {
         "1": "WhiteSur icon theme (1405756)",
@@ -57,6 +58,7 @@
         "kns://plasmoids.knsrc/api.kde-look.org/1287102",
         "kns://plasmoids.knsrc/api.kde-look.org/1973454",
         "kns://plasmoids.knsrc/api.kde-look.org/1274218",
+        "kns://plasmoids.knsrc/api.kde-look.org/1916655",
 
         "kns://icons.knsrc/api.kde-look.org/1405756",
         "kns://gtk_themes.knsrc/api.kde-look.org/1403328?linkid=8",
