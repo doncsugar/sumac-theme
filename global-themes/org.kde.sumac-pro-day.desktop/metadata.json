@@ -1,0 +1,77 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "plasma-devel@kde.org",
+                "Name": "KDE Visual Design Group",
+                "Name[x-test]": "xxKDE Visual Design Groupxx"
+            },
+            {
+                "Email": "",
+                "Name": "doncsugar",
+                "Name[x-test]": "xxdoncsugarxx"
+            }
+        ],
+        "Category": "",
+        "Description": "Sumac Pro by doncsugar, modified from Breeze by the KDE VDG",
+        "Description[x-test]": "xxSumac Pro by doncsugar, modified from Breeze by the KDE VDGxx",
+        "Id": "org.kde.sumac-pro-day.desktop",
+        "License": "GPLv3+",
+        "Name": "Sumac Pro Day",
+        "Name[x-test]": "xxSumac Pro Dayxx",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "2.0",
+        "Website": "https://www.kde.org"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "Keywords[x-test]": "xxDesktopxx;xxWorkspacexx;xxAppearancexx;xxLook and Feelxx;xxLogoutxx;xxLockxx;xxSuspendxx;xxShutdownxx;xxHibernatexx;",
+    "X-Plasma-APIVersion": "2",
+    "_theme_kpackage_comment_community_plasmoid": {
+        "1": "Configurable button (1297839)",
+        "2": "Latte Separator (1295376)",
+        "3": "Latte Spacer (1287102)",
+        "4": "Plasma Drawer (1973454) [replaces Launchpad Plasma (1364064)]",
+        "5": "Window Title Applet (1274218)",
+        "6": "Control Centre (1916655)",
+        "7": "Active Window Control (998910)"
+    },
+    "_theme_kpackage_comment_community_theme": {
+        "1": "WhiteSur icon theme (1405756)",
+        "2": "WhiteSur GTK (1403328) work with vince to separate downloads(8, WhiteSur-Light-solid.tar.xz)",
+        "3": "Apple Cursor (1408466) rounded version because this theme is for FullHD(3, macOS-BigSur.tar.gz)",
+        "4": "MACsimize Kwin Script (1235050)",
+        "5bugreport": "Inter fonts (Needs to be updated) (1506176) kns://kfontinst.knsrc/api.kde-look.org/1733923"
+    },
+    "_theme_kpackage_comment_doncsugar": {
+        "1": "Sumac Day Plasma (2127676)",
+        "2": "Summaculate Dark/Light Color Schemes(2105405)",
+        "3": "Sumac Day/Night Icons (2128856)",
+        "4": "Summaculate Aurorae (2105128)",
+        "5": "Sumac Day/Night Konsole Scheme (2128994)",
+        "6": "Sumac Day/Night Wallpaper (2130283)"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://plasmoids.knsrc/api.kde-look.org/1297839",
+        "kns://plasmoids.knsrc/api.kde-look.org/1295376",
+        "kns://plasmoids.knsrc/api.kde-look.org/1287102",
+        "kns://plasmoids.knsrc/api.kde-look.org/1973454",
+        "kns://plasmoids.knsrc/api.kde-look.org/1274218",
+        "kns://plasmoids.knsrc/api.kde-look.org/1916655",
+        "kns://plasmoids.knsrc/api.kde-look.org/998910",
+
+        "kns://icons.knsrc/api.kde-look.org/1405756",
+        "kns://gtk_themes.knsrc/api.kde-look.org/1403328?linkid=8",
+        "kns://xcursor.knsrc/api.kde-look.org/1408466?linkid=3",
+        "kns://kwinscripts.knsrc/api.kde-look.org/1235050",
+
+        "kns://plasma-themes.knsrc/api.kde-look.org/2127676",
+        "kns://colorschemes.knsrc/api.kde-look.org/2105405",
+        "kns://icons.knsrc/api.kde-look.org/2128856",
+        "kns://aurorae.knsrc/api.kde-look.org/2105128",
+        "kns://konsole.knsrc/api.kde-look.org/2128994",
+        "kns://wallpaper.knsrc/api.kde-look.org/2130283"
+    ],
+    "X-Plasma-MainScript": "defaults"
+}

@@ -1,0 +1,8 @@
+[kwinrc][Windows]
+BorderlessMaximizedWindows=true
+
+[kwinrc][org.kde.kdecoration2]
+ButtonsOnRight=M
+BorderSizeAuto=true
+BorderSize=NoSides
+ButtonsOnLeft=XIA
