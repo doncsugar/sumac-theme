@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "doncsugar"
+            }
+        ],
+        "Category": "",
+        "Description": "",
+        "EnabledByDefault": true,
+        "Id": "sumac-night-molten-glass-plasma",
+        "License": "GPLv3",
+        "Name": "Sumac Night Molten Glass",
+        "Version": "0.1",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}

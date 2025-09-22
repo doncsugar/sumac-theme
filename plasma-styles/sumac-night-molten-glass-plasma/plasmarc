@@ -1,0 +1,14 @@
+[ContrastEffect]
+enabled=true
+# neutral's presets
+#contrast=0.8
+#intensity=1.2
+#saturation=1.4
+
+# dark
+contrast=0.9
+intensity=1.1
+saturation=1.4
+
+[AdaptiveTransparency]
+enabled=true
