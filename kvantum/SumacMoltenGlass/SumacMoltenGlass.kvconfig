@@ -3,14 +3,14 @@ author=doncsugar
 comment=A macOS-26-style light theme emphasizing transparency.
 
 
-x11drag=true
+x11drag=all
 alt_mnemonic=true
 
 
 inline_spin_indicators=true
 inline_spin_separator=false
 vertical_spin_idicators=false
-spin_button_width=
+spin_button_width=16
 
 
 combo_as_lineedit=true
@@ -42,7 +42,7 @@ center_toolbar_handle=false
 slim_toolbars=false
 toolbutton_style=0
 
-toolbar_icon_size=
+toolbar_icon_size=16
 
 
 dialog_button_layout=3
@@ -68,9 +68,9 @@ tooltip_shadow_depth=6
 composite=true
 
 blurring=true
-contrast=1.4
-intensity=1
-saturation=2
+contrast=1.00
+intensity=1.00
+saturation=1.00
 
 translucent_windows=true
 reduce_window_opacity=0
@@ -123,12 +123,12 @@ check_size=18
 layout_spacing=6
 layout_margin=4
 
-small_icon_size=
-large_icon_size=
-button_icon_size=
+small_icon_size=16
+large_icon_size=24
+button_icon_size=16
 
 
-fill_rubberband=
+fill_rubberband=false
 
 
 remove_extra_frames=false
@@ -136,6 +136,13 @@ remove_extra_frames=false
 
 THIS IS TRUE UNDER DARK
 dark_titlebar=false
+click_behavior=0
+drag_from_buttons=false
+hide_combo_checkboxes=false
+menu_blur_radius=0
+respect_DE=true
+tooltip_blur_radius=0
+vertical_spin_indicators=false
 
 
 
@@ -213,6 +220,11 @@ normal_default_pushbutton=true
 
 single_top_toolbar=true
 style_vertical_toolbars=false
+blur_only_active_window=false
+centered_forms=false
+kinetic_scrolling=false
+lxqtmainmenu_iconsize=0
+noninteger_translucency=false
 
 
 
