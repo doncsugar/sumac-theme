@@ -256,6 +256,8 @@ min_height=18
 interior.element=toolbutton
 frame.element=toolbutton
 
+
+
 frame.top=1
 frame.bottom=1
 frame.left=1
@@ -286,7 +288,6 @@ indicator.size=9
 inherits=PanelButtonTool
 frame.element=tbutton
 interior.element=tbutton
-
 
 
 [RadioButton]
@@ -586,8 +587,8 @@ text.normal.color=#fcfcfc
 text.focus.color=#fcfcfc
 text.normal.inactive.color=#9b9b9b
 
-frame.left=4
-frame.right=4
+frame.left=5
+frame.right=5
 frame.top=0
 frame.bottom=1
 frame.expansion=0
