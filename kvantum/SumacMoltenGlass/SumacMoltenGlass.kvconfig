@@ -33,7 +33,7 @@ tab_button_extra_margin=
 bold_active_tab=
 
 
-group_toolbar_buttons=false
+group_toolbar_buttons=true
 SHOULD BE 8 UNDER IMMACULATE
 toolbar_item_spacing=2
 toolbar_interior_spacing=3
