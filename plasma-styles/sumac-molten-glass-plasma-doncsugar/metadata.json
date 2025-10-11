@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "doncsugar"
+            }
+        ],
+        "Category": "",
+        "Description": "A modification of Sumac Neutral with hacks the creator likes.",
+        "EnabledByDefault": true,
+        "Id": "sumac-molten-glass-plasma-doncsugar",
+        "License": "GPLv3",
+        "Name": "Sumac Molten Glass doncsugar",
+        "Version": "0.2",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}

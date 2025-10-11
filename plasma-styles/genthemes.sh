@@ -32,4 +32,10 @@ mkdir output/sumac-day-molten-glass-plasma
 cp -a src-molten-glass/* output/sumac-day-molten-glass-plasma
 cp -a sumac-day-molten-glass-plasma/* output/sumac-day-molten-glass-plasma
 
+echo "Making sumac-molten-glass-plasma-doncsugar"
+mkdir output/sumac-molten-glass-plasma-doncsugar
+
+cp -a src-molten-glass/* output/sumac-molten-glass-plasma-doncsugar
+cp -a sumac-molten-glass-plasma-doncsugar/* output/sumac-molten-glass-plasma-doncsugar
+
 echo "Done"
