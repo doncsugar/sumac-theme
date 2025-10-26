@@ -5,10 +5,15 @@ enabled=true
 #intensity=1.2
 #saturation=1.4
 
-#light
+#light alpha
+#contrast=0.6
+#intensity=1.2
+#saturation=1.9
+
+#light beta
 contrast=0.6
-intensity=1.2
-saturation=1.9
+intensity=1.25
+saturation=2.1
 
 [AdaptiveTransparency]
 enabled=true
