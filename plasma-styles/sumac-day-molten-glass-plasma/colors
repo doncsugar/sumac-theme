@@ -132,7 +132,7 @@ ForegroundPositive=39,174,96
 
 [Colors:Window]
 BackgroundAlternate=228,228,228
-BackgroundNormal=208,208,208
+BackgroundNormal=246,246,246
 
 ForegroundInactive=0,0,0,128
 
