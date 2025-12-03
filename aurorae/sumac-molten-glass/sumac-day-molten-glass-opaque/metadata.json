@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "doncsugar"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "A MacOS style demo.",
+        "EnabledByDefault": true,
+        "Id": "sumac-day-molten-glass-blur",
+        "License": "GPLv3",
+        "Name": "Sumac Day Molten Glass Blur",
+        "Version": "0.1"
+    }
+}
