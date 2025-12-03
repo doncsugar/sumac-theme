@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="_sumac_krunner.svg"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:current-layer="search"
+     inkscape:window-maximized="1"
+     inkscape:window-y="768"
+     inkscape:window-x="0"
+     inkscape:cy="12.164061"
+     inkscape:cx="10.477954"
+     inkscape:zoom="49.818888"
+     showgrid="true"
+     id="namedview86"
+     inkscape:window-height="1008"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid862"
+       type="xygrid"
+       originx="0"
+       originy="0"
+       spacingy="0.125"
+       spacingx="0.125"
+       units="px"
+       visible="true"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      </style>
+  </defs>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="search"
+     transform="translate(-127,89)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <rect
+       id="rect1"
+       opacity="0"
+       ry="0"
+       height="22"
+       width="22"
+       y="-89"
+       x="127" />
+    <rect
+       style="opacity:0.003;fill:#000000;fill-opacity:1;stroke-width:0.818182"
+       id="rect4"
+       width="18"
+       height="18"
+       x="129"
+       y="-87" />
+    <path
+       id="rect2"
+       d="M 137 -86.0625 C 133.10576 -86.0625 129.9375 -82.894239 129.9375 -79 C 129.9375 -75.105761 133.10576 -71.9375 137 -71.9375 C 138.23686 -71.9375 139.39997 -72.257398 140.41211 -72.818359 L 143.86523 -69.365234 A 1.25 1.25 0 0 0 145.63477 -69.365234 A 1.25 1.25 0 0 0 145.63477 -71.134766 L 142.36133 -74.408203 C 143.42109 -75.643818 144.0625 -77.248357 144.0625 -79 C 144.0625 -82.894239 140.89424 -86.0625 137 -86.0625 z M 137 -83.9375 C 139.75375 -83.9375 141.9375 -81.753748 141.9375 -79 C 141.9375 -76.246252 139.75375 -74.0625 137 -74.0625 C 134.24625 -74.0625 132.0625 -76.246252 132.0625 -79 C 132.0625 -81.753748 134.24625 -83.9375 137 -83.9375 z " />
+  </g>
+  <g
+     id="g6"
+     transform="translate(-105,89)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <rect
+       id="rect3"
+       opacity="0"
+       ry="0"
+       height="22"
+       width="22"
+       y="-89"
+       x="127" />
+    <rect
+       style="opacity:0.003;fill:#000000;fill-opacity:1;stroke-width:0.818182"
+       id="rect5"
+       width="18"
+       height="18"
+       x="129"
+       y="-87" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.125;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="12"
+       height="12"
+       x="131"
+       y="-85"
+       rx="6"
+       ry="6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141.25,-73.75 3.5,3.5"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
