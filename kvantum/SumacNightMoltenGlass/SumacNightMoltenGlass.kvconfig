@@ -1,6 +1,6 @@
 [%General]
 author=doncsugar
-comment=A MacOS-style 11+ light demo theme aiming to match closely.
+comment=A MacOS-style 11+ dark demo theme aiming to match closely.
 
 
 menu_blur_radius=5
@@ -77,7 +77,7 @@ intensity=1.00
 saturation=1.00
 
 translucent_windows=true
-reduce_window_opacity=10
+reduce_window_opacity=0
 reduce_menu_opacity=0
 popup_blurring=true
 shadowless_popup=false
@@ -139,7 +139,7 @@ remove_extra_frames=false
 
 
 THIS IS TRUE UNDER DARK
-dark_titlebar=false
+dark_titlebar=true
 click_behavior=0
 drag_from_buttons=false
 hide_combo_checkboxes=false
@@ -149,52 +149,41 @@ vertical_spin_indicators=false
 
 
 [GeneralColors]
+window.color=#1e1e1ee5
+inactive.window.color=#1e1e1ee5
 
+base.color=#191919
+inactive.base.color=#191919
+alt.base.color=#ffffff0d
+inactive.alt.base.color=#ffffff0d
 
+button.color=#565656
+light.color=#787878
+dark.color=#101010
 
-window.color=#f9f9f9e5
-inactive.window.color=#f9f9f9e5
-
-base.color=#ffffff
-inactive.base.color=#ffffff
-alt.base.color=#0000000d
-inactive.alt.base.color=#0000000d
-
-button.color=#ffffff
-light.color=#fdfdfd
-dark.color=#aaaaaa
-
-mid.light.color=#fafafa
-mid.color=#e6e6e6
+mid.light.color=#4b4b4b
+mid.color=#343434
 
 shadow.color=#000000
 
-highlight.color=#3484e2
-inactive.highlight.color=#00000032
-highlight.text.color=#242424
+highlight.color=#3484e280
+inactive.highlight.color=#ffffff35
+highlight.text.color=#fcfcfc
 inactive.highlight.text.color=#343434
 
-text.color=#252525
-inactive.text.color=#252525
-window.text.color=#252525
-inactive.window.text.color=#252525
-button.text.color=#252525
-disabled.text.color=#25252574
+text.color=#fcfcfc
+inactive.text.color=#fcfcfc
+window.text.color=#fcfcfc
+inactive.window.text.color=#fcfcfc
+button.text.color=#fcfcfc
+disabled.text.color=#fcfcfc74
 
-tooltip.base.color=#e8e8e8
-tooltip.text.color=#252525
+tooltip.base.color=#363636
+tooltip.text.color=#fcfcfc
 
 link.color=#276ad3
 link.visited.color=#9b59b6
 progress.indicator.text.color=#ffffff
-
-
-
-
-
-highlight.text.color=white
-inactive.highlight.text.color=#252525
-
 
 [Hacks]
 transparent_ktitle_label=true
@@ -251,12 +240,12 @@ interior.element=button
 indicator.size=10
 indicator.element=toolarrow
 
-text.normal.color=#252525
-text.focus.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
 text.press.color=#ffffff
 text.toggle.color=#ffffff
-text.normal.inactive.color=#252525
-text.toggle.inactive.color=#252525
+text.normal.inactive.color=#fcfcfc
+text.toggle.inactive.color=#fcfcfc
 
 text.bold=false
 text.boldness=3
@@ -291,19 +280,19 @@ frame.expanded.left=8
 frame.expanded.right=8
 frame.expansion=16
 
-text.normal.color=#252525
-text.focus.color=#252525
-text.press.color=#252525
-text.toggle.color=#252525
-text.normal.inactive.color=#252525
-text.toggle.inactive.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
+text.press.color=#fcfcfc
+text.toggle.color=#fcfcfc
+text.normal.inactive.color=#fcfcfc
+text.toggle.inactive.color=#fcfcfc
 text.margin.top=3
 text.margin.bottom=3
 text.margin.left=7
 text.margin.right=7
 text.iconspacing=4
 
-indicator.element=realtoolarrow
+indicator.element=toolarrow
 indicator.size=9
 
 
@@ -318,10 +307,10 @@ interior.element=tbutton
 inherits=PanelButtonCommand
 frame=false
 interior.element=radio
-text.normal.color=#252525
-text.focus.color=#252525
-text.press.color=#252525
-text.toggle.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
+text.press.color=#fcfcfc
+text.toggle.color=#fcfcfc
 
 
 [CheckBox]
@@ -329,10 +318,10 @@ inherits=PanelButtonCommand
 frame=false
 interior.element=checkbox
 
-text.normal.color=#252525
-text.focus.color=#252525
-text.press.color=#252525
-text.toggle.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
+text.press.color=#fcfcfc
+text.toggle.color=#fcfcfc
 
 
 [ComboBox]
@@ -358,7 +347,7 @@ frame.expansion=16
 inherits=ComboBox
 frame.element=tbc
 interior.element=tbc
-#text.normal.inactive.color=#9b9b9b
+
 
 
 [DropDownButton]
@@ -398,13 +387,14 @@ interior.element=tle
 
 
 
+
 [IndicatorSpinBox]
 inherits=PanelButtonCommand
 indicator.element=math
 frame.element=spinbox
 interior.element=spinbox
-indicator.size=18
-text.normal.color=#252525
+indicator.size=16
+text.normal.color=#fcfcfc
 
 
 
@@ -432,8 +422,8 @@ frame.left=3
 frame.right=3
 interior.element=progress
 text.margin=0
-text.normal.color=#252525
-text.focus.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
 text.press.color=#ffffff
 text.toggle.color=#ffffff
 
@@ -484,8 +474,8 @@ interior=false
 
 indicator.size=16
 
-text.normal.color=#252525
-text.focus.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
 
 text.bold=false
 text.margin.left=2
@@ -503,12 +493,12 @@ indicator.size=10
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#252525
-text.focus.color=#252525
-text.press.color=#252525
-text.toggle.color=#252525
-text.normal.inactive.color=#252525
-text.toggle.inactive.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
+text.press.color=#fcfcfc
+text.toggle.color=#fcfcfc
+text.normal.inactive.color=#fcfcfc
+text.toggle.inactive.color=#fcfcfc
 text.boldness=2
 
 [Tab]
@@ -527,11 +517,11 @@ text.margin.left=7
 text.margin.right=7
 text.margin.top=4
 text.margin.bottom=4
-text.normal.color=#252525
-text.focus.color=#252525
-text.press.color=#252525
-text.toggle.color=#252525
-text.toggle.inactive.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
+text.press.color=#fcfcfc
+text.toggle.color=#fcfcfc
+text.toggle.inactive.color=#fcfcfc
 frame.expansion=30
 indicator.size=16
 text.boldness=2
@@ -583,11 +573,11 @@ frame.bottom=1
 frame.left=1
 frame.right=1
 
-text.normal.color=#252525
-text.focus.color=#252525
-text.press.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
+text.press.color=#fcfcfc
 text.toggle.color=#ffffff
-text.toggle.inactive.color=#252525
+text.toggle.inactive.color=#fcfcfc
 
 text.margin.top=4
 text.margin.bottom=4
@@ -606,9 +596,9 @@ text.margin=0
 interior.element=menubar
 frame.element=menubar
 
-text.normal.color=#252525
-text.focus.color=#252525
-text.normal.inactive.color=#2525255A
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
+text.normal.inactive.color=#9b9b9b
 
 frame.left=4
 frame.right=4
@@ -634,10 +624,10 @@ text.margin.bottom=3
 text.margin.left=3
 text.margin.right=3
 
-text.normal.color=#252525
-text.focus.color=#252525
+text.normal.color=#fcfcfc
+text.focus.color=#fcfcfc
 text.press.color=#ffffff
-text.toggle.color=#ffffff
+text.toggle.color=#fcfcfc
 
 
 
@@ -701,7 +691,7 @@ text.margin.right=9
 text.margin.top=2
 text.margin.bottom=2
 
-text.normal.color=#252525
+text.normal.color=#fcfcfc
 text.focus.color=#ffffff
 text.normal.inactive.color=#9b9b9b
 
@@ -714,7 +704,7 @@ interior.element=titlebar
 indicator.size=16
 indicator.element=mdi
 text.normal.color=#9b9b9b
-text.focus.color=#252525
+text.focus.color=#fcfcfc
 text.bold=true
 text.italic=false
 text.shadow=true
@@ -730,7 +720,7 @@ frame.left=5
 frame.right=5
 frame.element=menu
 interior.element=menu
-text.normal.color=#252525
+text.normal.color=#fcfcfc
 
 [MenuItem]
 inherits=PanelButtonCommand
@@ -756,7 +746,8 @@ text.margin.bottom=0
 text.margin.left=3
 text.margin.right=3
 
-text.normal.color=#252525
+highlight.text.color=#ffffff
+text.normal.color=#fcfcfc
 text.focus.color=#ffffff
 text.shadow=false
 
@@ -772,11 +763,11 @@ frame.left=6
 frame.right=6
 frame.expansion=0
 
-text.normal.color=#252525
-text.press.color=#252525
-text.focus.color=#252525
-text.normal.inactive.color=#252525
-text.toggle.inactive.color=#252525
+text.normal.color=#fcfcfc
+text.press.color=#fcfcfc
+text.focus.color=#fcfcfc
+text.normal.inactive.color=#fcfcfc
+text.toggle.inactive.color=#fcfcfc
 text.bold=true
 text.boldness=2
 
