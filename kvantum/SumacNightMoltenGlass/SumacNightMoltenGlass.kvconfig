@@ -77,7 +77,7 @@ intensity=1.00
 saturation=1.00
 
 translucent_windows=true
-reduce_window_opacity=0
+reduce_window_opacity=10
 reduce_menu_opacity=0
 popup_blurring=true
 shadowless_popup=false
@@ -149,8 +149,8 @@ vertical_spin_indicators=false
 
 
 [GeneralColors]
-window.color=#1e1e1ee5
-inactive.window.color=#1e1e1ee5
+window.color=#1e1e1e
+inactive.window.color=#1e1e1e
 
 base.color=#191919
 inactive.base.color=#191919

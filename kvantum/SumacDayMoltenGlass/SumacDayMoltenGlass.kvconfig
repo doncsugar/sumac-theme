@@ -152,8 +152,8 @@ vertical_spin_indicators=false
 
 
 
-window.color=#f9f9f9e5
-inactive.window.color=#f9f9f9e5
+window.color=#f9f9f9
+inactive.window.color=#f9f9f9
 
 base.color=#ffffff
 inactive.base.color=#ffffff
