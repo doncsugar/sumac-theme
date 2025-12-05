@@ -5,7 +5,7 @@
    inkscape:export-filename="/home/diau/svn/playground-plasma/desktoptheme/air/widgets/background.png"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docname="decoration.svg"
+   sodipodi:docname="decoration2.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:version="0.32"
    id="svg3642"
@@ -49,10 +49,10 @@
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="true"
-     inkscape:current-layer="corner-bevel"
-     inkscape:cy="-32.301923"
-     inkscape:cx="-201.26135"
-     inkscape:zoom="17.18164"
+     inkscape:current-layer="corner-bevel-long-3"
+     inkscape:cy="-22.611346"
+     inkscape:cx="-225.79335"
+     inkscape:zoom="34.36328"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -1755,7 +1755,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -2623,16 +2622,21 @@
            id="path3"
            class="ColorScheme-Background" />
         <path
-           sodipodi:nodetypes="cccccc"
-           d="m 31.000071,884.36219 h 0.99992 l 10e-6,19 -18.99999,-2e-5 10e-6,-0.99992 c 0,-11.25003 6.75002,-18.00004 18.00005,-18.00006 z"
-           style="color:#eff0f1;fill:#000000;fill-opacity:1;stop-color:#000000"
            id="path2"
+           style="color:#eff0f1;fill:#000000;fill-opacity:1;stop-color:#000000"
+           class="ColorScheme-Background"
+           d="M 30.999965 884.3622 C 19.749935 884.36222 12.999965 891.11217 12.999965 902.3622 L 12.999965 903.3622 L 13.999965 903.3622 L 13.999965 902.3622 C 13.999965 891.73718 20.374941 885.36222 30.999965 885.3622 L 31.999965 885.3622 L 31.999965 884.3622 L 30.999965 884.3622 z " />
+        <path
+           sodipodi:nodetypes="cccccc"
+           d="m 31.000078,886.36218 0.999922,1e-5 7e-6,17.00001 -16.999996,-2e-5 0,-0.99992 c 0,-10.00004 6.000025,-16.00006 16.000067,-16.00008 z"
+           style="color:#eff0f1;opacity:1;fill:#1e1e1e;fill-opacity:1;stop-color:#000000"
+           id="path1802-7-6-8-1"
            class="ColorScheme-Background" />
         <path
            sodipodi:nodetypes="cccccc"
-           d="m 31.000078,885.36219 0.999922,2e-5 7e-6,17.99999 -17.999977,-2e-5 -1.3e-5,-0.99992 c 0,-10.62504 6.375023,-17.00005 17.000061,-17.00007 z"
-           style="color:#eff0f1;opacity:1;fill:#1e1e1e;fill-opacity:1;stop-color:#000000"
-           id="path1802-7-6-8-1"
+           d="M 31.000078,885.3622 H 32 l 7e-6,18 -17.999986,-2e-5 1.1e-5,-0.99992 c 0,-10.62503 6.375017,-17.00004 17.000046,-17.00006 z"
+           style="color:#eff0f1;opacity:0.75;fill:#1e1e1e;fill-opacity:1;stop-color:#000000"
+           id="path4"
            class="ColorScheme-Background" />
         <path
            sodipodi:nodetypes="cccccc"
@@ -2685,18 +2689,26 @@
         <rect
            y="906.94556"
            x="36.000011"
-           height="17.416647"
-           width="5.999989"
+           height="0.91664457"
+           width="5.9999995"
            id="rect4"
            style="color:#eff0f1;fill:#000000;fill-opacity:1;stroke-width:1;stop-color:#000000"
            class="ColorScheme-Background" />
         <rect
-           y="907.86218"
-           x="36"
-           height="16.5"
-           width="6"
+           y="908.77887"
+           x="36.000011"
+           height="15.583315"
+           width="5.999989"
            id="rect7-9-4-9"
            style="color:#eff0f1;opacity:1;fill:#1e1e1e;fill-opacity:1;stop-color:#000000"
+           class="ColorScheme-Background" />
+        <rect
+           y="907.86218"
+           x="36.000011"
+           height="16.499981"
+           width="5.999989"
+           id="rect7"
+           style="color:#eff0f1;opacity:0.75;fill:#1e1e1e;fill-opacity:1;stop-color:#000000"
            class="ColorScheme-Background" />
         <rect
            y="909.23718"
