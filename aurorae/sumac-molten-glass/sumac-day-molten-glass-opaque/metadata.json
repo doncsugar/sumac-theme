@@ -11,9 +11,9 @@
         ],
         "Description": "A MacOS style demo.",
         "EnabledByDefault": true,
-        "Id": "sumac-day-molten-glass-blur",
+        "Id": "sumac-day-molten-glass-opaque",
         "License": "GPLv3",
-        "Name": "Sumac Day Molten Glass Blur",
+        "Name": "Sumac Day Molten Glass Opaque",
         "Version": "0.1"
     }
 }
