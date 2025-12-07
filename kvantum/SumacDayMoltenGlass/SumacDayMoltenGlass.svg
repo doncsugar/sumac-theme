@@ -21,9 +21,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="-10.5"
-     inkscape:cy="250.625"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="3.5355339"
+     inkscape:cy="123.03658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -158,11 +158,6 @@
        orientation="1,0"
        position="148,1000"
        id="guide4204"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="164,1000"
-       id="guide4208"
        inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
@@ -1548,6 +1543,132 @@
        x2="-34"
        y2="1038.3622"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26"
+       id="radialGradient15"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1.5,-1.5,0,123.3842,366.70307)"
+       cx="-126.22727"
+       cy="167.58946"
+       fx="-126.22727"
+       fy="167.58946"
+       r="8" />
+    <linearGradient
+       id="linearGradient26"
+       inkscape:label="glass-corner-start">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop31" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5;"
+         offset="1"
+         id="stop32" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient53"
+       id="linearGradient80"
+       x1="10"
+       y1="883.36218"
+       x2="14"
+       y2="883.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.83333333,0,0,0.99999999,-150.83333,-711.49998)" />
+    <linearGradient
+       id="linearGradient53"
+       inkscape:collect="always"
+       inkscape:label="gloss-middle-fading">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.89999998;"
+         offset="0"
+         id="stop52-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.64999998;"
+         offset="1"
+         id="stop53-6" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient8"
+       cx="-9.7593918"
+       cy="882.36218"
+       fx="-9.7593918"
+       fy="882.36218"
+       r="9.0000038"
+       gradientTransform="matrix(0,1.9946498,-1.9946524,0,1598.5059,190.32876)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.89999998;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27"
+       id="linearGradient15"
+       gradientUnits="userSpaceOnUse"
+       x1="171.36218"
+       y1="111"
+       x2="171.36218"
+       y2="106"
+       gradientTransform="translate(2.0000057,4)" />
+    <linearGradient
+       id="linearGradient27"
+       inkscape:collect="always"
+       inkscape:label="glass-side">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5;"
+         offset="0"
+         id="stop28" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5;"
+         offset="1"
+         id="stop29" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26-1"
+       id="radialGradient31"
+       cx="-87.227272"
+       cy="167.58946"
+       fx="-87.227272"
+       fy="167.58946"
+       r="8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5000001,0,0,-1.5000001,-227.84092,428.74639)" />
+    <linearGradient
+       id="linearGradient26-1"
+       inkscape:label="glass-corner-end">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.1;"
+         offset="0"
+         id="stop26" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5;"
+         offset="1"
+         id="stop27" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26-1"
+       id="radialGradient31-1"
+       cx="-87.227272"
+       cy="167.58946"
+       fx="-87.227272"
+       fy="167.58946"
+       r="8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5000001,0,0,-1.5000001,-197.84092,428.74639)" />
   </defs>
   <metadata
      id="metadata7">
@@ -1575,7 +1696,7 @@
        y="-5"
        transform="translate(0,52.362183)" />
     <rect
-       style="opacity:0.003;fill:#000000;fill-opacity:0.58510623"
+       style="opacity:0.001;fill:#ff0303;fill-opacity:1"
        id="basePlate"
        width="3"
        height="3"
@@ -3201,6 +3322,16 @@
        style="fill-opacity:1;stroke:none"
        d="m -42,146.36218 0,8 5,0 0,-8 z" />
     <path
+       sodipodi:nodetypes="ccccc"
+       id="path11321-2"
+       style="fill-opacity:1;stroke:none;stroke-width:1.5"
+       d="m -40,171.36218 v 18 h 5 v -18 z" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path11321-2-0"
+       style="fill-opacity:1;stroke:none;stroke-width:0.79057"
+       d="m -40,190.36218 v 5 h 5 v -5 z" />
+    <path
        d="m -42,161.36218 0,8 5,0 0,-8 z"
        style="fill-opacity:1;stroke:none"
        id="path11323"
@@ -3292,249 +3423,6 @@
        xlink:href="#g11311"
        id="use11381"
        transform="matrix(-1,0,0,1,-39,0)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11315"
-       id="tbutton-focused-left"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11311"
-       id="tbutton-focused-topleft"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#use11319"
-       id="tbutton-focused-bottomleft"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11373"
-       id="tbutton-focused-top"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11363"
-       id="tbutton-focused"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11369"
-       id="tbutton-focused-bottom"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#use11377"
-       id="tbutton-focused-bottomright"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#use11379"
-       id="tbutton-focused-right"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#use11381"
-       id="tbutton-focused-topright"
-       transform="translate(38,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed-left"
-       xlink:href="#g11315"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed-topleft"
-       xlink:href="#g11311"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed-bottomleft"
-       xlink:href="#use11319"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed-top"
-       xlink:href="#g11373"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed"
-       xlink:href="#g11363"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed-bottom"
-       xlink:href="#g11369"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed-bottomright"
-       xlink:href="#use11377"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed-right"
-       xlink:href="#use11379"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.15"
-       height="1000"
-       width="37"
-       transform="translate(75,31)"
-       id="tbutton-pressed-topright"
-       xlink:href="#use11381"
-       y="0"
-       x="0" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11315"
-       id="tbutton-toggled-left"
-       transform="translate(112,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11311"
-       id="tbutton-toggled-topleft"
-       transform="translate(112,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#use11319"
-       id="tbutton-toggled-bottomleft"
-       transform="translate(112,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11373"
-       id="tbutton-toggled-top"
-       transform="translate(112,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11363"
-       id="tbutton-toggled"
-       transform="translate(112,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#g11369"
-       id="tbutton-toggled-bottom"
-       transform="translate(112,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#use11377"
-       id="tbutton-toggled-bottomright"
-       transform="translate(112,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#use11379"
-       id="tbutton-toggled-right"
-       transform="translate(112,31)"
-       width="37"
-       height="1000" />
-    <use
-       style="opacity:0.08"
-       x="0"
-       y="0"
-       xlink:href="#use11381"
-       id="tbutton-toggled-topright"
-       transform="translate(112,31)"
        width="37"
        height="1000" />
     <path
@@ -4486,7 +4374,7 @@
     <path
        d="m -35,297.36218 v 5 h 5 v -5 z"
        id="path20358"
-       style="fill-rule:evenodd;stroke-width:0.15625;opacity:0.001"
+       style="fill-rule:evenodd;stroke-width:0.15625;opacity:0.001;fill:#e8e8e8;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <use
        style="fill-opacity:1"
@@ -14463,5 +14351,582 @@
        height="18.047396"
        x="-35.773697"
        y="295.58847" />
+    <path
+       id="path13"
+       style="fill:url(#radialGradient15);fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
+       d="m -116,171.36215 c -9.97198,0 -18,8.02806 -18,18 h 1 c 0,-9.41794 7.58202,-16.99997 17,-16.99997 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path13-8"
+       style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
+       d="m -117,189.36218 c -10.52596,0 -18.99997,8.47405 -18.99997,18.99997 H -135 c 0,-9.97194 8.02802,-17.99997 18,-17.99997 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path15"
+       style="opacity:1;fill-opacity:1;stroke-width:2.64706;stroke-linecap:round;stroke-linejoin:round"
+       d="m -41,171.36218 c -9.971988,0 -18,8.02806 -18,18 h 18 z"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:0.2;fill:url(#linearGradient80);fill-opacity:1;stroke-width:0.166669"
+       id="rect1411"
+       width="5"
+       height="1.5"
+       x="-142.5"
+       y="170.86218" />
+    <path
+       id="path32-8"
+       style="opacity:0.2;fill:url(#radialGradient8);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.07;paint-order:stroke fill markers"
+       d="m -144.5,170.86218 c -10.625,2e-5 -17,6.375 -17,17 l -1e-5,1.00003 1.50001,-2e-5 1e-5,-1.00001 c 0,-9.68757 5.81242,-15.49997 15.49999,-15.49999 h 0.97577 l 0.0242,-1.49999 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="fill:url(#linearGradient15);fill-opacity:1;stroke-width:0.279507;stroke-linecap:round;stroke-linejoin:round"
+       id="rect15"
+       width="1"
+       height="4.9999995"
+       x="171.36218"
+       y="110"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:0.279507;stroke-linecap:round;stroke-linejoin:round"
+       id="rect15-6"
+       width="1"
+       height="4.9999995"
+       x="189.36218"
+       y="110"
+       transform="rotate(90)" />
+    <path
+       id="path26"
+       style="fill:url(#radialGradient31);fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
+       d="m -109,171.36218 c 9.971979,0 18,8.02804 18,18 h -1 c 0,-9.41795 -7.582022,-17 -17,-17 z"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g3">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#transparentBase"
+         id="use1"
+         transform="matrix(6.3333312,0,0,6.3333312,-5.6666718,-137.93154)"
+         width="48"
+         height="1000" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path15"
+         id="use2"
+         transform="translate(29,-2)"
+         style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path13"
+         id="use3"
+         transform="translate(104,-2)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path13-8"
+         id="use23"
+         transform="translate(105,-20.999997)" />
+    </g>
+    <g
+       id="g6">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#transparentBase"
+         id="use4"
+         transform="matrix(1.666666,0,0,6.3333312,-4.333334,-137.93154)"
+         width="48"
+         height="1000" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path11321-2"
+         id="use5"
+         transform="translate(29,-2)"
+         style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect15"
+         id="use6"
+         transform="translate(104,-2)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect15-6"
+         id="use24"
+         transform="translate(104,-21)" />
+    </g>
+    <g
+       id="g8">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#transparentBase"
+         id="use7"
+         transform="matrix(1.6666678,0,0,1.6666678,-4.3333289,107.75849)"
+         width="48"
+         height="1000" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path11321-2-0"
+         id="use8"
+         transform="translate(29,-2)"
+         style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+    </g>
+    <g
+       id="g11"
+       transform="matrix(1,0,0,-1,0,375.72433)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#transparentBase"
+         id="use9"
+         transform="matrix(6.3333323,0,0,6.3333323,-5.6666707,-137.9316)"
+         width="48"
+         height="1000" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path15"
+         id="use10"
+         transform="translate(29,-2)"
+         style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path26"
+         id="use12"
+         transform="matrix(-1,0,0,1,-121,-2.00003)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path13-8"
+         id="use23-9"
+         transform="matrix(0,1,1,0,-220.36215,304.36215)" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3"
+       id="tbutton-focused-topleft"
+       transform="translate(65.000002,-1.999997)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6"
+       id="tbutton-focused-top"
+       transform="translate(64,-1.9999951)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g11"
+       id="tbutton-focused-bottomleft"
+       transform="translate(65.000002,2)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g11"
+       id="tbutton-focused-topright"
+       transform="rotate(180,23.000001,186.86216)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3"
+       id="tbutton-focused-bottomright"
+       transform="rotate(180,23.000001,188.86218)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6"
+       id="tbutton-focused-left"
+       transform="rotate(-90,22.500004,156.86218)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3"
+       id="tbutton-normal-topleft"
+       transform="translate(28.000002,-1.999997)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6"
+       id="tbutton-normal-top"
+       transform="translate(27,-1.9999951)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g11"
+       id="tbutton-normal-bottomleft"
+       transform="translate(28.000002,2)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g11"
+       id="tbutton-normal-topright"
+       transform="rotate(180,4.500001,186.86216)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3"
+       id="tbutton-normal-bottomright"
+       transform="rotate(180,4.500001,188.86218)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6"
+       id="tbutton-normal-left"
+       transform="rotate(-90,4.000004,175.36218)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6"
+       id="tbutton-normal-bottom"
+       transform="rotate(180,5,188.86218)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6"
+       id="tbutton-normal-right"
+       transform="rotate(90,5.9999985,202.36218)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g8"
+       id="tbutton-normal"
+       transform="translate(27,-3)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6"
+       id="tbutton-focused-right"
+       transform="rotate(90,24.499998,220.86218)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6"
+       id="tbutton-focused-bottom"
+       transform="rotate(180,23.5,188.86218)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g8"
+       id="tbutton-focused"
+       transform="translate(64,-3)" />
+    <g
+       id="tbutton-pressed-topleft">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3"
+         id="use51"
+         transform="translate(102,-1.999997)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path42"
+         id="use42"
+         transform="translate(158,-13.999997)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <g
+       id="tbutton-pressed-top">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use52"
+         transform="translate(101,-1.9999951)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path40"
+         id="use45"
+         transform="translate(157,-13.999997)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <g
+       id="tbutton-pressed-bottomleft">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g11"
+         id="use55"
+         transform="translate(102,2)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path42"
+         id="use42-8"
+         transform="rotate(-90,6.500002,115.86218)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <g
+       id="tbutton-pressed-topright">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g11"
+         id="use53"
+         transform="rotate(180,41.500001,186.86216)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path42"
+         id="use42-4"
+         transform="rotate(90,20.499998,273.86218)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <g
+       id="tbutton-pressed-bottomright">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3"
+         id="use57"
+         transform="rotate(180,41.500001,188.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path42"
+         id="use42-5"
+         transform="rotate(180,13.5,194.86218)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <g
+       id="tbutton-pressed-left">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use54"
+         transform="rotate(-90,41.000004,138.36218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path40"
+         id="use45-3"
+         transform="rotate(-90,7.0000015,116.36218)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <g
+       id="tbutton-pressed-right">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use58"
+         transform="rotate(90,42.999998,239.36218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path40"
+         id="use45-6"
+         transform="rotate(90,20.999999,273.36218)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <g
+       id="tbutton-pressed-bottom">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use56"
+         transform="rotate(180,42,188.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path40"
+         id="use45-0"
+         transform="rotate(180,14,194.86218)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <g
+       id="tbutton-pressed">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8"
+         id="use50"
+         transform="translate(101,-3)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path41"
+         id="use49"
+         transform="translate(157,-15)"
+         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path40"
+       style="fill-opacity:1;stroke:none;stroke-width:1.32288"
+       d="m -67,185.36218 v 14 h 5 v -14 z" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path41"
+       style="fill-opacity:1;stroke:none;stroke-width:0.79057"
+       d="m -67,200.36218 v 5 h 5 v -5 z" />
+    <path
+       id="path42"
+       style="opacity:1;fill-opacity:1;stroke-width:2.64706;stroke-linecap:round;stroke-linejoin:round"
+       d="m -68,185.36218 c -7.755991,0 -14,6.24405 -14,14 l 14,0 z"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="tbutton-toggled-topleft"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3"
+         id="use59"
+         transform="translate(102,-1.999997)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path42"
+         id="use60"
+         transform="translate(158,-13.999997)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
+    <g
+       id="tbutton-toggled-top"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use61"
+         transform="translate(101,-1.9999951)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path40"
+         id="use62"
+         transform="translate(157,-13.999997)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
+    <g
+       id="tbutton-toggled-bottomleft"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g11"
+         id="use63"
+         transform="translate(102,2)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path42"
+         id="use64"
+         transform="rotate(-90,6.500002,115.86218)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
+    <g
+       id="tbutton-toggled-topright"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g11"
+         id="use65"
+         transform="rotate(180,41.500001,186.86216)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path42"
+         id="use66"
+         transform="rotate(90,20.499998,273.86218)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
+    <g
+       id="tbutton-toggled-bottomright"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3"
+         id="use67"
+         transform="rotate(180,41.500001,188.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path42"
+         id="use68"
+         transform="rotate(180,13.5,194.86218)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
+    <g
+       id="tbutton-toggled-left"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use69"
+         transform="rotate(-90,41.000004,138.36218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path40"
+         id="use70"
+         transform="rotate(-90,7.0000015,116.36218)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
+    <g
+       id="tbutton-toggled-right"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use71"
+         transform="rotate(90,42.999998,239.36218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path40"
+         id="use72"
+         transform="rotate(90,20.999999,273.36218)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
+    <g
+       id="tbutton-toggled-bottom"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use73"
+         transform="rotate(180,42,188.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path40"
+         id="use74"
+         transform="rotate(180,14,194.86218)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
+    <g
+       id="tbutton-toggled"
+       transform="translate(37)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8"
+         id="use75"
+         transform="translate(101,-3)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path41"
+         id="use76"
+         transform="translate(157,-15)"
+         style="fill:#1d81fe;fill-opacity:1" />
+    </g>
   </g>
 </svg>
