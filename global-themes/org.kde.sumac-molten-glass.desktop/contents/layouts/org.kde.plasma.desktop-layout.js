@@ -6,17 +6,18 @@ var allDesktops = desktops()
 var resolution = screenGeometry(allDesktops)
 var max_desktop_width = resolution.width
 
+// this value is multiplied by all spacing pixel values
+var pixel_scale_ratio = 1
+
 menubar = new Panel
 menubar.hiding = "none"
 menubar.location = "top"
-//menubar.height = 2 * Math.floor(gridUnit * 1.3 / 2)
-//import org.kde.plasma.core 2.0 as PlasmaCore
-//menubar.height = Math.floor(30 * PlasmaCore.Units.devicePixelRatio)
 menubar.height = Math.floor(30)
 menubar.maximumLength = max_desktop_width
 menubar.minimumLength = max_desktop_width
 menubar.offset = 0
 menubar.floating = 0
+//TODO add flag for only floating applets once it becomes available
 
 //PRO only
 // window_buttons = menubar.addWidget("org.kde.activeWindowControl")
@@ -43,7 +44,6 @@ startmenu = menubar.addWidget("org.latgardi.darwinmenu")
     startmenu.currentConfigGroup = ["General"]
     // true looks more consistent, but window title has too much left padding
     startmenu.writeConfig("useRectangleButtonShape", false)
-    // TODO replace with outline icon and package with icon set
     startmenu.writeConfig("icon", "start-here-kde-symbolic")
     startmenu.writeConfig("iconSizePercent", 70)
 
@@ -54,8 +54,8 @@ startmenu = menubar.addWidget("org.latgardi.darwinmenu")
 window_title = menubar.addWidget("org.kde.windowtitle")
     window_title.currentConfigGroup = ["General"]
     window_title.writeConfig("containmentType", "Plasma")
-    window_title.writeConfig("lengthFirstMargin", 2)
-    window_title.writeConfig("lengthLastMargin", 1)
+    window_title.writeConfig("lengthFirstMargin", 1 * pixel_scale_ratio)
+    window_title.writeConfig("lengthLastMargin", 5 * pixel_scale_ratio)
     window_title.writeConfig("lengthMarginsLock", false)
     window_title.writeConfig("showIcon", false)
 
@@ -72,10 +72,7 @@ menubar.addWidget("org.kde.plasma.pager")
 pager_spacer = menubar.addWidget("org.kde.latte.spacer")
     pager_spacer.currentConfigGroup = ["General"]
     pager_spacer.writeConfig("containmentType", "Plasma")
-//TODO this value should be tied to the spacing produced by with system tray spacing, of which is derived from an integer multiplied by Kirigami.Units.smallSpacing
-    pager_spacer.writeConfig("lengthPixels", 12)
-
-//TODO add spacer
+    pager_spacer.writeConfig("lengthPixels", 10 * pixel_scale_ratio)
 
 krunner = menubar.addWidget("com.github.configurable_button")
     krunner.currentConfigGroup = ["General"]
@@ -87,15 +84,12 @@ krunner = menubar.addWidget("com.github.configurable_button")
 
 system_tray = menubar.addWidget("org.kde.plasma.systemtray")
     system_tray.currentConfigGroup = ["General"]
-    //TODO derived from Kirigami.Units.smallSpacing times the integer
-    system_tray.writeConfig("iconSpacing",5)
+    system_tray.writeConfig("iconSpacing", 5 * pixel_scale_ratio)
 
-// consider standardizing the value used here
 tray_spacer = menubar.addWidget("org.kde.latte.spacer")
     tray_spacer.currentConfigGroup = ["General"]
     tray_spacer.writeConfig("containmentType", "Plasma")
-//TODO this value should be tied to the spacing produced by with system tray spacing, of which is derived from an integer multiplied by Kirigami.Units.smallSpacing
-    tray_spacer.writeConfig("lengthPixels", 4)
+    tray_spacer.writeConfig("lengthPixels", 4 * pixel_scale_ratio)
 
 common_toggles = menubar.addWidget("KdeControlStation")
     common_toggles.currentConfigGroup = ["Appearance"]
@@ -464,8 +458,7 @@ menubar.addWidget("org.kde.plasma.marginsseparator")
 toggles_spacer = menubar.addWidget("org.kde.latte.spacer")
     toggles_spacer.currentConfigGroup = ["General"]
     toggles_spacer.writeConfig("containmentType", "Plasma")
-    //TODO this value should be tied to the spacing produced by with system tray spacing, of which is derived from an integer multiplied by Kirigami.Units.smallSpacing
-    toggles_spacer.writeConfig("lengthPixels", 4)
+    toggles_spacer.writeConfig("lengthPixels", 4 * pixel_scale_ratio)
 
 clock = menubar.addWidget("org.kde.plasma.digitalclock")
     clock.currentConfigGroup = ["Appearance"]
@@ -476,7 +469,6 @@ clock = menubar.addWidget("org.kde.plasma.digitalclock")
     // Font family is not set here to inherit system
     clock.writeConfig("autoFontAndSize", false)
     clock.writeConfig("fontStyleName", "medium")
-    //TODO verify if this needs to be 400-500, where does 57 come from?
     clock.writeConfig("fontWeight", 400)
 
 
@@ -596,22 +588,22 @@ Object.values(stock_dock_apps).forEach((app) => {
 })
 
 dock_apps = dock.addWidget("org.kde.plasma.icontasks")
+    //TODO plasma style needs some space in the side assets so spacing has an effect
     //consider settings maxStripes to 1 for 5.25
     dock_apps.currentConfigGroup = ["General"]
     dock_apps.writeConfig("launchers", apps)
 
-// apps_spacer = menubar.addWidget("org.kde.latte.spacer")
-    // apps_spacer.currentConfigGroup = ["General"]
-    // apps_spacer.writeConfig("containmentType", "Plasma")
-    // apps_spacer.writeConfig("lengthPixels", "4")
+apps_spacer = menubar.addWidget("org.kde.latte.spacer")
+    apps_spacer.currentConfigGroup = ["General"]
+    apps_spacer.writeConfig("containmentType", "Plasma")
+    apps_spacer.writeConfig("lengthPixels", 1 * pixel_scale_ratio)
 
 dock_separator = dock.addWidget("org.kde.latte.separator")
 
 separator_spacer = dock.addWidget("org.kde.latte.spacer")
     separator_spacer.currentConfigGroup = ["General"]
     separator_spacer.writeConfig("containmentType", "Plasma")
-    //TODO this value should be tied to the spacing produced by with system tray spacing, of which is derived from an integer multiplied by Kirigami.Units.smallSpacing
-    separator_spacer.writeConfig("lengthPixels", 1)
+    separator_spacer.writeConfig("lengthPixels", 1 * pixel_scale_ratio)
 
 user_folder = dock.addWidget("org.kde.plasma.folder")
     // set sizing of window
@@ -619,7 +611,6 @@ user_folder = dock.addWidget("org.kde.plasma.folder")
     user_folder.writeConfig("popupWidth", 200)
 
     user_folder.currentConfigGroup = ("General")
-    //TODO confirm a nonsymbolic icon
     user_folder.writeConfig("useCustomIcon", true)
     user_folder.writeConfig("icon", "folder-downloads")
     user_folder.writeConfig("url", userDataPath("downloads"))
@@ -629,6 +620,10 @@ user_folder = dock.addWidget("org.kde.plasma.folder")
     user_folder.writeConfig("sortMode", 2)
     user_folder.writeConfig("toolTips", true)
 
+folder_spacer = dock.addWidget("org.kde.latte.spacer")
+    folder_spacer.currentConfigGroup = ["General"]
+    folder_spacer.writeConfig("containmentType", "Plasma")
+    folder_spacer.writeConfig("lengthPixels", 1 * pixel_scale_ratio)
 
 //TODO would be nice for there a way to set a custom icon now that it's forced symbolic
 dock.addWidget("org.kde.plasma.trash")
