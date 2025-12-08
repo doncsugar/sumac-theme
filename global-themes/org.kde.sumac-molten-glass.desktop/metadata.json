@@ -1,0 +1,70 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "KDE Visual Design Group and doncsugar",
+                "Name[x-test]": "xxKDE Visual Design Group and doncsugarxx"
+            }
+        ],
+        "Category": "",
+        "Description": "Sumac Molten Glass by the KDE VDG and doncsugar",
+        "Description[x-test]": "xxSumac Molten Glass by the KDE VDG and doncsugarxx",
+        "Id": "org.kde.sumac-molten-glass.desktop",
+        "License": "GPLv3+",
+        "Name": "Sumac Molten Glass Desktop",
+        "Name[x-test]": "xxSumac Molten Glass Desktopxx",
+        "Website": "https://www.kde.org"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "Keywords[x-test]": "xxDesktopxx;xxWorkspacexx;xxAppearancexx;xxLook and Feelxx;xxLogoutxx;xxLockxx;xxSuspendxx;xxShutdownxx;xxHibernatexx;",
+    "X-Plasma-APIVersion": "2",
+    "_theme_kpackage_comment_community_plasmoid": {
+        "1": "Tahoe Launcher by eliverlara (2325705)",
+        "2": "Window Title Applet by dhruv8sh version 0.5 (2129423)",
+        "3": "KDE Control Station by eliverlara (2196105)",
+        "4": "Darwin Menu and Force Quit by latgardi (2157390)",
+        "5PRO_ONLY, NEEEDS PORT": "Active Window Control (998910)"
+    },
+    "_theme_kpackage_comment_community_theme": {
+        "1": "MacTahoe-icon-theme by vinceliuice (2299216)",
+        "2": "MacTahoe-gtk-theme by vinceliuice (2299211) work with vince to guarantee download order (4, MacTahoe-Dark-solid.tar.xz)",
+        "3NEEDSUPDATE": "Apple Cursor (1408466) kns://xcursor.knsrc/api.kde-look.org/1408466?linkid=3",
+        "4PRO_ONLY": "MACsimize Kwin Script (1235050)",
+        "5bugreport": "Inter fonts (Needs to be updated) (1506176) kns://kfontinst.knsrc/api.kde-look.org/1506176"
+    },
+    "_theme_kpackage_comment_doncsugar_plasmoid": {
+        "1": "Configurable button (2139541)",
+        "2": "Latte Separator (2136852)",
+        "3": "Latte Spacer (2138907)"
+    },
+    "_theme_kpackage_comment_doncsugar_theme": {
+        "1": "Sumac Day Molten Glass (2321400)",
+        "2Unreleased": "Sumac Molten Glass Dark/Light Color Schemes()",
+        "3Unreleased": "Sumac Day/Night Molten Glass Icons ()",
+        "4Unreleased": "Sumac Day Molten Glass Aurorae ()",
+        "5Unreleased": "Sumac Day/Night Molten Glass Konsole Scheme ()",
+        "6Nonexistent": "Sumac Day/Night Molten Glass Wallpaper ()"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://plasmoids.knsrc/api.kde-look.org/2325705",
+        "kns://plasmoids.knsrc/api.kde-look.org/2129423?linkid=2",
+        "kns://plasmoids.knsrc/api.kde-look.org/2196105",
+        "kns://plasmoids.knsrc/api.kde-look.org/2157390",
+
+        "kns://icons.knsrc/api.kde-look.org/2299216",
+        "kns://gtk_themes.knsrc/api.kde-look.org/2299211?linkid=8",
+
+        "kns://plasmoids.knsrc/api.kde-look.org/2139541",
+        "kns://plasmoids.knsrc/api.kde-look.org/2136852",
+        "kns://plasmoids.knsrc/api.kde-look.org/2138907",
+
+        "kns://plasma-themes.knsrc/api.kde-look.org/2127676",
+        "kns://colorschemes.knsrc/api.kde-look.org/2105405",
+        "kns://icons.knsrc/api.kde-look.org/2128856",
+        "kns://aurorae.knsrc/api.kde-look.org/2105128",
+        "kns://konsole.knsrc/api.kde-look.org/2128994",
+        "kns://wallpaper.knsrc/api.kde-look.org/2130283"
+    ]
+}
