@@ -3,4 +3,5 @@ global-themes/output/*
 icon-packs/output/*
 plasma-styles/output/*
 wallpaper-themes/output/*
+konsole-themes/output/*
 *.zip
