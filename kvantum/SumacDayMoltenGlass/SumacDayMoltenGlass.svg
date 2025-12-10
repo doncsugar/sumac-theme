@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="60.312501"
-     inkscape:cy="137.1875"
+     inkscape:zoom="11.313708"
+     inkscape:cx="118.97072"
+     inkscape:cy="141.42136"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="tbutton-pressed-bottomright"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
@@ -14824,6 +14824,12 @@
          id="use42"
          transform="translate(164,-11)"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g138"
+         id="use179"
+         transform="translate(205,-22.999997)" />
     </g>
     <g
        id="tbutton-pressed-top">
@@ -14840,6 +14846,12 @@
          id="use45"
          transform="translate(163,-11)"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g137"
+         id="use180"
+         transform="translate(205,-23)" />
     </g>
     <g
        id="tbutton-pressed-bottomleft">
@@ -14856,6 +14868,12 @@
          id="use42-8"
          transform="rotate(-90,5.0000005,111.36218)"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use154"
+         id="use182"
+         transform="translate(74)" />
     </g>
     <g
        id="tbutton-pressed-topright">
@@ -14872,6 +14890,12 @@
          id="use42-4"
          transform="rotate(90,16,275.36218)"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g138"
+         id="use184"
+         transform="matrix(-1,0,0,1,-20,-22.999997)" />
     </g>
     <g
        id="tbutton-pressed-bottomright">
@@ -14888,6 +14912,12 @@
          id="use42-5"
          transform="rotate(180,10.5,193.36218)"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g140"
+         id="use186"
+         transform="matrix(-1,0,0,1,-19.99997,-22.999997)" />
     </g>
     <g
        id="tbutton-pressed-left">
@@ -14904,6 +14934,12 @@
          id="use45-3"
          transform="rotate(-90,5.5,111.86218)"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use153"
+         id="use181"
+         transform="translate(74)" />
     </g>
     <g
        id="tbutton-pressed-right">
@@ -14920,6 +14956,12 @@
          id="use45-6"
          transform="rotate(90,16.5,274.86218)"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use153-2"
+         id="use185"
+         transform="translate(73.999985,-3.0617187e-5)" />
     </g>
     <g
        id="tbutton-pressed-bottom">
@@ -14936,6 +14978,12 @@
          id="use45-0"
          transform="rotate(180,11,193.36218)"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use155"
+         id="use183"
+         transform="translate(74)" />
     </g>
     <g
        id="tbutton-pressed">
