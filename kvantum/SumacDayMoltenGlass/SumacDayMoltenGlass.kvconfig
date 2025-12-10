@@ -31,7 +31,7 @@ embedded_tabs=true
 joined_inactive_tabs=true
 mirror_doc_tabs=
 no_active_tab_separator=true
-active_tab_overlap=100
+active_tab_overlap=0
 no_inactive_tab_expansion=false
 tab_button_extra_margin=
 bold_active_tab=
@@ -563,11 +563,11 @@ frame=true
 frame.element=tabBarFrame
 interior.element=tabBarFrame
 
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
-
+frame.top=15
+frame.bottom=15
+frame.left=15
+frame.right=15
+frame.expansion=30
 
 
 [TreeExpander]
