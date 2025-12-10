@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="79.019184"
-     inkscape:cy="136.82516"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-3.1819805"
+     inkscape:cy="595.38391"
      inkscape:document-units="px"
-     inkscape:current-layer="tbutton-toggled-topright"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
@@ -1673,10 +1673,10 @@
        inkscape:collect="always"
        xlink:href="#linearShadow"
        id="linearGradient111"
-       x1="-80"
-       y1="693.36218"
-       x2="-80"
-       y2="658.36218"
+       x1="-79"
+       y1="658.36218"
+       x2="-79"
+       y2="693.36218"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-2,-14.999994)" />
     <linearGradient
@@ -1685,28 +1685,28 @@
        id="linearGradient112"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,-1,-2,1336.7244)"
-       x1="-81"
-       y1="658.36224"
-       x2="-81"
-       y2="693.36224" />
+       x1="-83"
+       y1="693.36224"
+       x2="-83"
+       y2="658.36224" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearShadow"
        id="linearGradient114"
-       x1="-84"
-       y1="678.36218"
-       x2="-84"
-       y2="643.36218"
+       x1="-83"
+       y1="643.36218"
+       x2="-83"
+       y2="678.36218"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearShadow"
        id="linearGradient116"
        gradientUnits="userSpaceOnUse"
-       x1="-90"
-       y1="660.86218"
-       x2="-55.000004"
-       y2="660.86218"
+       x1="-55.000004"
+       y1="662.36218"
+       x2="-90"
+       y2="662.36218"
        gradientTransform="rotate(-90,-72.499999,660.86218)" />
     <linearGradient
        inkscape:collect="always"
@@ -1714,10 +1714,10 @@
        id="linearGradient117"
        gradientUnits="userSpaceOnUse"
        gradientTransform="rotate(-90,-89.499998,643.86218)"
-       x1="-124"
-       y1="660.36218"
-       x2="-89"
-       y2="660.36218" />
+       x1="-89"
+       y1="661.36218"
+       x2="-124"
+       y2="661.36218" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearShadow"
@@ -14476,7 +14476,7 @@
          xlink:href="#path15"
          id="use2"
          transform="translate(62,12.999994)"
-         style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+         style="opacity:0.1;fill:#ffffff;fill-opacity:1" />
       <use
          x="0"
          y="0"
@@ -14500,7 +14500,7 @@
          xlink:href="#path11321-2"
          id="use5"
          transform="translate(62,12.999994)"
-         style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+         style="opacity:0.1;fill:#ffffff;fill-opacity:1" />
       <use
          x="0"
          y="0"
@@ -14524,7 +14524,7 @@
          xlink:href="#path11321-2-0"
          id="use8"
          transform="translate(62,12.999994)"
-         style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+         style="opacity:0.1;fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        id="g11"
@@ -14543,7 +14543,7 @@
          xlink:href="#path15"
          id="use10"
          transform="translate(62,12.999994)"
-         style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+         style="opacity:0.1;fill:#ffffff;fill-opacity:1" />
       <use
          x="0"
          y="0"
@@ -15258,21 +15258,21 @@
        xlink:href="#rect2"
        id="use30"
        transform="translate(31,28.000003)"
-       style="opacity:0.05;fill:#000000;fill-opacity:1" />
+       style="opacity:0.003;fill:#000000;fill-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#path19"
        id="use31"
        transform="translate(31,28.000003)"
-       style="opacity:0.05;fill:#000000;fill-opacity:1" />
+       style="opacity:0.003;fill:#000000;fill-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#path20"
        id="use32"
        transform="translate(31,28.000003)"
-       style="opacity:0.05;fill:#000000;fill-opacity:1" />
+       style="opacity:0.003;fill:#000000;fill-opacity:1" />
     <path
        id="path37"
        style="fill-opacity:1;opacity:0.1"
@@ -15498,25 +15498,25 @@
        transform="translate(290,5)" />
     <path
        id="path111"
-       style="fill:url(#linearGradient112);fill-opacity:1;stroke-width:1;opacity:0.4"
+       style="fill:url(#linearGradient112);fill-opacity:1;stroke-width:1;opacity:0.25"
        d="m -75,678.36218 c -8.31,0 -15,-6.69 -15,-15 h 1 c 0,7.756 6.244,14 14,14 z" />
     <path
        d="m -90,663.36218 h 1 v -5 h -1 z"
-       style="fill-opacity:1;stroke:none;stroke-width:0.149071;fill:url(#linearGradient114);opacity:0.4"
+       style="fill-opacity:1;stroke:none;stroke-width:0.149071;fill:url(#linearGradient114);opacity:0.25"
        id="path20-7"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path112"
-       style="fill:url(#linearGradient111);fill-opacity:1;stroke-width:1;opacity:0.4"
+       style="fill:url(#linearGradient111);fill-opacity:1;stroke-width:1;opacity:0.25"
        d="m -75,643.36218 c -8.31,0 -15,6.69 -15,15 h 1 c 0,-7.756 6.244,-14 14,-14 z" />
     <path
        d="m -70,678.36218 v -1 h -5 v 1 z"
-       style="fill:url(#linearGradient116);fill-opacity:1;stroke:none;stroke-width:0.149071;opacity:0.4"
+       style="fill:url(#linearGradient116);fill-opacity:1;stroke:none;stroke-width:0.149071;opacity:0.25"
        id="path116"
        sodipodi:nodetypes="ccccc" />
     <path
        d="m -70,644.36218 v -1 h -5 v 1 z"
-       style="fill:url(#linearGradient117);fill-opacity:1;stroke:none;stroke-width:0.149071;opacity:0.4"
+       style="fill:url(#linearGradient117);fill-opacity:1;stroke:none;stroke-width:0.149071;opacity:0.25"
        id="path117"
        sodipodi:nodetypes="ccccc" />
     <use
@@ -15524,22 +15524,22 @@
        y="0"
        xlink:href="#rect2"
        id="use119"
-       transform="translate(31,53.000003)"
-       style="opacity:1;fill:#ff1717;fill-opacity:1" />
+       transform="translate(30.999999,53.000005)"
+       style="opacity:0.1;fill:#000000;fill-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#path19"
        id="use120"
-       transform="translate(31,53.000003)"
-       style="opacity:1;fill:#3e17ff;fill-opacity:1" />
+       transform="translate(31,52.999835)"
+       style="opacity:0.1;fill:#000000;fill-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#path20"
        id="use121"
        transform="translate(31,53.000003)"
-       style="opacity:1;fill:#ff1717;fill-opacity:1" />
+       style="opacity:0.1;fill:#000000;fill-opacity:1" />
     <g
        id="g139"
        style="opacity:0.25">
