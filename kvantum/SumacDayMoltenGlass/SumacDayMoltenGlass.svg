@@ -21,9 +21,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-34"
-     inkscape:cy="145.25"
+     inkscape:zoom="16"
+     inkscape:cx="60.312501"
+     inkscape:cy="137.1875"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -14551,42 +14551,96 @@
          id="use12"
          transform="matrix(-1,0,0,1,-121,-2.00003)" />
     </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g3"
-       id="tbutton-focused-topleft"
-       transform="translate(65.000002,-1.999997)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="tbutton-focused-top"
-       transform="translate(64,-1.9999951)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g11"
-       id="tbutton-focused-bottomleft"
-       transform="translate(65.000002,2)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g11"
-       id="tbutton-focused-topright"
-       transform="rotate(180,23.000001,186.86216)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g3"
-       id="tbutton-focused-bottomright"
-       transform="rotate(180,23.000001,188.86218)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="tbutton-focused-left"
-       transform="rotate(-90,22.500004,156.86218)" />
+    <g
+       id="tbutton-focused-topleft">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3"
+         id="use163"
+         transform="translate(65.000002,-1.999997)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g138"
+         id="use170"
+         transform="translate(168,-22.999997)" />
+    </g>
+    <g
+       id="tbutton-focused-top">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use164"
+         transform="translate(64,-1.9999951)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g137"
+         id="use169"
+         transform="translate(168,-23)" />
+    </g>
+    <g
+       id="tbutton-focused-bottomleft">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g11"
+         id="use165"
+         transform="translate(65.000002,2)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use154"
+         id="use172"
+         transform="translate(37)" />
+    </g>
+    <g
+       id="tbutton-focused-topright">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g11"
+         id="use166"
+         transform="rotate(180,23.000001,186.86216)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g138"
+         id="use176"
+         transform="matrix(-1,0,0,1,-57,-22.999997)" />
+    </g>
+    <g
+       id="tbutton-focused-bottomright">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3"
+         id="use167"
+         transform="rotate(180,23.000001,188.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g140"
+         id="use178"
+         transform="matrix(-1,0,0,1,-56.99997,-22.999997)" />
+    </g>
+    <g
+       id="tbutton-focused-left">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use168"
+         transform="rotate(-90,22.500004,156.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use153"
+         id="use171"
+         transform="translate(37)" />
+    </g>
     <g
        id="tbutton-normal-topleft">
       <use
@@ -14716,24 +14770,45 @@
          id="use150"
          transform="translate(27,-3)" />
     </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="tbutton-focused-right"
-       transform="rotate(90,24.499998,220.86218)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="tbutton-focused-bottom"
-       transform="rotate(180,23.5,188.86218)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g8"
-       id="tbutton-focused"
-       transform="translate(64,-3)" />
+    <g
+       id="tbutton-focused-right">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use174"
+         transform="rotate(90,24.499998,220.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use153-2"
+         id="use177"
+         transform="translate(36.999985,-3.0617187e-5)" />
+    </g>
+    <g
+       id="tbutton-focused-bottom">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use175"
+         transform="rotate(180,23.5,188.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use155"
+         id="use173"
+         transform="translate(37)" />
+    </g>
+    <g
+       id="g163">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8"
+         id="tbutton-focused"
+         transform="translate(64,-3)" />
+    </g>
     <g
        id="tbutton-pressed-topleft">
       <use
