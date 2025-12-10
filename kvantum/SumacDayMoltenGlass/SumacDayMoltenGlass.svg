@@ -21,9 +21,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="54.447223"
-     inkscape:cy="659.73063"
+     inkscape:zoom="4"
+     inkscape:cx="-34"
+     inkscape:cy="145.25"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -383,7 +383,7 @@
       <stop
          id="stop20326"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.75;" />
+         style="stop-color:#000000;stop-opacity:0.5;" />
       <stop
          id="stop20328"
          offset="1"
@@ -3419,12 +3419,12 @@
        sodipodi:nodetypes="ccccc"
        id="path11321-2"
        style="fill-opacity:1;stroke:none;stroke-width:1.5"
-       d="m -40,171.36218 v 18 h 5 v -18 z" />
+       d="m -73,156.36218 v 18 h 5 v -18 z" />
     <path
        sodipodi:nodetypes="ccccc"
        id="path11321-2-0"
        style="fill-opacity:1;stroke:none;stroke-width:0.79057"
-       d="m -40,190.36218 v 5 h 5 v -5 z" />
+       d="m -73,175.36218 v 5 h 5 v -5 z" />
     <path
        d="m -42,161.36218 0,8 5,0 0,-8 z"
        style="fill-opacity:1;stroke:none"
@@ -14409,15 +14409,19 @@
        style="fill:url(#radialGradient15);fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
        d="m -116,171.36215 c -9.97198,0 -18,8.02806 -18,18 h 1 c 0,-9.41794 7.58202,-16.99997 17,-16.99997 z"
        sodipodi:nodetypes="ccccc" />
-    <path
-       id="path13-8"
-       style="opacity:1;fill:url(#linearGradient131);fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
-       d="m -115,189.36218 c -10.52596,0 -18.99997,8.47405 -18.99997,18.99997 H -133 c 0,-9.97194 8.02802,-17.99997 18,-17.99997 z"
-       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g138"
+       style="opacity:0.25">
+      <path
+         id="path13-8"
+         style="opacity:1;fill:url(#linearGradient131);fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
+         d="m -115,189.36218 c -10.52596,0 -18.99997,8.47405 -18.99997,18.99997 H -133 c 0,-9.97194 8.02802,-17.99997 18,-17.99997 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
     <path
        id="path15"
        style="opacity:1;fill-opacity:1;stroke-width:2.64706;stroke-linecap:round;stroke-linejoin:round"
-       d="m -41,171.36218 c -9.971988,0 -18,8.02806 -18,18 h 18 z"
+       d="m -74,156.36218 c -9.971988,0 -18,8.02806 -18,18 h 18 z"
        sodipodi:nodetypes="cccc" />
     <rect
        style="opacity:0.2;fill:url(#linearGradient80);fill-opacity:1;stroke-width:0.166669"
@@ -14439,14 +14443,18 @@
        x="171.36218"
        y="110"
        transform="rotate(90)" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient129);fill-opacity:1;stroke-width:0.279507;stroke-linecap:round;stroke-linejoin:round"
-       id="rect15-6"
-       width="1"
-       height="4.9999995"
-       x="189.36218"
-       y="110"
-       transform="rotate(90)" />
+    <g
+       id="g137"
+       style="opacity:0.25">
+      <rect
+         style="opacity:1;fill:url(#linearGradient129);fill-opacity:1;stroke-width:0.279507;stroke-linecap:round;stroke-linejoin:round"
+         id="rect15-6"
+         width="1"
+         height="4.9999995"
+         x="189.36218"
+         y="110"
+         transform="rotate(90)" />
+    </g>
     <path
        id="path26"
        style="fill:url(#radialGradient31);fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
@@ -14467,7 +14475,7 @@
          y="0"
          xlink:href="#path15"
          id="use2"
-         transform="translate(29,-2)"
+         transform="translate(62,12.999994)"
          style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
       <use
          x="0"
@@ -14475,12 +14483,6 @@
          xlink:href="#path13"
          id="use3"
          transform="translate(104,-2)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#path13-8"
-         id="use23"
-         transform="translate(103,-21)" />
     </g>
     <g
        id="g6">
@@ -14497,7 +14499,7 @@
          y="0"
          xlink:href="#path11321-2"
          id="use5"
-         transform="translate(29,-2)"
+         transform="translate(62,12.999994)"
          style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
       <use
          x="0"
@@ -14505,12 +14507,6 @@
          xlink:href="#rect15"
          id="use6"
          transform="translate(104,-2)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#rect15-6"
-         id="use24"
-         transform="translate(104,-21)" />
     </g>
     <g
        id="g8">
@@ -14527,7 +14523,7 @@
          y="0"
          xlink:href="#path11321-2-0"
          id="use8"
-         transform="translate(29,-2)"
+         transform="translate(62,12.999994)"
          style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
     </g>
     <g
@@ -14546,7 +14542,7 @@
          y="0"
          xlink:href="#path15"
          id="use10"
-         transform="translate(29,-2)"
+         transform="translate(62,12.999994)"
          style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
       <use
          x="0"
@@ -14554,12 +14550,6 @@
          xlink:href="#path26"
          id="use12"
          transform="matrix(-1,0,0,1,-121,-2.00003)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#path13-8"
-         id="use23-9"
-         transform="matrix(0,1,1,0,-220.36215,302.36215)" />
     </g>
     <use
        x="0"
@@ -14597,60 +14587,135 @@
        xlink:href="#g6"
        id="tbutton-focused-left"
        transform="rotate(-90,22.500004,156.86218)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g3"
-       id="tbutton-normal-topleft"
-       transform="translate(28.000002,-1.999997)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="tbutton-normal-top"
-       transform="translate(27,-1.9999951)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g11"
-       id="tbutton-normal-bottomleft"
-       transform="translate(28.000002,2)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g11"
-       id="tbutton-normal-topright"
-       transform="rotate(180,4.500001,186.86216)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g3"
-       id="tbutton-normal-bottomright"
-       transform="rotate(180,4.500001,188.86218)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="tbutton-normal-left"
-       transform="rotate(-90,4.000004,175.36218)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="tbutton-normal-bottom"
-       transform="rotate(180,5,188.86218)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g6"
-       id="tbutton-normal-right"
-       transform="rotate(90,5.9999985,202.36218)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g8"
-       id="tbutton-normal"
-       transform="translate(27,-3)" />
+    <g
+       id="tbutton-normal-topleft">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3"
+         id="use142"
+         transform="translate(28.000002,-1.999997)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g138"
+         id="use152"
+         transform="translate(131,-22.999997)" />
+    </g>
+    <g
+       id="tbutton-normal-top">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use143"
+         transform="translate(27,-1.9999951)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g137"
+         id="use151"
+         transform="translate(131,-23)" />
+    </g>
+    <g
+       id="tbutton-normal-bottomleft">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g11"
+         id="use146"
+         transform="translate(28.000002,2)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g140"
+         id="use154"
+         transform="translate(131,-22.999997)" />
+    </g>
+    <g
+       id="tbutton-normal-topright">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g11"
+         id="use144"
+         transform="rotate(180,4.500001,186.86216)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g138"
+         id="use152-4"
+         transform="matrix(-1,0,0,1,-94,-22.999997)" />
+    </g>
+    <g
+       id="tbutton-normal-bottomright">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3"
+         id="use148"
+         transform="rotate(180,4.500001,188.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g140"
+         id="use154-5"
+         transform="matrix(-1,0,0,1,-93.99997,-22.999997)" />
+    </g>
+    <g
+       id="tbutton-normal-left">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use145"
+         transform="rotate(-90,4.000004,175.36218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g139"
+         id="use153"
+         transform="translate(131,-23)" />
+    </g>
+    <g
+       id="tbutton-normal-bottom">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use147"
+         transform="rotate(180,5,188.86218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g141"
+         id="use155"
+         transform="translate(131,-23)" />
+    </g>
+    <g
+       id="tbutton-normal-right">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g6"
+         id="use149"
+         transform="rotate(90,5.9999985,202.36218)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g139"
+         id="use153-2"
+         transform="matrix(-1,0,0,1,-94,-22.999999)" />
+    </g>
+    <g
+       id="tbutton-normal">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8"
+         id="use150"
+         transform="translate(27,-3)" />
+    </g>
     <use
        x="0"
        y="0"
@@ -14682,8 +14747,8 @@
          y="0"
          xlink:href="#path42"
          id="use42"
-         transform="translate(158,-13.999997)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="translate(164,-11)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <g
        id="tbutton-pressed-top">
@@ -14698,8 +14763,8 @@
          y="0"
          xlink:href="#path40"
          id="use45"
-         transform="translate(157,-13.999997)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="translate(163,-11)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <g
        id="tbutton-pressed-bottomleft">
@@ -14714,8 +14779,8 @@
          y="0"
          xlink:href="#path42"
          id="use42-8"
-         transform="rotate(-90,6.500002,115.86218)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="rotate(-90,5.0000005,111.36218)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <g
        id="tbutton-pressed-topright">
@@ -14730,8 +14795,8 @@
          y="0"
          xlink:href="#path42"
          id="use42-4"
-         transform="rotate(90,20.499998,273.86218)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="rotate(90,16,275.36218)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <g
        id="tbutton-pressed-bottomright">
@@ -14746,8 +14811,8 @@
          y="0"
          xlink:href="#path42"
          id="use42-5"
-         transform="rotate(180,13.5,194.86218)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="rotate(180,10.5,193.36218)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <g
        id="tbutton-pressed-left">
@@ -14762,8 +14827,8 @@
          y="0"
          xlink:href="#path40"
          id="use45-3"
-         transform="rotate(-90,7.0000015,116.36218)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="rotate(-90,5.5,111.86218)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <g
        id="tbutton-pressed-right">
@@ -14778,8 +14843,8 @@
          y="0"
          xlink:href="#path40"
          id="use45-6"
-         transform="rotate(90,20.999999,273.36218)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="rotate(90,16.5,274.86218)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <g
        id="tbutton-pressed-bottom">
@@ -14794,8 +14859,8 @@
          y="0"
          xlink:href="#path40"
          id="use45-0"
-         transform="rotate(180,14,194.86218)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="rotate(180,11,193.36218)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <g
        id="tbutton-pressed">
@@ -14810,23 +14875,23 @@
          y="0"
          xlink:href="#path41"
          id="use49"
-         transform="translate(157,-15)"
-         style="fill:#000000;fill-opacity:1;opacity:0.16" />
+         transform="translate(163,-12.000003)"
+         style="opacity:0.16;fill:#000000;fill-opacity:1" />
     </g>
     <path
        sodipodi:nodetypes="ccccc"
        id="path40"
        style="fill-opacity:1;stroke:none;stroke-width:1.32288"
-       d="m -67,185.36218 v 14 h 5 v -14 z" />
+       d="m -73,182.36218 v 14 h 5 v -14 z" />
     <path
        sodipodi:nodetypes="ccccc"
        id="path41"
        style="fill-opacity:1;stroke:none;stroke-width:0.79057"
-       d="m -67,200.36218 v 5 h 5 v -5 z" />
+       d="m -73,197.36218 v 5 h 5 v -5 z" />
     <path
        id="path42"
        style="opacity:1;fill-opacity:1;stroke-width:2.64706;stroke-linecap:round;stroke-linejoin:round"
-       d="m -68,185.36218 c -7.755991,0 -14,6.24405 -14,14 l 14,0 z"
+       d="m -74,182.36218 c -7.755991,0 -14,6.24405 -14,14 h 14 z"
        sodipodi:nodetypes="cccc" />
     <g
        id="tbutton-toggled-topleft"
@@ -14842,7 +14907,7 @@
          y="0"
          xlink:href="#path42"
          id="use60"
-         transform="translate(158,-13.999997)"
+         transform="translate(164,-11)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
@@ -14859,7 +14924,7 @@
          y="0"
          xlink:href="#path40"
          id="use62"
-         transform="translate(157,-13.999997)"
+         transform="translate(163,-11)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
@@ -14876,7 +14941,7 @@
          y="0"
          xlink:href="#path42"
          id="use64"
-         transform="rotate(-90,6.500002,115.86218)"
+         transform="rotate(-90,5.0000005,111.36218)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
@@ -14893,7 +14958,7 @@
          y="0"
          xlink:href="#path42"
          id="use66"
-         transform="rotate(90,20.499998,273.86218)"
+         transform="rotate(90,16,275.36218)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
@@ -14910,7 +14975,7 @@
          y="0"
          xlink:href="#path42"
          id="use68"
-         transform="rotate(180,13.5,194.86218)"
+         transform="rotate(180,10.5,193.36218)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
@@ -14927,7 +14992,7 @@
          y="0"
          xlink:href="#path40"
          id="use70"
-         transform="rotate(-90,7.0000015,116.36218)"
+         transform="rotate(-90,5.5,111.86218)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
@@ -14944,7 +15009,7 @@
          y="0"
          xlink:href="#path40"
          id="use72"
-         transform="rotate(90,20.999999,273.36218)"
+         transform="rotate(90,16.5,274.86218)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
@@ -14961,7 +15026,7 @@
          y="0"
          xlink:href="#path40"
          id="use74"
-         transform="rotate(180,14,194.86218)"
+         transform="rotate(180,11,193.36218)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
@@ -14978,7 +15043,7 @@
          y="0"
          xlink:href="#path41"
          id="use76"
-         transform="translate(157,-15)"
+         transform="translate(163,-12.000003)"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <path
@@ -15304,25 +15369,37 @@
        id="use121"
        transform="translate(31,53.000003)"
        style="opacity:1;fill:#ff1717;fill-opacity:1" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient133);fill-opacity:1;stroke-width:0.279507;stroke-linecap:round;stroke-linejoin:round"
-       id="rect127"
-       width="1"
-       height="4.9999995"
-       x="-134"
-       y="208.36218" />
-    <path
-       id="path127"
-       style="opacity:1;fill:url(#linearGradient135);fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
-       d="m -115,232.36215 c -10.52596,0 -18.99997,-8.47405 -18.99997,-18.99997 H -133 c 0,9.97194 8.02802,17.99997 18,17.99997 z"
-       sodipodi:nodetypes="ccccc" />
-    <rect
-       style="opacity:1;fill:url(#linearGradient137);fill-opacity:1;stroke-width:0.279507;stroke-linecap:round;stroke-linejoin:round"
-       id="rect128"
-       width="1"
-       height="4.9999995"
-       x="231.36218"
-       y="110"
-       transform="rotate(90)" />
+    <g
+       id="g139"
+       style="opacity:0.25">
+      <rect
+         style="opacity:1;fill:url(#linearGradient133);fill-opacity:1;stroke-width:0.279507;stroke-linecap:round;stroke-linejoin:round"
+         id="rect127"
+         width="1"
+         height="4.9999995"
+         x="-134"
+         y="208.36218" />
+    </g>
+    <g
+       id="g140"
+       style="opacity:0.25">
+      <path
+         id="path127"
+         style="opacity:1;fill:url(#linearGradient135);fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round"
+         d="m -115,232.36215 c -10.52596,0 -18.99997,-8.47405 -18.99997,-18.99997 H -133 c 0,9.97194 8.02802,17.99997 18,17.99997 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g141"
+       style="opacity:0.25">
+      <rect
+         style="opacity:1;fill:url(#linearGradient137);fill-opacity:1;stroke-width:0.279507;stroke-linecap:round;stroke-linejoin:round"
+         id="rect128"
+         width="1"
+         height="4.9999995"
+         x="231.36218"
+         y="110"
+         transform="rotate(90)" />
+    </g>
   </g>
 </svg>
