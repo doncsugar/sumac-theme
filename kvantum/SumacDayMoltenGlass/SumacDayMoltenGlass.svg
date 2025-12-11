@@ -21,9 +21,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="140"
-     inkscape:cy="610.00001"
+     inkscape:zoom="32"
+     inkscape:cx="-7.6250001"
+     inkscape:cy="1034.2188"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -9454,17 +9454,18 @@
          y="0"
          xlink:href="#transparentBase"
          id="use4311"
-         transform="matrix(0.66666673,0,0,0.66666665,-37.333333,1053.1207)"
+         transform="matrix(0.9999438,0,0,0.99994368,-37.000056,1036.0028)"
          width="48"
          height="1000" />
       <path
-         style="opacity:1;fill:#1d81fe;fill-opacity:1"
-         d="m -38,1085.3622 c -1.108,0 -2,0.892 -2,2 h 2 z"
+         style="opacity:1;fill:#1d81fe;fill-opacity:1;stroke-width:1.49996"
+         d="m -38,1084.3623 c -1.66195,0 -2.99991,1.338 -2.99991,2.9999 H -38 Z"
          id="path4315" />
       <path
          style="opacity:0.08;fill:#000000;fill-opacity:1"
-         d="m -38,1085.3622 c -1.108,0 -2,0.892 -2,2 h 0.5 c 0,-0.831 0.668991,-1.5 1.5,-1.5 z"
-         id="path4317" />
+         d="m -38,1084.3623 c -1.661915,0 -2.999846,1.338 -2.999846,2.9999 l 0.999891,0 c 0,-1.108 0.891968,-2 1.999955,-2 z"
+         id="path4317"
+         sodipodi:nodetypes="ccccc" />
     </g>
     <g
        transform="translate(28.499955)"
@@ -9472,7 +9473,7 @@
       <use
          height="1000"
          width="48"
-         transform="matrix(0.66666673,0,0,0.66666665,-37.333333,1056.1207)"
+         transform="matrix(0.99998504,0,0,0.66666665,-37.000015,1056.1207)"
          id="use4313"
          xlink:href="#transparentBase"
          y="0"
@@ -9481,7 +9482,7 @@
          style="fill:#1d81fe;fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="matrix(1.4999765,0,0,1,-5.7504385,-0.99999962)"
          id="use5091"
          xlink:href="#rect4264"
          y="0"
@@ -9490,7 +9491,7 @@
          style="opacity:0.08"
          height="1000"
          width="37"
-         transform="translate(-19.499955,-0.99999962)"
+         transform="matrix(1.9999999,0,0,1,1.3406432e-4,-0.99999962)"
          id="use5093"
          xlink:href="#rect4267"
          y="0"
