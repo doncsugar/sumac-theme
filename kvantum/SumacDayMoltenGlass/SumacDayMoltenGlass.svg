@@ -21,9 +21,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="-83.812501"
-     inkscape:cy="1050.3125"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-57.27565"
+     inkscape:cy="1075.1559"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1459,7 +1459,7 @@
        x2="-22.18182"
        y1="959"
        x1="-12.000001"
-       gradientTransform="matrix(1.5714285,0,0,1,-61.642902,332.36219)"
+       gradientTransform="matrix(1.5714285,0,0,1,-61.142902,362.86219)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient98720"
        xlink:href="#MacOS2"
@@ -1481,7 +1481,7 @@
        fx="1.9642862e-06"
        cy="434"
        cx="1.9642862e-06"
-       gradientTransform="matrix(5.6738648e-6,-1.2727275,2.9090914,1.2968834e-5,-1332.0457,1293.3565)"
+       gradientTransform="matrix(5.6738648e-6,-1.2727275,2.9090914,1.2968834e-5,-1331.5457,1323.8565)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient98730"
        xlink:href="#MacOS2"
@@ -1510,7 +1510,7 @@
        fx="-11.5"
        cy="409"
        cx="-11.5"
-       gradientTransform="matrix(1.4285714,0,0,1.4285714,-24.57143,792.07654)"
+       gradientTransform="matrix(1.4285714,0,0,1.4285714,-24.07143,822.57654)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4960"
        xlink:href="#sideShadow"
@@ -1520,7 +1520,7 @@
        x2="-18.5"
        y1="411"
        x1="-11.5"
-       gradientTransform="matrix(0.71428569,0,0,0.66666666,-32.785706,1104.6956)"
+       gradientTransform="matrix(0.71428569,0,0,0.66666666,-32.285706,1135.1956)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4964"
        xlink:href="#sideShadow"
@@ -1763,6 +1763,134 @@
        x2="232.36218"
        y2="112"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="radialGradient38"
+       cx="-3.8571277"
+       cy="-66.677742"
+       fx="-3.8571277"
+       fy="-66.677742"
+       r="0.99218786"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.9999996,0,-1.0385673e-7,-1.9999963,-11.550718,-199.8318)" />
+    <linearGradient
+       id="linearGradient84"
+       inkscape:collect="always"
+       inkscape:label="button-shadow">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop84" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.59999996"
+         id="stop86" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.7647059;"
+         offset="0.64999986"
+         id="stop87" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.56470591;"
+         offset="0.69999975"
+         id="stop88" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.39215687;"
+         offset="0.74999958"
+         id="stop89" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.25098041;"
+         offset="0.79999948"
+         id="stop90" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.14117648;"
+         offset="0.84999937"
+         id="stop91" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.06666667;"
+         offset="0.8999992"
+         id="stop92" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.01568628;"
+         offset="0.94999909"
+         id="stop93" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop85" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="radialGradient1"
+       cx="-3.8571277"
+       cy="-66.677742"
+       fx="-3.8571277"
+       fy="-66.677742"
+       r="0.99218786"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.8000015,0,-9.3471153e-8,-1.7999985,-10.779299,-186.4964)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="linearGradient85"
+       x1="3.4395814"
+       y1="-66.476562"
+       x2="3.4395797"
+       y2="-64.492172"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="linearGradient40"
+       gradientUnits="userSpaceOnUse"
+       x1="3.6380205"
+       y1="-66.377335"
+       x2="3.6380205"
+       y2="-64.293739"
+       gradientTransform="translate(-6.482287,132.75466)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="radialGradient38-9"
+       cx="-3.8571289"
+       cy="-66.623634"
+       fx="-3.8571289"
+       fy="-66.623634"
+       r="0.99218786"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.2000018,0,-1.1424252e-7,-2.1999981,-15.894032,-215.33045)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="linearGradient40-8"
+       gradientUnits="userSpaceOnUse"
+       x1="3.6380188"
+       y1="-66.377312"
+       x2="3.6380186"
+       y2="-64.194496"
+       gradientTransform="translate(-10.054164,135.1359)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="linearGradient85-8"
+       x1="3.4395797"
+       y1="-66.575768"
+       x2="3.4395797"
+       y2="-64.392952"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.5718792,-2.1828152)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="radialGradient20"
+       cx="-3.8571289"
+       cy="-66.623634"
+       fx="-3.8571289"
+       fy="-66.623634"
+       r="0.99218786"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.2000018,0,-1.1424252e-7,-2.1999981,-12.322153,-213.14763)" />
   </defs>
   <metadata
      id="metadata7">
@@ -9344,117 +9472,53 @@
        d="m -42.160674,1057.3625 c -6.564555,0.088 -11.839848,5.4348 -11.839261,12 0,6.6274 5.372572,11.9999 11.999968,11.9999 6.627408,0 11.999967,-5.3725 11.999967,-11.9999 0,-6.6274 -5.372559,-12 -11.999967,-12 -0.0536,-4e-4 -0.1072,-4e-4 -0.160707,0 z m 0.160707,1.9999 c 5.522874,0 10.000032,4.4772 10.000032,10.0001 0,5.5228 -4.477158,10 -10.000032,10 -5.522861,0 -10.000033,-4.4772 -10.000033,-10 0,-5.5229 4.477172,-10.0001 10.000033,-10.0001 z"
        style="opacity:0.4;fill:url(#radialGradient2195);fill-opacity:1;stroke-width:2.33333;stroke-linecap:round;stroke-linejoin:round"
        id="path2189" />
-    <g
-       id="slidercursor-normal"
-       style="fill:#ffffff;fill-opacity:1"
-       transform="translate(62,5.0000008)">
-      <use
-         height="1000"
-         width="48"
-         transform="matrix(7.9999995,0,0,7.9999986,4.9999984,672.46479)"
-         id="use51198"
-         xlink:href="#transparentBase"
-         y="0"
-         x="0"
-         style="fill:#ffffff;fill-opacity:1" />
-      <use
-         height="1000"
-         width="37"
-         transform="translate(-4.8983367e-8,1.9999996)"
-         id="use51202"
-         xlink:href="#rect2191"
-         y="0"
-         x="0"
-         style="fill:#ffffff;fill-opacity:1" />
-      <use
-         height="1000"
-         width="37"
-         transform="translate(26.999935,1.9997822)"
-         id="use51204"
-         xlink:href="#path2189"
-         y="0"
-         x="0"
-         style="fill:#ffffff;fill-opacity:1" />
-    </g>
-    <g
-       id="slidercursor-disabled"
-       style="fill:#f9f9f9;fill-opacity:1"
-       transform="translate(86,-20)">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#transparentBase"
-         id="use51200"
-         transform="matrix(7.9999995,0,0,7.9999986,4.9999995,697.46479)"
-         width="48"
-         height="1000"
-         style="fill:#f9f9f9;fill-opacity:1" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#rect2191"
-         id="use51210"
-         transform="translate(-4.8983367e-8,27)"
-         width="37"
-         height="1000"
-         style="fill:#f9f9f9;fill-opacity:1" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#path2189"
-         id="use51212"
-         transform="translate(26.999935,26.999783)"
-         width="37"
-         height="1000"
-         style="fill:#f9f9f9;fill-opacity:1" />
-    </g>
     <path
        style="opacity:1;fill-opacity:1"
-       d="m -21.500045,1085.3622 c -1.108,0 -2,0.892 -2,2 h 2 z"
+       d="m -27.500045,1085.3622 c -1.108,0 -2,0.892 -2,2 h 2 z"
        id="rect4260" />
     <rect
        style="opacity:1;fill-opacity:1"
        id="rect4264"
        width="2.0000005"
        height="2.0000005"
-       x="-23.500046"
+       x="-29.500046"
        y="1089.3622" />
     <rect
        y="1089.3622"
-       x="-20.500046"
+       x="-26.500046"
        height="2.0000005"
        width="0.5"
        id="rect4267"
        style="opacity:1;fill-opacity:1" />
     <path
        style="opacity:1;fill-opacity:1"
-       d="m -18.500045,1085.3622 c -1.108,0 -2,0.892 -2,2 h 0.5 c 0,-0.831 0.668991,-1.5 1.5,-1.5 z"
+       d="m -24.500045,1085.3622 c -1.108,0 -2,0.892 -2,2 h 0.5 c 0,-0.831 0.668991,-1.5 1.5,-1.5 z"
        id="path4269" />
     <path
        style="opacity:1;fill-opacity:1"
-       d="m -17.500045,1092.3622 c -1.662,0 -3,1.338 -3,3 h 0.5 c 0,-1.385 1.115,-2.5 2.5,-2.5 z"
+       d="m -23.500045,1092.3622 c -1.662,0 -3,1.338 -3,3 h 0.5 c 0,-1.385 1.115,-2.5 2.5,-2.5 z"
        id="path4274" />
     <path
        style="opacity:1;fill-opacity:1"
-       d="m -16.500045,1096.3622 c -2.216001,0 -4,1.784 -4,4 h 1 c 0,-1.662 1.337999,-3 3,-3 z"
+       d="m -22.500045,1096.3622 c -2.216001,0 -4,1.784 -4,4 h 1 c 0,-1.662 1.337999,-3 3,-3 z"
        id="path4279" />
     <use
        x="0"
        y="0"
        xlink:href="#transparentBase"
        id="use4309"
-       transform="matrix(0.66666673,0,0,0.66666665,-8.8333785,1050.1207)"
+       transform="matrix(0.66666673,0,0,0.66666665,-24.333333,1048.1207)"
        width="48"
        height="1000" />
     <g
-       transform="translate(28.499955)"
+       transform="translate(24.999955,1)"
        id="g5100">
       <use
          x="0"
          y="0"
          xlink:href="#transparentBase"
          id="use4311"
-         transform="matrix(0.9999438,0,0,0.99994368,-37.000056,1036.0028)"
+         transform="matrix(2.9999695,0,0,2.9999691,-35.00003,933.27713)"
          width="48"
          height="1000" />
       <path
@@ -9463,17 +9527,17 @@
          id="path4315" />
       <path
          style="opacity:0.08;fill:#000000;fill-opacity:1"
-         d="m -38,1084.3623 c -1.661915,0 -2.999846,1.338 -2.999846,2.9999 l 0.999891,0 c 0,-1.108 0.891968,-2 1.999955,-2 z"
+         d="m -38,1084.3623 c -1.661915,0 -2.999846,1.338 -2.999846,2.9999 h 0.999891 c 0,-1.108 0.891968,-2 1.999955,-2 z"
          id="path4317"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       transform="translate(28.499955)"
+       transform="translate(24.999955,1)"
        id="g5095">
       <use
          height="1000"
          width="48"
-         transform="matrix(0.99998504,0,0,0.66666665,-37.000015,1056.1207)"
+         transform="matrix(2.9999849,0,0,0.66666665,-35.000015,1056.1207)"
          id="use4313"
          xlink:href="#transparentBase"
          y="0"
@@ -9482,7 +9546,7 @@
          style="fill:#1d81fe;fill-opacity:1"
          height="1000"
          width="37"
-         transform="matrix(1.4999765,0,0,1,-5.7504385,-0.99999962)"
+         transform="matrix(1.4999765,0,0,1,3.2494205,-0.99999962)"
          id="use5091"
          xlink:href="#rect4264"
          y="0"
@@ -9491,7 +9555,7 @@
          style="opacity:0.08"
          height="1000"
          width="37"
-         transform="matrix(1.9999999,0,0,1,1.3406432e-4,-0.99999962)"
+         transform="matrix(1.9999999,0,0,1,12.000133,-0.99999962)"
          id="use5093"
          xlink:href="#rect4267"
          y="0"
@@ -9499,7 +9563,7 @@
     </g>
     <g
        id="g5105"
-       transform="translate(31.499955)">
+       transform="translate(27.999955,1)">
       <use
          x="0"
          y="0"
@@ -9513,7 +9577,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use5109"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          width="37"
          height="1000"
          style="fill:#1d81fe;fill-opacity:1" />
@@ -9523,7 +9587,7 @@
        y="0"
        xlink:href="#g5100"
        id="use5113"
-       transform="rotate(90,-7.5000454,1089.3622)"
+       transform="rotate(90,-11.000045,1090.3622)"
        width="37"
        height="1000" />
     <use
@@ -9531,13 +9595,13 @@
        y="0"
        xlink:href="#g5095"
        id="use5115"
-       transform="rotate(90,-7.5000454,1089.3622)"
+       transform="rotate(90,-11.000045,1090.3622)"
        width="37"
        height="1000" />
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-7.5000454,1089.3622)"
+       transform="rotate(-90,-11.000045,1090.3622)"
        id="use5117"
        xlink:href="#g5100"
        y="0"
@@ -9545,7 +9609,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-7.5000454,1089.3622)"
+       transform="rotate(-90,-11.000045,1090.3622)"
        id="use5119"
        xlink:href="#g5095"
        y="0"
@@ -9555,7 +9619,7 @@
        y="0"
        xlink:href="#g5100"
        id="use5121"
-       transform="rotate(180,-7.5000454,1089.3622)"
+       transform="rotate(180,-11.000045,1090.3622)"
        width="37"
        height="1000" />
     <use
@@ -9563,38 +9627,39 @@
        y="0"
        xlink:href="#g5095"
        id="use5123"
-       transform="rotate(180,-7.5000454,1089.3622)"
+       transform="rotate(180,-11.000045,1090.3622)"
        width="37"
        height="1000" />
     <g
        id="g5125"
-       transform="translate(28.499955,10.000029)">
+       transform="translate(25,23.00008)">
       <use
          height="1000"
          width="48"
-         transform="matrix(0.66666673,0,0,0.66666665,-37.333333,1053.1207)"
+         transform="matrix(3.000004,0,0,3.0000036,-34.999996,933.27538)"
          id="use5127"
          xlink:href="#transparentBase"
          y="0"
          x="0" />
       <path
          id="path5129"
-         d="m -38,1085.3622 c -1.108,0 -2,0.892 -2,2 h 2 z"
-         style="opacity:0.05;fill:#000000;fill-opacity:1" />
+         d="m -38,1084.3622 c -1.661975,0 -2.999955,1.338 -2.999955,3 H -38 Z"
+         style="opacity:0.05;fill:#000000;fill-opacity:1;stroke-width:1.49998" />
       <path
          id="path5131"
-         d="m -38,1085.3622 c -1.108,0 -2,0.892 -2,2 h 0.5 c 0,-0.831 0.668991,-1.5 1.5,-1.5 z"
-         style="opacity:0.08;fill:#000000;fill-opacity:1" />
+         d="m -38,1084.3622 c -1.661975,0 -2.999955,1.338 -2.999955,3 h 1 c 0,-1.108 0.891968,-2 1.999955,-2 z"
+         style="opacity:0.08;fill:#000000;fill-opacity:1"
+         sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="g5133"
-       transform="translate(28.499955,10.000029)">
+       transform="translate(25,23.00008)">
       <use
          x="0"
          y="0"
          xlink:href="#transparentBase"
          id="use5135"
-         transform="matrix(0.66666673,0,0,0.66666665,-37.333333,1056.1207)"
+         transform="matrix(3.000004,0,0,0.66666665,-34.999996,1056.1207)"
          width="48"
          height="1000" />
       <use
@@ -9602,7 +9667,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use5137"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="matrix(1.499977,0,0,1,3.249435,-0.99999962)"
          width="37"
          height="1000"
          style="opacity:0.05;fill:#000000;fill-opacity:1" />
@@ -9611,38 +9676,40 @@
          y="0"
          xlink:href="#rect4267"
          id="use5139"
-         transform="translate(-19.499955,-0.99999962)"
+         transform="matrix(1.9999092,0,0,1,11.997731,-0.99999962)"
          width="37"
          height="1000"
          style="opacity:0.08" />
     </g>
     <g
-       transform="translate(28.499955,18.999983)"
+       transform="translate(25.000051,45.000148)"
        id="g5141">
       <use
          x="0"
          y="0"
          xlink:href="#transparentBase"
          id="use5143"
-         transform="matrix(0.66666673,0,0,0.66666665,-37.333333,1053.1207)"
+         transform="matrix(2.9999791,0,0,2.9999787,-35.000021,933.2767)"
          width="48"
          height="1000" />
       <path
          style="opacity:0.16;fill:#000000;fill-opacity:1"
-         d="m -38,1085.3622 c -1.108,0 -2,0.892 -2,2 h 2 z"
-         id="path5145" />
+         d="m -38,1084.362 c -1.662091,0 -3.000165,1.3381 -3.000165,3.0002 H -38 Z"
+         id="path5145"
+         sodipodi:nodetypes="cccc" />
       <path
          style="opacity:0.08;fill:#000000;fill-opacity:1"
-         d="m -38,1085.3622 c -1.108,0 -2,0.892 -2,2 h 0.5 c 0,-0.831 0.668991,-1.5 1.5,-1.5 z"
-         id="path5147" />
+         d="m -38,1084.3621 c -1.662028,0 -3.000051,1.3381 -3.000051,3.0001 l 1,0 c 0,-1.108 0.892011,-2.0001 2.000051,-2.0001 z"
+         id="path5147"
+         sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       transform="translate(28.499955,18.999983)"
+       transform="translate(25.000051,45.000148)"
        id="g5149">
       <use
          height="1000"
          width="48"
-         transform="matrix(0.66666673,0,0,0.66666665,-37.333333,1056.1207)"
+         transform="matrix(2.9999791,0,0,0.66666665,-35.000021,1056.1207)"
          id="use5151"
          xlink:href="#transparentBase"
          y="0"
@@ -9651,7 +9718,7 @@
          style="opacity:0.16;fill:#000000;fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="matrix(1.500025,0,0,1,3.2507549,-0.99999962)"
          id="use5153"
          xlink:href="#rect4264"
          y="0"
@@ -9660,14 +9727,14 @@
          style="opacity:0.08"
          height="1000"
          width="37"
-         transform="translate(-19.499955,-0.99999962)"
+         transform="matrix(2.0000983,0,0,1,12.002647,-0.99999962)"
          id="use5155"
          xlink:href="#rect4267"
          y="0"
          x="0" />
     </g>
     <g
-       transform="translate(31.499955,10)"
+       transform="translate(28,23.000051)"
        id="g5157">
       <use
          height="1000"
@@ -9681,7 +9748,7 @@
          style="opacity:0.05;fill:#000000;fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          id="use5161"
          xlink:href="#rect4264"
          y="0"
@@ -9689,7 +9756,7 @@
     </g>
     <g
        id="g5165"
-       transform="translate(31.499955,18.999954)">
+       transform="translate(28.000051,45.000119)">
       <use
          x="0"
          y="0"
@@ -9703,7 +9770,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use5169"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          width="37"
          height="1000"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
@@ -9713,7 +9780,7 @@
        y="0"
        xlink:href="#g5125"
        id="use5173"
-       transform="matrix(-1,0,0,1,-15.00009,-4.6e-5)"
+       transform="matrix(-1,0,0,1,-22,-4.5903859e-5)"
        width="37"
        height="1000" />
     <use
@@ -9721,7 +9788,7 @@
        y="0"
        xlink:href="#g5133"
        id="use5175"
-       transform="matrix(-1,0,0,1,-15.00009,-4.6e-5)"
+       transform="matrix(-1,0,0,1,-22,-4.5903859e-5)"
        width="37"
        height="1000" />
     <use
@@ -9729,7 +9796,7 @@
        y="0"
        xlink:href="#g5125"
        id="use5177"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2198.7244)"
+       transform="matrix(1,0,0,-1,9.7187002e-8,2224.7244)"
        width="37"
        height="1000" />
     <use
@@ -9737,7 +9804,7 @@
        y="0"
        xlink:href="#use5177"
        id="use5179"
-       transform="matrix(-1,0,0,1,-15.00009,1.2e-5)"
+       transform="matrix(-1,0,0,1,-22,1.1996141e-5)"
        width="37"
        height="1000" />
     <use
@@ -9745,7 +9812,7 @@
        y="0"
        xlink:href="#g5133"
        id="use5181"
-       transform="rotate(-90,-7.5000454,1099.3622)"
+       transform="rotate(-90,-11,1112.3623)"
        width="37"
        height="1000" />
     <use
@@ -9753,7 +9820,7 @@
        y="0"
        xlink:href="#g5133"
        id="use5183"
-       transform="rotate(90,-7.5000454,1099.3622)"
+       transform="rotate(90,-11,1112.3623)"
        width="37"
        height="1000" />
     <use
@@ -9761,7 +9828,7 @@
        y="0"
        xlink:href="#g5141"
        id="use5185"
-       transform="matrix(-1,0,0,1,-15.00009,0)"
+       transform="matrix(-1,0,0,1,-21.999898,1.061411e-7)"
        width="37"
        height="1000" />
     <use
@@ -9769,7 +9836,7 @@
        y="0"
        xlink:href="#g5149"
        id="use5187"
-       transform="matrix(-1,0,0,1,-15.00009,0)"
+       transform="matrix(-1,0,0,1,-21.999898,1.061411e-7)"
        width="37"
        height="1000" />
     <use
@@ -9779,7 +9846,7 @@
        id="use5189"
        width="37"
        height="1000"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2216.7243)" />
+       transform="matrix(1,0,0,-1,7.7293002e-8,2268.7247)" />
     <use
        x="0"
        y="0"
@@ -9787,13 +9854,13 @@
        id="use5191"
        width="37"
        height="1000"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2216.7243)" />
+       transform="matrix(1,0,0,-1,7.7293002e-8,2268.7247)" />
     <use
        x="0"
        y="0"
        xlink:href="#g5149"
        id="use5193"
-       transform="rotate(-90,-7.5000454,1108.3622)"
+       transform="rotate(-90,-10.999949,1134.3625)"
        width="37"
        height="1000" />
     <use
@@ -9801,7 +9868,7 @@
        y="0"
        xlink:href="#g5149"
        id="use5195"
-       transform="rotate(90,-7.5000454,1108.3622)"
+       transform="rotate(90,-10.999948,1134.3625)"
        width="37"
        height="1000" />
     <use
@@ -9809,7 +9876,7 @@
        y="0"
        xlink:href="#g5100"
        id="slider-toggled-topleft"
-       transform="translate(21.500045,-12.999972)"
+       transform="translate(21.999955,-13.999972)"
        width="37"
        height="1000" />
     <use
@@ -9817,7 +9884,7 @@
        y="0"
        xlink:href="#g5095"
        id="slider-toggled-left"
-       transform="translate(21.500045,-13.999972)"
+       transform="translate(21.999955,-14.999972)"
        width="37"
        height="1000" />
     <use
@@ -9825,7 +9892,7 @@
        y="0"
        xlink:href="#g5105"
        id="slider-toggled"
-       transform="translate(20.500028,-14.000018)"
+       transform="translate(20.999938,-15.000018)"
        width="37"
        height="1000" />
     <use
@@ -9833,7 +9900,7 @@
        y="0"
        xlink:href="#use5113"
        id="slider-toggled-topright"
-       transform="translate(19.5,-13.000017)"
+       transform="translate(19.99991,-14.000017)"
        width="37"
        height="1000" />
     <use
@@ -9841,7 +9908,7 @@
        y="0"
        xlink:href="#use5115"
        id="slider-toggled-top"
-       transform="translate(20.500028,-13.000018)"
+       transform="translate(20.999938,-14.000018)"
        width="37"
        height="1000" />
     <use
@@ -9849,7 +9916,7 @@
        y="0"
        xlink:href="#use5117"
        id="slider-toggled-bottomleft"
-       transform="translate(21.500107,-14.999971)"
+       transform="translate(22.000017,-15.999971)"
        width="37"
        height="1000" />
     <use
@@ -9857,7 +9924,7 @@
        y="0"
        xlink:href="#use5119"
        id="slider-toggled-bottom"
-       transform="translate(20.50009,-15.000017)"
+       transform="translate(21,-16.000017)"
        width="37"
        height="1000" />
     <use
@@ -9865,7 +9932,7 @@
        y="0"
        xlink:href="#use5121"
        id="slider-toggled-bottomright"
-       transform="translate(19.500062,-15.000016)"
+       transform="translate(19.999972,-16.000016)"
        width="37"
        height="1000" />
     <use
@@ -9873,7 +9940,7 @@
        y="0"
        xlink:href="#use5123"
        id="slider-toggled-right"
-       transform="translate(19.5,-14.000017)"
+       transform="translate(19.99991,-15.000017)"
        width="37"
        height="1000" />
     <use
@@ -9881,7 +9948,7 @@
        y="0"
        xlink:href="#g5125"
        id="slider-normal-topleft"
-       transform="translate(27.500124,-22.999867)"
+       transform="translate(44.000012,-36)"
        width="37"
        height="1000" />
     <use
@@ -9889,7 +9956,7 @@
        y="0"
        xlink:href="#g5133"
        id="slider-normal-left"
-       transform="translate(27.500062,-23.999926)"
+       transform="translate(43.99995,-37.000059)"
        width="37"
        height="1000" />
     <use
@@ -9897,7 +9964,7 @@
        y="0"
        xlink:href="#g5141"
        id="slider-toggled-inactive-topleft"
-       transform="translate(33.500045,-31.999955)"
+       transform="translate(64.999949,-58.00012)"
        width="37"
        height="1000" />
     <use
@@ -9905,7 +9972,7 @@
        y="0"
        xlink:href="#g5149"
        id="slider-toggled-inactive-left"
-       transform="translate(33.500045,-32.99995)"
+       transform="translate(64.999949,-59.000115)"
        width="37"
        height="1000" />
     <use
@@ -9913,7 +9980,7 @@
        y="0"
        xlink:href="#g5157"
        id="slider-normal"
-       transform="translate(26.500045,-23.999972)"
+       transform="translate(42.999933,-37.000105)"
        width="37"
        height="1000" />
     <use
@@ -9921,7 +9988,7 @@
        y="0"
        xlink:href="#g5165"
        id="slider-toggled-inactive"
-       transform="translate(32.500028,-32.999996)"
+       transform="translate(63.999932,-59.000161)"
        width="37"
        height="1000" />
     <use
@@ -9929,7 +9996,7 @@
        y="0"
        xlink:href="#use5173"
        id="slider-normal-topright"
-       transform="translate(25.500079,-22.999913)"
+       transform="translate(41.999967,-36.000046)"
        width="37"
        height="1000" />
     <use
@@ -9937,7 +10004,7 @@
        y="0"
        xlink:href="#use5175"
        id="slider-normal-right"
-       transform="translate(25.500017,-23.999971)"
+       transform="translate(41.999905,-37.000104)"
        width="37"
        height="1000" />
     <use
@@ -9945,7 +10012,7 @@
        y="0"
        xlink:href="#use5177"
        id="slider-normal-bottomleft"
-       transform="translate(27.500062,-24.999885)"
+       transform="translate(43.99995,-38.000018)"
        width="37"
        height="1000" />
     <use
@@ -9953,7 +10020,7 @@
        y="0"
        xlink:href="#use5179"
        id="slider-normal-bottomright"
-       transform="translate(25.500017,-24.99993)"
+       transform="translate(41.999905,-38.000063)"
        width="37"
        height="1000" />
     <use
@@ -9961,7 +10028,7 @@
        y="0"
        xlink:href="#use5181"
        id="slider-normal-bottom"
-       transform="translate(26.500045,-24.999931)"
+       transform="translate(42.999933,-38.000064)"
        width="37"
        height="1000" />
     <use
@@ -9969,7 +10036,7 @@
        y="0"
        xlink:href="#use5183"
        id="slider-normal-top"
-       transform="translate(26.500107,-22.999913)"
+       transform="translate(42.999995,-36.000046)"
        width="37"
        height="1000" />
     <use
@@ -9977,7 +10044,7 @@
        y="0"
        xlink:href="#use5185"
        id="slider-toggled-inactive-topright"
-       transform="translate(31.5,-32)"
+       transform="translate(62.999904,-58.000165)"
        width="37"
        height="1000" />
     <use
@@ -9985,7 +10052,7 @@
        y="0"
        xlink:href="#use5187"
        id="slider-toggled-inactive-right"
-       transform="translate(31.5,-32.999995)"
+       transform="translate(62.999904,-59.00016)"
        width="37"
        height="1000" />
     <use
@@ -9993,7 +10060,7 @@
        y="0"
        xlink:href="#use5189"
        id="slider-toggled-inactive-bottomleft"
-       transform="translate(33.500124,-33.999937)"
+       transform="translate(65.000028,-60.000102)"
        width="37"
        height="1000" />
     <use
@@ -10001,7 +10068,7 @@
        y="0"
        xlink:href="#use5191"
        id="slider-toggled-inactive-bottomright"
-       transform="translate(31.500079,-33.999983)"
+       transform="translate(62.999983,-60.000148)"
        width="37"
        height="1000" />
     <use
@@ -10009,7 +10076,7 @@
        y="0"
        xlink:href="#use5193"
        id="slider-toggled-inactive-bottom"
-       transform="translate(32.500107,-33.999983)"
+       transform="translate(64.000011,-60.000148)"
        width="37"
        height="1000" />
     <use
@@ -10017,11 +10084,11 @@
        y="0"
        xlink:href="#use5195"
        id="slider-toggled-inactive-top"
-       transform="translate(32.500028,-32.000001)"
+       transform="translate(63.999932,-58.000166)"
        width="37"
        height="1000" />
     <g
-       transform="translate(24.499875,2.9998692)"
+       transform="translate(24.999875,33.499869)"
        id="g8321">
       <use
          x="0"
@@ -10036,7 +10103,7 @@
          y="0"
          xlink:href="#rect4260"
          id="use8313"
-         transform="matrix(1.5,0,0,1.5,-3.7499319,-512.6811)"
+         transform="matrix(1.5,0,0,1.5,5.2500681,-512.6811)"
          width="37"
          height="1000"
          style="fill:#1d81fe;fill-opacity:1" />
@@ -10045,13 +10112,13 @@
          y="0"
          xlink:href="#path4274"
          id="use8315"
-         transform="translate(-18.499955,23)"
+         transform="translate(-12.499955,23)"
          width="37"
          height="1000"
          style="opacity:0.1" />
     </g>
     <g
-       transform="translate(24.499875,2.9998692)"
+       transform="translate(24.999875,33.499869)"
        id="g8326">
       <use
          height="1000"
@@ -10066,7 +10133,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use8317"
-         transform="matrix(1.4999999,0,0,1,-3.749935,30)"
+         transform="matrix(1.4999999,0,0,1,5.2500644,30)"
          width="37"
          height="1000"
          style="fill:#1d81fe;fill-opacity:1" />
@@ -10075,13 +10142,13 @@
          y="0"
          xlink:href="#rect4267"
          id="use8319"
-         transform="translate(-18.499955,30)"
+         transform="translate(-12.499955,30)"
          width="37"
          height="1000"
          style="opacity:0.1" />
     </g>
     <g
-       transform="translate(27.499875,2.9998691)"
+       transform="translate(27.999875,33.499869)"
        id="g8331">
       <use
          x="0"
@@ -10095,7 +10162,7 @@
          style="fill:#1d81fe;fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-14.499975,30)"
+         transform="translate(-8.499975,30)"
          id="use8335"
          xlink:href="#rect4264"
          y="0"
@@ -10104,7 +10171,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-9.5001457,1123.3621)"
+       transform="rotate(90,-9.0001457,1153.8621)"
        id="use8339"
        xlink:href="#g8321"
        y="0"
@@ -10112,7 +10179,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-9.5001457,1123.3621)"
+       transform="rotate(90,-9.0001457,1153.8621)"
        id="use8341"
        xlink:href="#g8326"
        y="0"
@@ -10120,7 +10187,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2246.7242)"
+       transform="matrix(1,0,0,-1,1.3e-7,2307.7242)"
        id="use8347"
        xlink:href="#g8321"
        y="0"
@@ -10128,7 +10195,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-19.00025,4.0000008e-7)"
+       transform="matrix(-1,0,0,1,-18.00025,0)"
        id="use8349"
        xlink:href="#g8326"
        y="0"
@@ -10136,7 +10203,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-19.00025,4.0000011e-7)"
+       transform="matrix(-1,0,0,1,-18.00025,0)"
        id="use8351"
        xlink:href="#use8347"
        y="0"
@@ -10144,13 +10211,13 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-9.5001457,1123.3621)"
+       transform="rotate(-90,-9.000146,1153.8621)"
        id="use8353"
        xlink:href="#g8326"
        y="0"
        x="0" />
     <g
-       transform="translate(24.499875,19.999878)"
+       transform="translate(24.999875,50.499878)"
        id="g8355">
       <use
          height="1000"
@@ -10164,7 +10231,7 @@
          style="opacity:0.05;fill:#000000;fill-opacity:1"
          height="1000"
          width="37"
-         transform="matrix(1.5,0,0,1.5,-3.7499319,-512.6811)"
+         transform="matrix(1.5,0,0,1.5,5.2500681,-512.6811)"
          id="use8359"
          xlink:href="#rect4260"
          y="0"
@@ -10173,14 +10240,14 @@
          style="opacity:0.1"
          height="1000"
          width="37"
-         transform="translate(-18.499955,23)"
+         transform="translate(-12.499955,23)"
          id="use8361"
          xlink:href="#path4274"
          y="0"
          x="0" />
     </g>
     <g
-       transform="translate(24.499875,19.999878)"
+       transform="translate(24.999875,50.499878)"
        id="g8363">
       <use
          x="0"
@@ -10194,7 +10261,7 @@
          style="opacity:0.05;fill:#000000;fill-opacity:1"
          height="1000"
          width="37"
-         transform="matrix(1.4999999,0,0,1,-3.749935,30)"
+         transform="matrix(1.4999999,0,0,1,5.2500644,30)"
          id="use8367"
          xlink:href="#rect4264"
          y="0"
@@ -10203,7 +10270,7 @@
          style="opacity:0.1"
          height="1000"
          width="37"
-         transform="translate(-18.499955,30)"
+         transform="translate(-12.499955,30)"
          id="use8369"
          xlink:href="#rect4267"
          y="0"
@@ -10211,7 +10278,7 @@
     </g>
     <g
        id="g8371"
-       transform="translate(27.499875,19.999878)">
+       transform="translate(27.999875,50.499878)">
       <use
          height="1000"
          width="48"
@@ -10225,7 +10292,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use8375"
-         transform="translate(-14.499975,30)"
+         transform="translate(-8.499975,30)"
          width="37"
          height="1000"
          style="opacity:0.05;fill:#000000;fill-opacity:1" />
@@ -10233,7 +10300,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-19.00025,-7.9999998e-6)"
+       transform="matrix(-1,0,0,1,-18.00025,-8e-6)"
        id="use8377"
        xlink:href="#g8355"
        y="0"
@@ -10241,7 +10308,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-19.00025,-7.9999998e-6)"
+       transform="matrix(-1,0,0,1,-18.00025,-8e-6)"
        id="use8379"
        xlink:href="#g8363"
        y="0"
@@ -10249,7 +10316,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-9.5001457,1140.3621)"
+       transform="rotate(90,-9.0001457,1170.8621)"
        id="use8381"
        xlink:href="#g8363"
        y="0"
@@ -10257,7 +10324,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2280.7241)"
+       transform="matrix(1,0,0,-1,1.3e-7,2341.7241)"
        id="use8383"
        xlink:href="#g8355"
        y="0"
@@ -10265,7 +10332,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2280.7241)"
+       transform="matrix(1,0,0,-1,1.3e-7,2341.7241)"
        id="use8385"
        xlink:href="#use8377"
        y="0"
@@ -10273,14 +10340,14 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2280.7241)"
+       transform="matrix(1,0,0,-1,1.3e-7,2341.7241)"
        id="use8387"
        xlink:href="#use8381"
        y="0"
        x="0" />
     <g
        id="g8389"
-       transform="translate(24.499843,36.999919)">
+       transform="translate(24.999843,67.499919)">
       <use
          x="0"
          y="0"
@@ -10294,7 +10361,7 @@
          y="0"
          xlink:href="#rect4260"
          id="use8393"
-         transform="matrix(1.5,0,0,1.5,-3.7499319,-512.6811)"
+         transform="matrix(1.5,0,0,1.5,5.2500681,-512.6811)"
          width="37"
          height="1000"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
@@ -10303,14 +10370,14 @@
          y="0"
          xlink:href="#path4274"
          id="use8395"
-         transform="translate(-18.499955,23)"
+         transform="translate(-12.499955,23)"
          width="37"
          height="1000"
          style="opacity:0.1" />
     </g>
     <g
        id="g8397"
-       transform="translate(24.499843,36.999919)">
+       transform="translate(24.999843,67.499919)">
       <use
          height="1000"
          width="48"
@@ -10324,7 +10391,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use8401"
-         transform="matrix(1.4999999,0,0,1,-3.749935,30)"
+         transform="matrix(1.4999999,0,0,1,5.2500644,30)"
          width="37"
          height="1000"
          style="opacity:0.16;fill:#000000;fill-opacity:1" />
@@ -10333,13 +10400,13 @@
          y="0"
          xlink:href="#rect4267"
          id="use8403"
-         transform="translate(-18.499955,30)"
+         transform="translate(-12.499955,30)"
          width="37"
          height="1000"
          style="opacity:0.1" />
     </g>
     <g
-       transform="translate(27.499843,36.999919)"
+       transform="translate(27.999843,67.499919)"
        id="g8405">
       <use
          x="0"
@@ -10353,7 +10420,7 @@
          style="opacity:0.16;fill:#000000;fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-14.499975,30)"
+         transform="translate(-8.499975,30)"
          id="use8409"
          xlink:href="#rect4264"
          y="0"
@@ -10362,7 +10429,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-19.000282,3.3e-5)"
+       transform="matrix(-1,0,0,1,-18.000282,3.3e-5)"
        id="use8411"
        xlink:href="#g8389"
        y="0"
@@ -10370,7 +10437,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-19.000282,3.3e-5)"
+       transform="matrix(-1,0,0,1,-18.000282,3.3e-5)"
        id="use8413"
        xlink:href="#g8397"
        y="0"
@@ -10378,7 +10445,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-9.5001457,1157.3621)"
+       transform="rotate(90,-9.0001457,1187.8621)"
        id="use8415"
        xlink:href="#g8397"
        y="0"
@@ -10386,7 +10453,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,3.2127297e-5,2314.7241)"
+       transform="matrix(1,0,0,-1,3.213e-5,2375.7241)"
        id="use8417"
        xlink:href="#g8389"
        y="0"
@@ -10394,7 +10461,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,3.2127297e-5,2314.7241)"
+       transform="matrix(1,0,0,-1,3.213e-5,2375.7241)"
        id="use8419"
        xlink:href="#use8411"
        y="0"
@@ -10402,7 +10469,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,3.2127297e-5,2314.7241)"
+       transform="matrix(1,0,0,-1,3.213e-5,2375.7241)"
        id="use8421"
        xlink:href="#use8415"
        y="0"
@@ -10410,7 +10477,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(17.50008,-27.999869)"
+       transform="translate(17.00008,-58.499869)"
        id="progress-pattern-normal-topleft"
        xlink:href="#g8321"
        y="0"
@@ -10418,7 +10485,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(17.50008,-28.999878)"
+       transform="translate(17.00008,-59.499878)"
        id="progress-pattern-normal-left"
        xlink:href="#g8326"
        y="0"
@@ -10426,7 +10493,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(16.500052,-28.999946)"
+       transform="translate(16.000052,-59.499946)"
        id="progress-pattern-normal"
        xlink:href="#g8331"
        y="0"
@@ -10434,7 +10501,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(15.500006,-28.000084)"
+       transform="translate(15.000006,-58.500084)"
        id="progress-pattern-normal-topright"
        xlink:href="#use8339"
        y="0"
@@ -10442,7 +10509,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(16.500052,-27.999937)"
+       transform="translate(16.000052,-58.499937)"
        id="progress-pattern-normal-top"
        xlink:href="#use8341"
        y="0"
@@ -10450,7 +10517,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(17.500049,-30.000047)"
+       transform="translate(17.000049,-60.500047)"
        id="progress-pattern-normal-bottomleft"
        xlink:href="#use8347"
        y="0"
@@ -10458,7 +10525,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(15.500006,-29.000093)"
+       transform="translate(15.000006,-59.500093)"
        id="progress-pattern-normal-right"
        xlink:href="#use8349"
        y="0"
@@ -10466,7 +10533,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(15.499975,-30.000262)"
+       transform="translate(14.999975,-60.500262)"
        id="progress-pattern-normal-bottomright"
        xlink:href="#use8351"
        y="0"
@@ -10474,7 +10541,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(16.500021,-30.000115)"
+       transform="translate(16.000021,-60.500115)"
        id="progress-pattern-normal-bottom"
        xlink:href="#use8353"
        y="0"
@@ -10482,7 +10549,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(33.500048,-44.999829)"
+       transform="translate(33.000048,-75.499829)"
        id="progress-normal-topleft"
        xlink:href="#g8355"
        y="0"
@@ -10490,7 +10557,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(33.50008,-45.99982)"
+       transform="translate(33.00008,-76.49982)"
        id="progress-normal-left"
        xlink:href="#g8363"
        y="0"
@@ -10498,7 +10565,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(32.500129,-45.999789)"
+       transform="translate(32.000129,-76.499789)"
        id="progress-normal"
        xlink:href="#g8371"
        y="0"
@@ -10506,7 +10573,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(31.500015,-44.999798)"
+       transform="translate(31.000015,-75.499798)"
        id="progress-normal-topright"
        xlink:href="#use8377"
        y="0"
@@ -10514,7 +10581,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(31.500047,-45.999789)"
+       transform="translate(31.000047,-76.499789)"
        id="progress-normal-right"
        xlink:href="#use8379"
        y="0"
@@ -10522,7 +10589,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(32.500097,-44.999798)"
+       transform="translate(32.000097,-75.499798)"
        id="progress-normal-top"
        xlink:href="#use8381"
        y="0"
@@ -10530,7 +10597,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(33.500079,-46.999738)"
+       transform="translate(33.000079,-77.499738)"
        id="progress-normal-bottomleft"
        xlink:href="#use8383"
        y="0"
@@ -10538,7 +10605,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(31.500046,-46.999707)"
+       transform="translate(31.000046,-77.499707)"
        id="progress-normal-bottomright"
        xlink:href="#use8385"
        y="0"
@@ -10546,7 +10613,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(32.500128,-46.999707)"
+       transform="translate(32.000128,-77.499707)"
        id="progress-normal-bottom"
        xlink:href="#use8387"
        y="0"
@@ -10554,7 +10621,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(48.50008,-61.99987)"
+       transform="translate(48.00008,-92.49987)"
        id="progress-pattern-normal-inactive-topleft"
        xlink:href="#g8389"
        y="0"
@@ -10562,7 +10629,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(48.500111,-62.999993)"
+       transform="translate(48.000111,-93.499993)"
        id="progress-pattern-normal-inactive-left"
        xlink:href="#g8397"
        y="0"
@@ -10570,7 +10637,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(47.50016,-62.999962)"
+       transform="translate(47.00016,-93.499962)"
        id="progress-pattern-normal-inactive"
        xlink:href="#g8405"
        y="0"
@@ -10578,7 +10645,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(46.500047,-61.999839)"
+       transform="translate(46.000047,-92.499839)"
        id="progress-pattern-normal-inactive-topright"
        xlink:href="#use8411"
        y="0"
@@ -10586,7 +10653,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(46.500078,-62.999962)"
+       transform="translate(46.000078,-93.499962)"
        id="progress-pattern-normal-inactive-right"
        xlink:href="#use8413"
        y="0"
@@ -10594,7 +10661,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(47.500129,-61.999839)"
+       transform="translate(47.000129,-92.499839)"
        id="progress-pattern-normal-inactive-top"
        xlink:href="#use8415"
        y="0"
@@ -10602,7 +10669,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(48.50008,-63.999829)"
+       transform="translate(48.00008,-94.499829)"
        id="progress-pattern-normal-inactive-bottomleft"
        xlink:href="#use8417"
        y="0"
@@ -10610,7 +10677,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(46.500047,-63.999798)"
+       transform="translate(46.000047,-94.499798)"
        id="progress-pattern-normal-inactive-bottomright"
        xlink:href="#use8419"
        y="0"
@@ -10618,14 +10685,14 @@
     <use
        height="1000"
        width="37"
-       transform="translate(47.500129,-63.999798)"
+       transform="translate(47.000129,-94.499798)"
        id="progress-pattern-normal-inactive-bottom"
        xlink:href="#use8421"
        y="0"
        x="0" />
     <g
        id="g23761"
-       transform="translate(24.499986,56.000049)">
+       transform="translate(24.999986,86.500049)">
       <use
          height="1000"
          width="48"
@@ -10638,7 +10705,7 @@
          style="fill:#000000;fill-opacity:1"
          height="1000"
          width="37"
-         transform="matrix(1.5,0,0,1.5,-3.7499319,-512.6811)"
+         transform="matrix(1.5,0,0,1.5,5.2500681,-512.6811)"
          id="use23765"
          xlink:href="#rect4260"
          y="0"
@@ -10646,7 +10713,7 @@
     </g>
     <g
        id="g23769"
-       transform="translate(24.499986,56.000049)">
+       transform="translate(24.999986,86.500049)">
       <use
          x="0"
          y="0"
@@ -10659,14 +10726,14 @@
          style="fill:#000000;fill-opacity:1"
          height="1000"
          width="37"
-         transform="matrix(1.4999999,0,0,1,-3.749935,30)"
+         transform="matrix(1.4999999,0,0,1,5.2500644,30)"
          id="use23773"
          xlink:href="#rect4264"
          y="0"
          x="0" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,-43.500014,56.000049)"
+       transform="matrix(-1,0,0,1,-43.000014,86.500049)"
        id="g24549">
       <use
          x="0"
@@ -10681,13 +10748,13 @@
          y="0"
          xlink:href="#rect4260"
          id="use24553"
-         transform="matrix(1.5,0,0,1.5,-3.7499319,-512.6811)"
+         transform="matrix(1.5,0,0,1.5,5.2500681,-512.6811)"
          width="37"
          height="1000"
          style="fill:#000000;fill-opacity:1" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,-43.500014,56.000049)"
+       transform="matrix(-1,0,0,1,-43.000014,86.500049)"
        id="g24555">
       <use
          height="1000"
@@ -10702,7 +10769,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use24559"
-         transform="matrix(1.4999999,0,0,1,-3.749935,30)"
+         transform="matrix(1.4999999,0,0,1,5.2500644,30)"
          width="37"
          height="1000"
          style="fill:#000000;fill-opacity:1" />
@@ -10712,7 +10779,7 @@
        y="0"
        xlink:href="#g23761"
        id="use24561"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2352.7244)"
+       transform="matrix(1,0,0,-1,1.3e-7,2413.7244)"
        width="37"
        height="1000" />
     <use
@@ -10720,7 +10787,7 @@
        y="0"
        xlink:href="#g24549"
        id="use24563"
-       transform="matrix(1,0,0,-1,1.2729682e-7,2352.7246)"
+       transform="matrix(1,0,0,-1,1.3e-7,2413.7246)"
        width="37"
        height="1000" />
     <use
@@ -10728,7 +10795,7 @@
        y="0"
        xlink:href="#g23769"
        id="use24602"
-       transform="rotate(-90,-9.5000457,1176.3623)"
+       transform="rotate(-90,-9.000046,1206.8623)"
        width="37"
        height="1000" />
     <use
@@ -10736,12 +10803,12 @@
        y="0"
        xlink:href="#use24602"
        id="use24604"
-       transform="matrix(1,0,0,-1,3.4127297e-5,2352.7246)"
+       transform="matrix(1,0,0,-1,3.413e-5,2413.7246)"
        width="37"
        height="1000" />
     <g
        id="g24606"
-       transform="translate(27.500006,56.000066)">
+       transform="translate(28.000006,86.500066)">
       <use
          height="1000"
          width="48"
@@ -10755,7 +10822,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use24610"
-         transform="translate(-14.499975,30)"
+         transform="translate(-8.499975,30)"
          width="37"
          height="1000"
          style="fill:#000000;fill-opacity:1" />
@@ -10775,7 +10842,7 @@
        y="0"
        xlink:href="#g23769"
        id="scrollbarslider-normal-left"
-       transform="translate(18.999969,-1.0000574)"
+       transform="translate(18.999969,-1.000057)"
        width="37"
        height="1000" />
     <use
@@ -10784,7 +10851,7 @@
        y="0"
        xlink:href="#g24549"
        id="scrollbarslider-normal-topright"
-       transform="translate(16.999969,-6.5984013e-5)"
+       transform="translate(16.999969,-6.6e-5)"
        width="37"
        height="1000" />
     <use
@@ -10793,7 +10860,7 @@
        y="0"
        xlink:href="#g24555"
        id="scrollbarslider-normal-right"
-       transform="translate(17,-1.0001234)"
+       transform="translate(17,-1.000123)"
        width="37"
        height="1000" />
     <use
@@ -10802,7 +10869,7 @@
        y="0"
        xlink:href="#use24561"
        id="scrollbarslider-normal-bottomleft"
-       transform="translate(18.999969,-2.0001331)"
+       transform="translate(18.999969,-2.000133)"
        width="37"
        height="1000" />
     <use
@@ -10820,7 +10887,7 @@
        y="0"
        xlink:href="#use24602"
        id="scrollbarslider-normal-bottom"
-       transform="translate(18,-2.0002152)"
+       transform="translate(18,-2.000215)"
        width="37"
        height="1000" />
     <use
@@ -10829,7 +10896,7 @@
        y="0"
        xlink:href="#use24604"
        id="scrollbarslider-normal-top"
-       transform="translate(17.999969,-8.2184013e-5)"
+       transform="translate(17.999969,-8.2e-5)"
        width="37"
        height="1000" />
     <use
@@ -10838,7 +10905,7 @@
        y="0"
        xlink:href="#g24606"
        id="scrollbarslider-normal"
-       transform="translate(18,-1.0001396)"
+       transform="translate(18,-1.00014)"
        width="37"
        height="1000" />
     <use
@@ -10854,7 +10921,7 @@
        style="opacity:0.5"
        height="1000"
        width="37"
-       transform="translate(36.999907,-0.99993403)"
+       transform="translate(36.999907,-0.999934)"
        id="scrollbarslider-focused-left"
        xlink:href="#g23769"
        y="0"
@@ -10872,7 +10939,7 @@
        style="opacity:0.5"
        height="1000"
        width="37"
-       transform="translate(34.999907,-0.99993403)"
+       transform="translate(34.999907,-0.999934)"
        id="scrollbarslider-focused-right"
        xlink:href="#g24555"
        y="0"
@@ -11004,7 +11071,7 @@
        width="37"
        height="1000" />
     <g
-       transform="translate(28.499955)"
+       transform="translate(28.999955,30.5)"
        id="g47902">
       <use
          height="1000"
@@ -11020,12 +11087,12 @@
          y="0"
          xlink:href="#path4279"
          id="use47892"
-         transform="translate(-23.499955,94)"
+         transform="translate(-17.499955,94)"
          width="37"
          height="1000" />
     </g>
     <g
-       transform="matrix(1,0,0,0.33333515,28.499955,796.90593)"
+       transform="matrix(1,0,0,0.33333515,28.999955,827.40593)"
        id="g47898">
       <use
          x="0"
@@ -11041,14 +11108,14 @@
          y="0"
          xlink:href="#rect4264"
          id="use47894"
-         transform="matrix(0.50000013,0,0,2.9999995,-32.249975,-2072.7238)"
+         transform="matrix(0.50000013,0,0,2.9999995,-29.249974,-2072.7238)"
          width="37"
          height="1000" />
     </g>
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-19.00009,0)"
+       transform="matrix(-1,0,0,1,-18.00009,0)"
        id="use47906"
        xlink:href="#g47902"
        y="0"
@@ -11056,7 +11123,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-19.00009,0)"
+       transform="matrix(-1,0,0,1,-18.00009,0)"
        id="use47908"
        xlink:href="#g47898"
        y="0"
@@ -11064,7 +11131,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-9.5000457,1196.3622)"
+       transform="rotate(90,-9.0000457,1226.8622)"
        id="use47910"
        xlink:href="#g47898"
        y="0"
@@ -11072,7 +11139,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-3.5872703e-5,2392.7244)"
+       transform="matrix(1,0,0,-1,-3.587e-5,2453.7244)"
        id="use47912"
        xlink:href="#g47902"
        y="0"
@@ -11080,7 +11147,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-3.5872703e-5,2392.7244)"
+       transform="matrix(1,0,0,-1,-3.587e-5,2453.7244)"
        id="use47914"
        xlink:href="#use47906"
        y="0"
@@ -11088,7 +11155,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-3.5872703e-5,2392.7244)"
+       transform="matrix(1,0,0,-1,-3.587e-5,2453.7244)"
        id="use47916"
        xlink:href="#use47910"
        y="0"
@@ -11096,7 +11163,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(26,2.6672437e-5)"
+       transform="translate(26,2.7e-5)"
        id="group-normal-topleft"
        xlink:href="#g47902"
        y="0"
@@ -11104,7 +11171,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(26,-0.49999734)"
+       transform="translate(26,-0.499997)"
        id="group-normal-left"
        xlink:href="#g47898"
        y="0"
@@ -11120,7 +11187,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(25,-0.50002401)"
+       transform="translate(25,-0.500024)"
        id="group-normal-right"
        xlink:href="#use47908"
        y="0"
@@ -11128,7 +11195,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(25.499964,-1.66e-5)"
+       transform="translate(25.499964,-1.7e-5)"
        id="group-normal-top"
        xlink:href="#use47910"
        y="0"
@@ -11136,7 +11203,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(26.000036,-1.0000613)"
+       transform="translate(26.000036,-1.000061)"
        id="group-normal-bottomleft"
        xlink:href="#use47912"
        y="0"
@@ -11152,7 +11219,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(25.5,-1.0001046)"
+       transform="translate(25.5,-1.000105)"
        id="group-normal-bottom"
        xlink:href="#use47916"
        y="0"
@@ -11201,7 +11268,7 @@
        y="0"
        xlink:href="#rect4264"
        id="use58035"
-       transform="translate(15,123)"
+       transform="translate(21.5,153.5)"
        width="37"
        height="1000"
        style="opacity:0.33" />
@@ -11210,14 +11277,14 @@
        y="0"
        xlink:href="#rect4264"
        id="use58039"
-       transform="translate(15,126)"
+       transform="translate(21.5,156.5)"
        width="37"
        height="1000"
        style="opacity:0.33;fill:url(#linearGradient58047);fill-opacity:1" />
     <use
        height="1000"
        width="37"
-       transform="translate(15,120)"
+       transform="translate(21.5,150.5)"
        id="use58037"
        xlink:href="#rect4264"
        y="0"
@@ -11344,7 +11411,7 @@
        width="37"
        height="1000" />
     <g
-       transform="translate(28.499955)"
+       transform="translate(28.999955,30.5)"
        id="header-separator">
       <use
          height="1000"
@@ -11363,8 +11430,8 @@
          y="1220.3622" />
     </g>
     <rect
-       y="1227.3622"
-       x="-15.500046"
+       y="1257.8622"
+       x="-15.000046"
        height="2.0000005"
        width="2.0000005"
        id="rect61484"
@@ -11374,26 +11441,26 @@
        id="rect61486"
        width="1"
        height="2.0000005"
-       x="-17.500046"
-       y="1227.3622" />
+       x="-17.000046"
+       y="1257.8622" />
     <use
        style="fill:#f6f6f6;fill-opacity:1"
        height="1000"
        width="37"
-       transform="translate(9.9999991,0.99999991)"
+       transform="translate(9.9999991,1)"
        id="use61488"
        xlink:href="#rect61484"
        y="0"
        x="0" />
     <g
-       transform="translate(28.499955)"
+       transform="translate(28.999955,30.5)"
        id="g61494">
       <use
          x="0"
          y="0"
          xlink:href="#use61488"
          id="use61492"
-         transform="matrix(0.49999988,0,0,1,-33.249978,0)"
+         transform="matrix(0.49999988,0,0,1,-33.499978,-30.5)"
          width="37"
          height="1000" />
       <use
@@ -11401,18 +11468,18 @@
          y="0"
          xlink:href="#rect61486"
          id="use61490"
-         transform="translate(-18.499955,1.0000004)"
+         transform="translate(-18.999955,-29.5)"
          width="37"
          height="1000"
          style="opacity:0.1" />
     </g>
     <g
-       transform="matrix(1,0,0,0.50000012,28.499955,612.18095)"
+       transform="matrix(1,0,0,0.50000012,28.999955,642.68095)"
        id="g61498">
       <use
          height="1000"
          width="37"
-         transform="matrix(0.49999988,0,0,1,-33.249978,0)"
+         transform="matrix(0.49999988,0,0,1,-33.499978,-30.5)"
          id="use61500"
          xlink:href="#use61488"
          y="0"
@@ -11421,7 +11488,7 @@
          style="opacity:0.1"
          height="1000"
          width="37"
-         transform="translate(-18.499955,1.0000004)"
+         transform="translate(-18.999955,-29.5)"
          id="use61502"
          xlink:href="#rect61486"
          y="0"
@@ -11430,7 +11497,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-9.0000905,-5.9120559e-6)"
+       transform="matrix(-1,0,0,1,-8.0000905,-6e-6)"
        id="use61504"
        xlink:href="#g61494"
        y="0"
@@ -11438,7 +11505,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-9.0000905,-5.9120559e-6)"
+       transform="matrix(-1,0,0,1,-8.0000905,-6e-6)"
        id="use61506"
        xlink:href="#g61498"
        y="0"
@@ -11446,7 +11513,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-4.5000454,1229.3622)"
+       transform="rotate(90,-4.0000454,1259.8622)"
        id="use61508"
        xlink:href="#g61494"
        y="0"
@@ -11454,7 +11521,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2458.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2519.7244)"
        id="use61510"
        xlink:href="#g61498"
        y="0"
@@ -11462,7 +11529,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2458.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2519.7244)"
        id="use61512"
        xlink:href="#use61506"
        y="0"
@@ -11470,19 +11537,19 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2458.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2519.7244)"
        id="use61514"
        xlink:href="#use61508"
        y="0"
        x="0" />
     <g
-       transform="translate(28.499955)"
+       transform="translate(28.999955,30.5)"
        id="use61618">
       <use
          style="fill:#f6f6f6;fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-18.499956,8.0000004)"
+         transform="translate(-18.999956,-22.5)"
          id="use61773"
          xlink:href="#rect61484"
          y="0"
@@ -11492,27 +11559,27 @@
          y="0"
          xlink:href="#rect61484"
          id="use61775"
-         transform="translate(-18.499956,8.0000004)"
+         transform="translate(-18.999956,-22.5)"
          width="37"
          height="1000"
          style="opacity:0.05;fill:#000000;fill-opacity:1" />
     </g>
     <g
-       transform="translate(28.499955)"
+       transform="translate(28.999955,30.5)"
        id="g61656">
       <use
          x="0"
          y="0"
          xlink:href="#use61618"
          id="use61628"
-         transform="matrix(0.50000013,0,0,1,-33.249977,-1.7187177e-8)"
+         transform="matrix(0.50000013,0,0,1,-33.499977,-30.5)"
          width="37"
          height="1000" />
       <use
          style="opacity:0.1"
          height="1000"
          width="37"
-         transform="translate(-18.499955,7.9999999)"
+         transform="translate(-18.999955,-22.5)"
          id="use61624"
          xlink:href="#rect61486"
          y="0"
@@ -11528,14 +11595,14 @@
        y="0"
        x="0" />
     <g
-       transform="translate(28.499955,2.9999936)"
+       transform="translate(28.999955,33.499994)"
        id="g61650">
       <use
          x="0"
          y="0"
          xlink:href="#use61630"
          id="use61636"
-         transform="matrix(0.49999988,0,0,1,-33.249978,-2.9999933)"
+         transform="matrix(0.49999988,0,0,1,-33.499978,-33.499993)"
          width="37"
          height="1000" />
       <use
@@ -11543,7 +11610,7 @@
          y="0"
          xlink:href="#rect61486"
          id="use61634"
-         transform="translate(-18.499955,12)"
+         transform="translate(-18.999955,-18.5)"
          width="37"
          height="1000"
          style="opacity:0.1;fill:#000000;fill-opacity:1" />
@@ -11558,14 +11625,14 @@
        height="1000"
        style="fill:#e8e8e8;fill-opacity:1" />
     <g
-       transform="translate(28.499955,6.0000058)"
+       transform="translate(28.999955,36.500006)"
        id="g61644">
       <use
          x="0"
          y="0"
          xlink:href="#use61638"
          id="use61640"
-         transform="matrix(0.50000013,0,0,1,-33.249977,-6.0000054)"
+         transform="matrix(0.50000013,0,0,1,-33.499977,-36.500005)"
          width="37"
          height="1000" />
       <use
@@ -11573,7 +11640,7 @@
          y="0"
          xlink:href="#rect61486"
          id="use61642"
-         transform="translate(-18.499955,16)"
+         transform="translate(-18.999955,-14.5)"
          width="37"
          height="1000"
          style="opacity:0.1" />
@@ -11581,7 +11648,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,0.50000007,1.2729682e-7,622.681)"
+       transform="matrix(1,0,0,0.50000007,1.3e-7,637.931)"
        id="use61648"
        xlink:href="#g61644"
        y="0"
@@ -11589,7 +11656,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,0.49999998,1.2729682e-7,619.18112)"
+       transform="matrix(1,0,0,0.49999998,1.3e-7,634.43112)"
        id="use61654"
        xlink:href="#g61650"
        y="0"
@@ -11597,7 +11664,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,0.5,1.2729682e-7,615.68109)"
+       transform="matrix(1,0,0,0.5,1.3e-7,630.93109)"
        id="use61660"
        xlink:href="#g61656"
        y="0"
@@ -11605,7 +11672,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-4.5000454,1236.3622)"
+       transform="rotate(90,-4.0000454,1266.8622)"
        id="use61662"
        xlink:href="#g61656"
        y="0"
@@ -11613,7 +11680,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-4.5000454,1236.3622)"
+       transform="rotate(90,-4.0000454,1266.8622)"
        id="use61664"
        xlink:href="#use61660"
        y="0"
@@ -11621,7 +11688,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-4.5000454,1236.3622)"
+       transform="rotate(-90,-4.000045,1266.8622)"
        id="use61666"
        xlink:href="#g61656"
        y="0"
@@ -11629,7 +11696,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-4.5000454,1236.3622)"
+       transform="rotate(-90,-4.000045,1266.8622)"
        id="use61668"
        xlink:href="#use61660"
        y="0"
@@ -11637,7 +11704,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(180,-4.5000454,1236.3622)"
+       transform="rotate(180,-4.0000454,1266.8622)"
        id="use61670"
        xlink:href="#g61656"
        y="0"
@@ -11645,7 +11712,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(180,-4.5000454,1236.3622)"
+       transform="rotate(180,-4.0000454,1266.8622)"
        id="use61672"
        xlink:href="#use61660"
        y="0"
@@ -11653,7 +11720,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-4.5000454,1243.3622)"
+       transform="rotate(90,-4.0000454,1273.8622)"
        id="use61674"
        xlink:href="#g61650"
        y="0"
@@ -11661,7 +11728,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-4.5000454,1243.3622)"
+       transform="rotate(90,-4.0000454,1273.8622)"
        id="use61676"
        xlink:href="#use61654"
        y="0"
@@ -11669,7 +11736,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-4.5000454,1243.3622)"
+       transform="rotate(-90,-4.000045,1273.8622)"
        id="use61678"
        xlink:href="#g61650"
        y="0"
@@ -11677,7 +11744,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-4.5000454,1243.3622)"
+       transform="rotate(-90,-4.000045,1273.8622)"
        id="use61680"
        xlink:href="#use61654"
        y="0"
@@ -11685,7 +11752,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(180,-4.5000454,1243.3622)"
+       transform="rotate(180,-4.0000454,1273.8622)"
        id="use61682"
        xlink:href="#g61650"
        y="0"
@@ -11693,7 +11760,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(180,-4.5000454,1243.3622)"
+       transform="rotate(180,-4.0000454,1273.8622)"
        id="use61684"
        xlink:href="#use61654"
        y="0"
@@ -11701,7 +11768,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-4.5000454,1250.3622)"
+       transform="rotate(90,-4.0000454,1280.8622)"
        id="use61686"
        xlink:href="#g61644"
        y="0"
@@ -11709,7 +11776,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-4.5000454,1250.3622)"
+       transform="rotate(90,-4.0000454,1280.8622)"
        id="use61688"
        xlink:href="#use61648"
        y="0"
@@ -11717,7 +11784,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-4.5000454,1250.3622)"
+       transform="rotate(-90,-4.000045,1280.8622)"
        id="use61690"
        xlink:href="#g61644"
        y="0"
@@ -11725,7 +11792,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(-90,-4.5000454,1250.3622)"
+       transform="rotate(-90,-4.000045,1280.8622)"
        id="use61692"
        xlink:href="#use61648"
        y="0"
@@ -11733,7 +11800,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(180,-4.5000454,1250.3622)"
+       transform="rotate(180,-4.0000454,1280.8622)"
        id="use61694"
        xlink:href="#g61644"
        y="0"
@@ -11741,7 +11808,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(180,-4.5000454,1250.3622)"
+       transform="rotate(180,-4.0000454,1280.8622)"
        id="use61696"
        xlink:href="#use61648"
        y="0"
@@ -11749,7 +11816,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(7.0000001,-0.99999953)"
+       transform="translate(7.0000001,-1)"
        id="header-normal"
        xlink:href="#use61488"
        y="0"
@@ -11773,7 +11840,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(6.0000001,-1.0000005)"
+       transform="translate(6.0000001,-1)"
        id="header-normal-right"
        xlink:href="#use61504"
        y="0"
@@ -11797,7 +11864,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(8.0000181,-2.0000117)"
+       transform="translate(8.0000181,-2.000012)"
        id="header-normal-bottomleft"
        xlink:href="#use61510"
        y="0"
@@ -11805,7 +11872,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(6.0000181,-2.0000122)"
+       transform="translate(6.0000181,-2.000012)"
        id="header-normal-bottomright"
        xlink:href="#use61512"
        y="0"
@@ -11813,7 +11880,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(7.0000181,-2.0000113)"
+       transform="translate(7.0000181,-2.000011)"
        id="header-normal-bottom"
        xlink:href="#use61514"
        y="0"
@@ -11909,7 +11976,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(12.000001,-9.0000287)"
+       transform="translate(12.000001,-9.000029)"
        id="header-focused-bottom"
        xlink:href="#use61666"
        y="0"
@@ -11917,7 +11984,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(13.000018,-9.0000127)"
+       transform="translate(13.000018,-9.000013)"
        id="header-focused-bottomleft"
        xlink:href="#use61668"
        y="0"
@@ -11933,7 +12000,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(11,-9.0000287)"
+       transform="translate(11,-9.000029)"
        id="header-focused-right"
        xlink:href="#use61672"
        y="0"
@@ -12036,7 +12103,7 @@
        x="0" />
     <g
        id="g79347"
-       transform="translate(30.499955,170.00003)">
+       transform="translate(30.999955,200.50003)">
       <use
          height="1000"
          width="48"
@@ -12052,7 +12119,7 @@
     </g>
     <g
        id="g79355"
-       transform="translate(30.499955,170.00003)">
+       transform="translate(30.999955,200.50003)">
       <use
          x="0"
          y="0"
@@ -12066,13 +12133,13 @@
          y="0"
          xlink:href="#rect4264"
          id="use79359"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          width="37"
          height="1000"
          style="fill:#1d81fe;fill-opacity:1" />
     </g>
     <g
-       transform="translate(33.499955,170.00003)"
+       transform="translate(33.999955,200.50003)"
        id="g79363">
       <use
          height="1000"
@@ -12086,7 +12153,7 @@
          style="fill:#1d81fe;fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          id="use79367"
          xlink:href="#rect4264"
          y="0"
@@ -12097,7 +12164,7 @@
        y="0"
        xlink:href="#g79347"
        id="use79369"
-       transform="matrix(-1,0,0,1,-11.00009,-1.4772968e-6)"
+       transform="matrix(-1,0,0,1,-10.00009,-10e-7)"
        width="37"
        height="1000" />
     <use
@@ -12105,7 +12172,7 @@
        y="0"
        xlink:href="#g79355"
        id="use79371"
-       transform="matrix(-1,0,0,1,-11.00009,-1.4772968e-6)"
+       transform="matrix(-1,0,0,1,-10.00009,-10e-7)"
        width="37"
        height="1000" />
     <use
@@ -12113,7 +12180,7 @@
        y="0"
        xlink:href="#g79355"
        id="use79373"
-       transform="rotate(90,-5.5000454,1259.3622)"
+       transform="rotate(90,-5.0000454,1289.8622)"
        width="37"
        height="1000" />
     <use
@@ -12121,7 +12188,7 @@
        y="0"
        xlink:href="#g79347"
        id="use79375"
-       transform="matrix(1,0,0,-1,1.3127297e-5,2518.7244)"
+       transform="matrix(1,0,0,-1,1.313e-5,2579.7244)"
        width="37"
        height="1000" />
     <use
@@ -12129,7 +12196,7 @@
        y="0"
        xlink:href="#use79369"
        id="use79377"
-       transform="matrix(1,0,0,-1,1.3127297e-5,2518.7244)"
+       transform="matrix(1,0,0,-1,1.313e-5,2579.7244)"
        width="37"
        height="1000" />
     <use
@@ -12137,11 +12204,11 @@
        y="0"
        xlink:href="#use79373"
        id="use79379"
-       transform="matrix(1,0,0,-1,1.3127297e-5,2518.7244)"
+       transform="matrix(1,0,0,-1,1.313e-5,2579.7244)"
        width="37"
        height="1000" />
     <g
-       transform="translate(30.499955,179.99998)"
+       transform="translate(30.999955,210.49998)"
        id="g79381">
       <use
          x="0"
@@ -12157,7 +12224,7 @@
          id="path79385" />
     </g>
     <g
-       transform="translate(30.499955,179.99998)"
+       transform="translate(30.999955,210.49998)"
        id="g79387">
       <use
          height="1000"
@@ -12171,7 +12238,7 @@
          style="fill:#1d81fe;fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          id="use79391"
          xlink:href="#rect4264"
          y="0"
@@ -12179,7 +12246,7 @@
     </g>
     <g
        id="g79393"
-       transform="translate(33.499955,179.99998)">
+       transform="translate(33.999955,210.49998)">
       <use
          x="0"
          y="0"
@@ -12193,7 +12260,7 @@
          y="0"
          xlink:href="#rect4264"
          id="use79397"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          width="37"
          height="1000"
          style="fill:#1d81fe;fill-opacity:1" />
@@ -12203,7 +12270,7 @@
        y="0"
        xlink:href="#g79381"
        id="use79411"
-       transform="matrix(-1,0,0,1,-11.00009,4.8522703e-5)"
+       transform="matrix(-1,0,0,1,-10.00009,4.9e-5)"
        width="37"
        height="1000" />
     <use
@@ -12211,7 +12278,7 @@
        y="0"
        xlink:href="#g79387"
        id="use79413"
-       transform="matrix(-1,0,0,1,-11.00009,4.8522703e-5)"
+       transform="matrix(-1,0,0,1,-10.00009,4.9e-5)"
        width="37"
        height="1000" />
     <use
@@ -12219,7 +12286,7 @@
        y="0"
        xlink:href="#g79387"
        id="use79415"
-       transform="rotate(90,-5.5000954,1269.3621)"
+       transform="rotate(90,-5.0000954,1299.8621)"
        width="37"
        height="1000" />
     <use
@@ -12227,7 +12294,7 @@
        y="0"
        xlink:href="#g79381"
        id="use79417"
-       transform="matrix(1,0,0,-1,6.3127297e-5,2538.7244)"
+       transform="matrix(1,0,0,-1,6.313e-5,2599.7244)"
        width="37"
        height="1000" />
     <use
@@ -12235,7 +12302,7 @@
        y="0"
        xlink:href="#use79411"
        id="use79419"
-       transform="matrix(1,0,0,-1,6.3127297e-5,2538.7244)"
+       transform="matrix(1,0,0,-1,6.313e-5,2599.7244)"
        width="37"
        height="1000" />
     <use
@@ -12243,13 +12310,13 @@
        y="0"
        xlink:href="#use79415"
        id="use79421"
-       transform="matrix(1,0,0,-1,6.3127297e-5,2538.7244)"
+       transform="matrix(1,0,0,-1,6.313e-5,2599.7244)"
        width="37"
        height="1000" />
     <g
        style="fill-opacity:1"
        id="g79429"
-       transform="translate(30.499955,190)">
+       transform="translate(30.999955,220.5)">
       <use
          style="fill-opacity:1"
          height="1000"
@@ -12262,12 +12329,12 @@
       <path
          id="path79433"
          d="m -38,1085.3622 c -1.108,0 -2,0.892 -2,2 h 2 z"
-         style="fill-opacity:1;" />
+         style="fill-opacity:1" />
     </g>
     <g
        style="fill-opacity:1"
        id="g79435"
-       transform="translate(30.499955,190)">
+       transform="translate(30.999955,220.5)">
       <use
          style="fill-opacity:1"
          x="0"
@@ -12282,14 +12349,14 @@
          y="0"
          xlink:href="#rect4264"
          id="use79439"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          width="37"
          height="1000"
-         style="fill-opacity:1;" />
+         style="fill-opacity:1" />
     </g>
     <g
        style="fill-opacity:1"
-       transform="translate(33.499955,190)"
+       transform="translate(33.999955,220.5)"
        id="g79441">
       <use
          style="fill-opacity:1"
@@ -12301,10 +12368,10 @@
          y="0"
          x="0" />
       <use
-         style="fill-opacity:1;"
+         style="fill-opacity:1"
          height="1000"
          width="37"
-         transform="translate(-16.499955,-0.99999962)"
+         transform="translate(-10.499955,-0.99999962)"
          id="use79445"
          xlink:href="#rect4264"
          y="0"
@@ -12315,7 +12382,7 @@
        y="0"
        xlink:href="#g79429"
        id="use79447"
-       transform="matrix(-1,0,0,1,-11.00009,2.8522703e-5)"
+       transform="matrix(-1,0,0,1,-10.00009,2.9e-5)"
        width="37"
        height="1000" />
     <use
@@ -12323,7 +12390,7 @@
        y="0"
        xlink:href="#g79435"
        id="use79449"
-       transform="matrix(-1,0,0,1,-11.00009,2.8522703e-5)"
+       transform="matrix(-1,0,0,1,-10.00009,2.9e-5)"
        width="37"
        height="1000" />
     <use
@@ -12331,7 +12398,7 @@
        y="0"
        xlink:href="#g79435"
        id="use79451"
-       transform="rotate(90,-5.5000454,1279.3622)"
+       transform="rotate(90,-5.0000454,1309.8622)"
        width="37"
        height="1000" />
     <use
@@ -12339,7 +12406,7 @@
        y="0"
        xlink:href="#g79429"
        id="use79453"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2558.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2619.7244)"
        width="37"
        height="1000" />
     <use
@@ -12347,7 +12414,7 @@
        y="0"
        xlink:href="#use79447"
        id="use79455"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2558.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2619.7244)"
        width="37"
        height="1000" />
     <use
@@ -12355,7 +12422,7 @@
        y="0"
        xlink:href="#use79451"
        id="use79457"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2558.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2619.7244)"
        width="37"
        height="1000" />
     <use
@@ -12373,7 +12440,7 @@
        y="0"
        xlink:href="#g79355"
        id="itemview-focused-left"
-       transform="translate(11,-1.0000015)"
+       transform="translate(11,-1.000002)"
        width="37"
        height="1000" />
     <use
@@ -12382,7 +12449,7 @@
        y="0"
        xlink:href="#g79363"
        id="itemview-focused"
-       transform="translate(9.9999841,-1.0000185)"
+       transform="translate(9.9999841,-1.000019)"
        width="37"
        height="1000" />
     <use
@@ -12400,7 +12467,7 @@
        y="0"
        xlink:href="#use79371"
        id="itemview-focused-right"
-       transform="translate(9.0000001,-1.0000001)"
+       transform="translate(9.0000001,-1)"
        width="37"
        height="1000" />
     <use
@@ -12409,7 +12476,7 @@
        y="0"
        xlink:href="#use79373"
        id="itemview-focused-top"
-       transform="translate(9.9999841,-1.698e-5)"
+       transform="translate(9.9999841,-1.7e-5)"
        width="37"
        height="1000" />
     <use
@@ -12418,7 +12485,7 @@
        y="0"
        xlink:href="#use79375"
        id="itemview-focused-bottomleft"
-       transform="translate(11.000017,-2.0000345)"
+       transform="translate(11.000017,-2.000034)"
        width="37"
        height="1000" />
     <use
@@ -12436,7 +12503,7 @@
        y="0"
        xlink:href="#use79379"
        id="itemview-focused-bottom"
-       transform="translate(10.000001,-2.0000515)"
+       transform="translate(10.000001,-2.000052)"
        width="37"
        height="1000" />
     <use
@@ -12444,7 +12511,7 @@
        y="0"
        xlink:href="#g79381"
        id="itemview-pressed-topleft"
-       transform="translate(19,-9.9999986)"
+       transform="translate(19,-9.999999)"
        width="37"
        height="1000" />
     <use
@@ -12468,7 +12535,7 @@
        y="0"
        xlink:href="#use79411"
        id="itemview-pressed-topright"
-       transform="translate(17,-9.9999991)"
+       transform="translate(17,-9.999999)"
        width="37"
        height="1000" />
     <use
@@ -12594,7 +12661,7 @@
        height="1000" />
     <g
        id="g5763"
-       transform="translate(-50.500055,872.3625)">
+       transform="translate(-50.000055,902.8625)">
       <path
          id="path90508"
          style="opacity:0.16;fill:#000000;fill-opacity:0.997442;fill-rule:evenodd;stroke:none"
@@ -12608,7 +12675,7 @@
     </g>
     <g
        id="g5789"
-       transform="translate(-49.500045,319.36222)">
+       transform="translate(-49.000045,349.86222)">
       <path
          sodipodi:nodetypes="ccccc"
          id="use2403"
@@ -12623,7 +12690,7 @@
     <g
        style="opacity:0.1"
        id="g2358"
-       transform="translate(-69.000045,877.36219)">
+       transform="translate(-68.500045,907.86219)">
       <path
          id="path90916"
          style="fill:url(#radialGradient98722);fill-opacity:1;stroke:none"
@@ -12635,15 +12702,15 @@
        id="rect5391"
        width="10"
        height="7"
-       x="-96.500046"
-       y="1286.3622" />
+       x="-96.000046"
+       y="1316.8622" />
     <path
        id="path3452"
        style="fill-opacity:1;stroke:none"
-       d="m -62.500045,1287.3446 a 6,6 0 0 0 -4.916016,4.916 h 1.017578 a 5,5 0 0 1 3.898438,-3.8984 z" />
+       d="m -62.000045,1317.8446 a 6,6 0 0 0 -4.916016,4.916 h 1.017578 a 5,5 0 0 1 3.898438,-3.8984 z" />
     <rect
-       y="1294.3622"
-       x="-66.500046"
+       y="1324.8622"
+       x="-66.000046"
        height="7.0000005"
        width="1"
        id="rect90608"
@@ -12658,7 +12725,7 @@
        y="0"
        x="0" />
     <g
-       transform="translate(20.499955,0.999996)"
+       transform="translate(20.999955,31.499996)"
        id="g90704">
       <use
          height="1000"
@@ -12673,7 +12740,7 @@
          y="0"
          xlink:href="#g2358"
          id="use90632"
-         transform="translate(15.500045,15.999997)"
+         transform="translate(15.000045,-14.500003)"
          width="37"
          height="1000" />
       <use
@@ -12681,7 +12748,7 @@
          y="0"
          xlink:href="#g5763"
          id="use90634"
-         transform="translate(3.5000454,10.000007)"
+         transform="translate(3.0000454,-20.499993)"
          width="37"
          height="1000" />
       <use
@@ -12689,13 +12756,13 @@
          y="0"
          xlink:href="#path3452"
          id="use90700"
-         transform="translate(-2.4999546,10.101907)"
+         transform="translate(-2.9999546,-20.398093)"
          width="37"
          height="1000"
          style="opacity:0.1;fill:#ffffff;fill-opacity:1" />
     </g>
     <g
-       transform="translate(20.499955,0.999996)"
+       transform="translate(20.999955,31.499996)"
        id="g90710">
       <use
          height="1000"
@@ -12710,7 +12777,7 @@
          y="0"
          xlink:href="#g5789"
          id="use90658"
-         transform="translate(3.5000454,8.999967)"
+         transform="translate(3.0000454,-21.500033)"
          width="37"
          height="1000" />
       <use
@@ -12718,7 +12785,7 @@
          y="0"
          xlink:href="#rect5391"
          id="use90662"
-         transform="translate(15.500045,17.000004)"
+         transform="translate(15.000045,-13.499996)"
          width="37"
          height="1000" />
       <use
@@ -12726,27 +12793,27 @@
          y="0"
          xlink:href="#rect90608"
          id="use90702"
-         transform="translate(-3.4999546,9.000004)"
+         transform="translate(-3.9999546,-21.499996)"
          width="37"
          height="1000"
          style="opacity:0.1;fill:#ffffff;fill-opacity:1" />
     </g>
     <rect
-       y="1286.3622"
-       x="-85.500046"
+       y="1316.8622"
+       x="-85.000046"
        height="7"
        width="10"
        id="rect90718"
        style="opacity:0.1;fill:url(#radialGradient98730);fill-opacity:1;stroke-width:4.44972;stroke-linecap:round;stroke-linejoin:round" />
     <g
-       transform="translate(20.499955,0.999996)"
+       transform="translate(20.999955,31.499996)"
        id="g90748">
       <use
          x="0"
          y="0"
          xlink:href="#g90704"
          id="use90722"
-         transform="translate(-2.4999546,-0.999996)"
+         transform="translate(-2.9999546,-31.499996)"
          width="37"
          height="1000" />
       <use
@@ -12754,13 +12821,13 @@
          y="0"
          xlink:href="#path3452"
          id="use90730"
-         transform="translate(15.500045,10.101907)"
+         transform="translate(15.000045,-20.398093)"
          width="37"
          height="1000"
          style="opacity:0.1;fill:url(#linearGradient98736);fill-opacity:1" />
     </g>
     <g
-       transform="translate(20.499955,0.999996)"
+       transform="translate(20.999955,31.499996)"
        id="g94830">
       <use
          x="0"
@@ -12775,7 +12842,7 @@
          y="0"
          xlink:href="#rect90608"
          id="use90758"
-         transform="rotate(90,-54.250023,1309.6122)"
+         transform="rotate(90,-38.750023,1324.6122)"
          width="37"
          height="1000"
          style="opacity:0.1;fill:url(#linearGradient98734);fill-opacity:1" />
@@ -12785,10 +12852,10 @@
        id="rect90768"
        width="5"
        height="5.0000005"
-       x="-74.500046"
-       y="1303.3622" />
+       x="-74.000046"
+       y="1333.8622" />
     <g
-       transform="translate(20.499955,0.999996)"
+       transform="translate(20.999955,31.499996)"
        id="g90900">
       <use
          height="1000"
@@ -12803,19 +12870,19 @@
          y="0"
          xlink:href="#rect90768"
          id="use90770"
-         transform="matrix(1.4,0,0,1.3999999,58.300064,-521.34468)"
+         transform="matrix(1.4,0,0,1.3999999,57.600064,-564.04468)"
          width="37"
          height="1000" />
     </g>
     <g
-       transform="translate(20.499955,0.999996)"
+       transform="translate(20.999955,31.499996)"
        id="g90910">
       <use
          x="0"
          y="0"
          xlink:href="#g90710"
          id="use90724"
-         transform="translate(-2.4999546,-0.999996)"
+         transform="translate(-2.9999546,-31.499996)"
          width="37"
          height="1000" />
       <use
@@ -12823,27 +12890,27 @@
          y="0"
          xlink:href="#rect90718"
          id="use90908"
-         transform="translate(22.500045,17.000004)"
+         transform="translate(22.000045,-13.499996)"
          width="37"
          height="1000" />
     </g>
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-44.00009,0)"
+       transform="matrix(-1,0,0,1,-43.00009,0)"
        id="use90914"
        xlink:href="#g90910"
        y="0"
        x="0" />
     <g
-       transform="translate(20.499955,0.999996)"
+       transform="translate(20.999955,31.499996)"
        id="g90928">
       <use
          x="0"
          y="0"
          xlink:href="#g90704"
          id="use90904"
-         transform="matrix(1,0,0,-1,-2.4999556,2614.7244)"
+         transform="matrix(1,0,0,-1,-2.9999556,2645.2244)"
          width="37"
          height="1000" />
       <use
@@ -12851,14 +12918,14 @@
          y="0"
          xlink:href="#g2358"
          id="use90918"
-         transform="rotate(-90,-51.250023,1282.1122)"
+         transform="rotate(-90,-66.250023,1297.6122)"
          width="37"
          height="1000" />
     </g>
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-44.00009,8.8e-6)"
+       transform="matrix(-1,0,0,1,-43.00009,9e-6)"
        id="use90926"
        xlink:href="#g90748"
        y="0"
@@ -12866,20 +12933,20 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-44.00009,-4.282e-5)"
+       transform="matrix(-1,0,0,1,-43.00009,-4.3e-5)"
        id="use90932"
        xlink:href="#g90928"
        y="0"
        x="0" />
     <g
-       transform="translate(20.499955,0.999996)"
+       transform="translate(20.999955,31.499996)"
        id="g90936">
       <use
          x="0"
          y="0"
          xlink:href="#g90710"
          id="use90906"
-         transform="rotate(-90,-41.750023,1308.6122)"
+         transform="rotate(-90,-56.750023,1324.1122)"
          width="37"
          height="1000" />
       <use
@@ -12887,7 +12954,7 @@
          y="0"
          xlink:href="#rect5391"
          id="use90934"
-         transform="rotate(-90,-50.750023,1281.6122)"
+         transform="rotate(-90,-65.750023,1297.1122)"
          width="37"
          height="1000" />
     </g>
@@ -12896,7 +12963,7 @@
        y="0"
        xlink:href="#g90748"
        id="menu-shadow-topleft"
-       transform="translate(50,-0.99999118)"
+       transform="translate(50,-0.999991)"
        width="37"
        height="1000" />
     <use
@@ -12904,7 +12971,7 @@
        y="0"
        xlink:href="#g94830"
        id="menu-shadow-top"
-       transform="translate(50,-0.99999118)"
+       transform="translate(50,-0.999991)"
        width="37"
        height="1000" />
     <use
@@ -12912,7 +12979,7 @@
        y="0"
        xlink:href="#g90910"
        id="menu-shadow-left"
-       transform="translate(50,-0.99999118)"
+       transform="translate(50,-0.999991)"
        width="37"
        height="1000" />
     <use
@@ -12920,7 +12987,7 @@
        y="0"
        xlink:href="#use90914"
        id="menu-shadow-right"
-       transform="translate(50,-0.99999118)"
+       transform="translate(50,-0.999991)"
        width="37"
        height="1000" />
     <use
@@ -12928,7 +12995,7 @@
        y="0"
        xlink:href="#g90928"
        id="menu-shadow-bottomleft"
-       transform="translate(50,-0.99999118)"
+       transform="translate(50,-0.999991)"
        width="37"
        height="1000" />
     <use
@@ -12936,7 +13003,7 @@
        y="0"
        xlink:href="#use90926"
        id="menu-shadow-topright"
-       transform="translate(50,-0.99999118)"
+       transform="translate(50,-0.999991)"
        width="37"
        height="1000" />
     <use
@@ -12944,7 +13011,7 @@
        y="0"
        xlink:href="#use90932"
        id="menu-shadow-bottomright"
-       transform="translate(50,-0.99999118)"
+       transform="translate(50,-0.999991)"
        width="37"
        height="1000" />
     <use
@@ -12952,11 +13019,11 @@
        y="0"
        xlink:href="#g90936"
        id="menu-shadow-bottom"
-       transform="translate(50,-0.99999118)"
+       transform="translate(50,-0.999991)"
        width="37"
        height="1000" />
     <g
-       transform="translate(28.499955)"
+       transform="translate(28.999955,30.5)"
        id="g98755">
       <rect
          style="fill:#b74aff;fill-rule:evenodd;stroke:none"
@@ -12990,14 +13057,14 @@
          transform="rotate(-90)" />
     </g>
     <rect
-       y="1342.3622"
-       x="-35.500046"
+       y="1372.8622"
+       x="-35.000046"
        height="5.0000005"
        width="5"
        id="rect98765"
        style="opacity:1;fill:#f5f5f5;fill-opacity:1" />
     <g
-       transform="translate(28.499955)"
+       transform="translate(28.999955,30.5)"
        id="g98848">
       <use
          height="1000"
@@ -13012,7 +13079,7 @@
         <use
            height="1000"
            width="37"
-           transform="matrix(2.4999985,0,0,2.4999985,-11.249919,-1377.0417)"
+           transform="matrix(2.4999985,0,0,2.4999985,3.750072,-1377.0417)"
            id="use98761"
            xlink:href="#rect4260"
            y="0"
@@ -13031,7 +13098,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-66.00009,1.40433e-5)"
+       transform="matrix(-1,0,0,1,-65.00009,1.4e-5)"
        id="use98853"
        xlink:href="#g98848"
        y="0"
@@ -13039,7 +13106,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-66.00009,1.40433e-5)"
+       transform="matrix(-1,0,0,1,-65.00009,1.4e-5)"
        id="use98855"
        xlink:href="#use98794"
        y="0"
@@ -13047,7 +13114,7 @@
     <use
        height="1000"
        width="37"
-       transform="rotate(90,-33.000046,1344.8622)"
+       transform="rotate(90,-32.500046,1375.3622)"
        id="use98857"
        xlink:href="#use98794"
        y="0"
@@ -13055,7 +13122,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2689.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2750.7244)"
        id="use98859"
        xlink:href="#g98848"
        y="0"
@@ -13063,7 +13130,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2689.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2750.7244)"
        id="use98861"
        xlink:href="#use98853"
        y="0"
@@ -13071,7 +13138,7 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2689.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2750.7244)"
        id="use98863"
        xlink:href="#use98857"
        y="0"
@@ -13141,7 +13208,7 @@
        y="0"
        x="0" />
     <g
-       transform="translate(-144.50005,1194.3622)"
+       transform="translate(-144.00005,1224.8622)"
        id="menuitem-separator">
       <use
          x="0"
@@ -13158,14 +13225,14 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <rect
-       y="1354.3622"
-       x="-13.500046"
+       y="1384.8622"
+       x="-13.000046"
        height="1.0000004"
        width="1"
        id="rect102881"
        style="fill:#0165e0;fill-opacity:1" />
     <g
-       transform="translate(28.499955)"
+       transform="translate(28.999955,30.5)"
        id="g102929">
       <use
          x="0"
@@ -13186,7 +13253,7 @@
        y="0"
        xlink:href="#rect102881"
        id="use102933"
-       transform="matrix(4,0,0,1,35.500137,2.518459e-8)"
+       transform="matrix(4,0,0,1,34.000137,0)"
        width="37"
        height="1000" />
     <use
@@ -13194,7 +13261,7 @@
        y="0"
        xlink:href="#g102929"
        id="use102935"
-       transform="matrix(-1,0,0,1,-26.00009,7.2745681e-6)"
+       transform="matrix(-1,0,0,1,-25.00009,7e-6)"
        width="37"
        height="1000" />
     <use
@@ -13202,7 +13269,7 @@
        y="0"
        xlink:href="#use102933"
        id="use102937"
-       transform="matrix(-1,0,0,1,-26.00009,7.2745681e-6)"
+       transform="matrix(-1,0,0,1,-25.00009,7e-6)"
        width="37"
        height="1000" />
     <use
@@ -13210,7 +13277,7 @@
        y="0"
        xlink:href="#use102933"
        id="use102939"
-       transform="rotate(90,-13.000046,1354.8622)"
+       transform="rotate(90,-12.500046,1385.3622)"
        width="37"
        height="1000" />
     <use
@@ -13218,7 +13285,7 @@
        y="0"
        xlink:href="#g102929"
        id="use102941"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2709.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2770.7244)"
        width="37"
        height="1000" />
     <use
@@ -13226,7 +13293,7 @@
        y="0"
        xlink:href="#use102935"
        id="use102943"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2709.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2770.7244)"
        width="37"
        height="1000" />
     <use
@@ -13234,7 +13301,7 @@
        y="0"
        xlink:href="#use102939"
        id="use102945"
-       transform="matrix(1,0,0,-1,-1.6872703e-5,2709.7244)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2770.7244)"
        width="37"
        height="1000" />
     <use
@@ -13311,7 +13378,7 @@
        height="1000" />
     <g
        id="g6372"
-       transform="translate(-72,237.36234)">
+       transform="translate(-71.5,267.86234)">
       <rect
          y="1136"
          x="38"
@@ -13329,14 +13396,14 @@
        sodipodi:nodetypes="ccccc"
        id="path6316"
        style="opacity:0.1;fill:url(#linearGradient4964);fill-opacity:1;stroke:none"
-       d="m -46,1379.3623 h 5 v -2 h -5 z" />
+       d="m -45.5,1409.8623 h 5 v -2 h -5 z" />
     <path
-       d="m -46,1376.3623 h 5 v -5 h -5 z"
+       d="m -45.5,1406.8623 h 5 v -5 h -5 z"
        style="opacity:0.1;fill:url(#radialGradient4960);fill-opacity:1;stroke:none"
        id="path6320"
        sodipodi:nodetypes="ccccc" />
     <g
-       transform="matrix(1,0,0,0.50000075,-72,810.36147)"
+       transform="matrix(1,0,0,0.50000075,-71.5,840.86147)"
        id="g4860">
       <rect
          style="fill:#f6f6f6;fill-opacity:1;stroke:none"
@@ -13349,10 +13416,10 @@
          sodipodi:nodetypes="ccccc"
          id="path4864"
          style="opacity:0.2;fill:#333333;fill-opacity:1;stroke:none"
-         d="m 37,1136 v 4 h 1 v -4 c 0,0 -1,0 -1,0 z" />
+         d="m 37,1136 v 4 h 1 v -4 z" />
     </g>
     <g
-       transform="translate(25,1.3336619e-4)"
+       transform="translate(25.5,30.500133)"
        id="g4902">
       <use
          x="0"
@@ -13367,7 +13434,7 @@
          y="0"
          xlink:href="#path6316"
          id="use4894"
-         transform="matrix(0,1,-1.5,0,2025.0435,1416.3622)"
+         transform="matrix(0,1,-1.5,0,2070.7935,1415.8622)"
          width="37"
          height="1000" />
       <use
@@ -13375,7 +13442,7 @@
          y="0"
          xlink:href="#path6320"
          id="use4898"
-         transform="translate(-2.9999994,-1.0001504)"
+         transform="translate(-3.4999994,-31.50015)"
          width="37"
          height="1000" />
       <use
@@ -13383,7 +13450,7 @@
          y="0"
          xlink:href="#path6316"
          id="use4900"
-         transform="matrix(1,0,0,0.9999985,-2.9999994,-1.9980844)"
+         transform="matrix(1,0,0,0.9999985,-3.4999994,-32.498038)"
          width="37"
          height="1000" />
       <use
@@ -13391,20 +13458,20 @@
          y="0"
          xlink:href="#g6372"
          id="use4896"
-         transform="translate(-11,-1.5036619e-4)"
+         transform="translate(-11.5,-30.50015)"
          width="37"
          height="1000" />
     </g>
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-28,-1.7000004e-5)"
+       transform="matrix(-1,0,0,1,-27,-1.7e-5)"
        id="use4909"
        xlink:href="#g4902"
        y="0"
        x="0" />
     <g
-       transform="matrix(1,0,0,-1,25,2758.7245)"
+       transform="matrix(1,0,0,-1,25.5,2789.2245)"
        id="g4913">
       <use
          x="0"
@@ -13417,7 +13484,7 @@
       <use
          height="1000"
          width="37"
-         transform="matrix(0,1,-1.5,0,2025.0435,1414.3622)"
+         transform="matrix(0,1,-1.5,0,2070.7935,1413.8622)"
          id="use4917"
          xlink:href="#path6316"
          y="0"
@@ -13425,7 +13492,7 @@
       <use
          height="1000"
          width="37"
-         transform="translate(-2.9999994,-3.0001164)"
+         transform="translate(-3.4999994,-33.500116)"
          id="use4919"
          xlink:href="#path6320"
          y="0"
@@ -13433,7 +13500,7 @@
       <use
          height="1000"
          width="37"
-         transform="matrix(1,0,0,1.9999815,-2.9999994,-1381.3369)"
+         transform="matrix(1,0,0,1.9999815,-3.4999994,-1442.3364)"
          id="use4921"
          xlink:href="#path6316"
          y="0"
@@ -13441,14 +13508,14 @@
       <use
          height="1000"
          width="37"
-         transform="translate(-11,-1.5036619e-4)"
+         transform="translate(-11.5,-30.50015)"
          id="use4923"
          xlink:href="#g6372"
          y="0"
          x="0" />
     </g>
     <g
-       transform="translate(25,1.3336619e-4)"
+       transform="translate(25.5,30.500133)"
        id="g4929">
       <use
          x="0"
@@ -13463,7 +13530,7 @@
          y="0"
          xlink:href="#path6316"
          id="use4927"
-         transform="translate(-2.9999994,0.99984964)"
+         transform="translate(-3.4999994,-29.50015)"
          width="37"
          height="1000" />
       <use
@@ -13471,14 +13538,14 @@
          y="0"
          xlink:href="#g4860"
          id="use4925"
-         transform="translate(-11,-1.3236619e-4)"
+         transform="translate(-11.5,-30.500132)"
          width="37"
          height="1000" />
     </g>
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-28,0)"
+       transform="matrix(-1,0,0,1,-27,0)"
        id="use4934"
        xlink:href="#g4913"
        y="0"
@@ -13486,13 +13553,13 @@
     <use
        height="1000"
        width="37"
-       transform="matrix(-1,0,0,1,-28,0)"
+       transform="matrix(-1,0,0,1,-27,0)"
        id="use4936"
        xlink:href="#g4929"
        y="0"
        x="0" />
     <g
-       transform="rotate(-90,-26.250023,1366.6122)"
+       transform="rotate(-90,-10.750023,1381.6122)"
        id="g4940">
       <use
          x="0"
@@ -13505,7 +13572,7 @@
       <use
          height="1000"
          width="37"
-         transform="translate(-4.0000984,0.49991144)"
+         transform="translate(-4.5000984,-30.000089)"
          id="use4944"
          xlink:href="#path6316"
          y="0"
@@ -13513,14 +13580,14 @@
       <use
          height="1000"
          width="37"
-         transform="translate(-11.000116,-0.50008757)"
+         transform="translate(-11.500116,-31.000088)"
          id="use4946"
          xlink:href="#g4860"
          y="0"
          x="0" />
     </g>
     <g
-       transform="rotate(90,-26.500059,1391.8623)"
+       transform="rotate(90,-41.500059,1407.3623)"
        id="g4948">
       <use
          x="0"
@@ -13533,7 +13600,7 @@
       <use
          height="1000"
          width="37"
-         transform="translate(-2.0000164,0.99986664)"
+         transform="translate(-2.5000164,-29.500133)"
          id="use4952"
          xlink:href="#path6316"
          y="0"
@@ -13541,7 +13608,7 @@
       <use
          height="1000"
          width="37"
-         transform="translate(-11,-1.3236619e-4)"
+         transform="translate(-11.5,-30.500132)"
          id="use4954"
          xlink:href="#g4860"
          y="0"
@@ -13552,12 +13619,12 @@
        id="rect4956"
        width="1.9999999"
        height="2"
-       x="-15.000001"
-       y="1378.3623" />
+       x="-14.500001"
+       y="1408.8623" />
     <use
        height="1000"
        width="37"
-       transform="translate(29.499955,-1.3598338e-4)"
+       transform="translate(29.499955,-1.36e-4)"
        id="tooltip-shadow-topleft"
        xlink:href="#g4902"
        y="0"
@@ -13565,7 +13632,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(29.499955,-1.3598338e-4)"
+       transform="translate(29.499955,-1.36e-4)"
        id="tooltip-shadow-topright"
        xlink:href="#use4909"
        y="0"
@@ -13573,7 +13640,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(29.499955,-1.3598338e-4)"
+       transform="translate(29.499955,-1.36e-4)"
        id="tooltip-shadow-bottomleft"
        xlink:href="#g4913"
        y="0"
@@ -13581,7 +13648,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(29.499955,-1.3598338e-4)"
+       transform="translate(29.499955,-1.36e-4)"
        id="tooltip-shadow-left"
        xlink:href="#g4929"
        y="0"
@@ -13589,7 +13656,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(29.499955,-1.3598338e-4)"
+       transform="translate(29.499955,-1.36e-4)"
        id="tooltip-shadow-bottomright"
        xlink:href="#use4934"
        y="0"
@@ -13597,7 +13664,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(29.499955,-1.3598338e-4)"
+       transform="translate(29.499955,-1.36e-4)"
        id="tooltip-shadow-right"
        xlink:href="#use4936"
        y="0"
@@ -13613,7 +13680,7 @@
     <use
        height="1000"
        width="37"
-       transform="translate(29.499955,-1.3598338e-4)"
+       transform="translate(29.499955,-1.36e-4)"
        id="tooltip-shadow-top"
        xlink:href="#g4948"
        y="0"
@@ -13631,18 +13698,18 @@
        style="fill-opacity:1"
        height="1000"
        width="37"
-       transform="matrix(0.49999988,0,0,1,-27.249979,154.00012)"
+       transform="matrix(0.49999988,0,0,1,-26.999979,154.00012)"
        id="use9988"
        xlink:href="#rect61484"
        y="0"
        x="0" />
     <g
        id="g9992"
-       transform="translate(28,2.0001164)">
+       transform="translate(28.5,32.500116)">
       <use
          height="1000"
          width="37"
-         transform="matrix(0.49999988,0,0,1,-46.500003,-2.0001165)"
+         transform="matrix(0.49999988,0,0,1,-46.750003,-32.500116)"
          id="use9986"
          xlink:href="#use9160"
          y="0"
@@ -13651,7 +13718,7 @@
          style="opacity:0.1"
          height="1000"
          width="37"
-         transform="translate(-28,2.9998844)"
+         transform="translate(-28.5,-27.500116)"
          id="use9990"
          xlink:href="#use9988"
          y="0"
@@ -13662,7 +13729,7 @@
        y="0"
        xlink:href="#g9992"
        id="use9996"
-       transform="matrix(1,0,0,0.50000032,1.3e-7,691.1807)"
+       transform="matrix(1,0,0,0.50000032,1.3e-7,706.43069)"
        width="37"
        height="1000" />
     <use
@@ -13670,7 +13737,7 @@
        y="0"
        xlink:href="#g9992"
        id="use9998"
-       transform="matrix(-1,0,0,1,-64,7.2270864e-6)"
+       transform="matrix(-1,0,0,1,-63,7e-6)"
        width="37"
        height="1000" />
     <use
@@ -13678,7 +13745,7 @@
        y="0"
        xlink:href="#use9996"
        id="use10000"
-       transform="matrix(-1,0,0,1,-64,7.2270864e-6)"
+       transform="matrix(-1,0,0,1,-63,7e-6)"
        width="37"
        height="1000" />
     <use
@@ -13686,7 +13753,7 @@
        y="0"
        xlink:href="#g9992"
        id="use10002"
-       transform="rotate(90,-32.000002,1387.3623)"
+       transform="rotate(90,-31.500002,1417.8623)"
        width="37"
        height="1000" />
     <use
@@ -13694,7 +13761,7 @@
        y="0"
        xlink:href="#use9996"
        id="use10004"
-       transform="matrix(1,0,0,-1,-1.687e-5,2774.7246)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2835.7246)"
        width="37"
        height="1000" />
     <use
@@ -13702,7 +13769,7 @@
        y="0"
        xlink:href="#use10000"
        id="use10006"
-       transform="matrix(1,0,0,-1,-1.687e-5,2774.7246)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2835.7246)"
        width="37"
        height="1000" />
     <use
@@ -13710,7 +13777,7 @@
        y="0"
        xlink:href="#use10002"
        id="use10008"
-       transform="matrix(1,0,0,-1,-1.687e-5,2774.7246)"
+       transform="matrix(1,0,0,-1,-1.687e-5,2835.7246)"
        width="37"
        height="1000" />
     <use
@@ -13718,7 +13785,7 @@
        y="0"
        xlink:href="#use9160"
        id="tooltip-normal"
-       transform="translate(70.499973,-4.0000433)"
+       transform="translate(70.499973,-4.000043)"
        width="37"
        height="1000" />
     <use
@@ -13726,7 +13793,7 @@
        y="0"
        xlink:href="#g9992"
        id="tooltip-normal-left"
-       transform="translate(70.49999,-4.0000192)"
+       transform="translate(70.49999,-4.000019)"
        width="37"
        height="1000" />
     <use
@@ -13734,7 +13801,7 @@
        y="0"
        xlink:href="#use9996"
        id="tooltip-normal-topleft"
-       transform="translate(70.499955,-4.0001092)"
+       transform="translate(70.499955,-4.000109)"
        width="37"
        height="1000" />
     <use
@@ -13742,7 +13809,7 @@
        y="0"
        xlink:href="#use9998"
        id="tooltip-normal-right"
-       transform="translate(70.49999,-4.0000265)"
+       transform="translate(70.49999,-4.000026)"
        width="37"
        height="1000" />
     <use
@@ -13750,7 +13817,7 @@
        y="0"
        xlink:href="#use10000"
        id="tooltip-normal-topright"
-       transform="translate(70.499955,-4.0001165)"
+       transform="translate(70.499955,-4.000116)"
        width="37"
        height="1000" />
     <use
@@ -13758,7 +13825,7 @@
        y="0"
        xlink:href="#use10002"
        id="tooltip-normal-top"
-       transform="translate(70.499938,-4.0001333)"
+       transform="translate(70.499938,-4.000133)"
        width="37"
        height="1000" />
     <use
@@ -13766,7 +13833,7 @@
        y="0"
        xlink:href="#use10004"
        id="tooltip-normal-bottomleft"
-       transform="translate(70.499989,-4.0000842)"
+       transform="translate(70.499989,-4.000084)"
        width="37"
        height="1000" />
     <use
@@ -13774,7 +13841,7 @@
        y="0"
        xlink:href="#use10006"
        id="tooltip-normal-bottomright"
-       transform="translate(70.499989,-4.0000915)"
+       transform="translate(70.499989,-4.000091)"
        width="37"
        height="1000" />
     <use
@@ -13782,7 +13849,7 @@
        y="0"
        xlink:href="#use10008"
        id="tooltip-normal-bottom"
-       transform="translate(70.499972,-4.0001083)"
+       transform="translate(70.499972,-4.000108)"
        width="37"
        height="1000" />
     <g
@@ -13971,7 +14038,7 @@
     <use
        height="100%"
        width="100%"
-       transform="translate(1.2729682e-7,-6.9999826)"
+       transform="translate(1.3e-7,-6.999983)"
        id="expand-menuitem-normal"
        xlink:href="#menuitem-normal"
        y="0"
@@ -13979,7 +14046,7 @@
     <use
        height="100%"
        width="100%"
-       transform="translate(50,-1.0000583)"
+       transform="translate(50,-1.000058)"
        id="menu-normal"
        xlink:href="#g90900"
        y="0"
@@ -15796,48 +15863,123 @@
        transform="translate(31,78.000003)"
        style="opacity:0.1;fill:#000000;fill-opacity:1" />
     <g
-       id="slidercursor-normal-3"
-       transform="translate(-48,987.36218)">
+       id="handle-plasma"
+       transform="matrix(-5.039364,0,0,-5.039364,-67.666706,1483.3617)">
       <rect
-         style="opacity:0.003;fill:#ffffff;fill-opacity:1;stroke-width:1.03775;stroke-linecap:round;stroke-linejoin:round"
-         id="rect40"
-         width="36"
-         height="30"
-         x="-52"
-         y="112" />
-      <path
-         id="shadow-outline"
-         style="opacity:0.08;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-         d="m -37,115 c -6.647993,0 -12,5.35201 -12,12 0,6.64799 5.352007,12 12,12 h 6 c 6.647993,0 12,-5.35201 12,-12 0,-6.64799 -5.352007,-12 -12,-12 z m 0,1 h 6 c 6.093994,0 11,4.90601 11,11 0,6.09399 -4.906006,11 -11,11 h -6 c -6.093994,0 -11,-4.90601 -11,-11 0,-6.09399 4.906006,-11 11,-11 z" />
-      <path
-         id="rect29"
-         style="opacity:0.003;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-         d="m -37,116 c -6.093994,0 -11,4.90601 -11,11 0,6.09399 4.906006,11 11,11 h 6 c 6.093994,0 11,-4.90601 11,-11 0,-6.09399 -4.906006,-11 -11,-11 z m 0,1 h 6 c 5.539994,0 10,4.46001 10,10 0,5.53999 -4.460006,10 -10,10 h -6 c -5.539994,0 -10,-4.46001 -10,-10 0,-5.53999 4.460006,-10 10,-10 z" />
-      <path
-         id="refraction-1"
-         style="color:#3daee9;opacity:1;fill:currentColor;stop-color:#3daee9"
-         d="m -37,116 c -6.042281,0 -10.913821,4.82368 -10.996094,10.8457 C -47.996798,126.8972 -48,126.9483 -48,127 c 0,0.0553 9.93e-4,0.10957 0.0039,0.16406 0.04711,3.23602 1.476526,6.12409 3.728516,8.10352 -0.798393,-0.90833 -1.352021,-2.02394 -1.736328,-3.22461 C -45.953883,131.21226 -44.812642,130 -44,130 c 0,-0.0574 -0.0035,-0.11423 -0.0098,-0.16992 C -42.837891,129.42239 -42,128.31421 -42,127 c 0,-1.02308 -0.507663,-1.92188 -1.285156,-2.46289 0.333222,-0.2391 0.604934,-0.4856 0.349609,-0.50586 -0.756496,-0.0601 -1.686925,-0.3687 -1.626953,-1.53125 0.03917,-0.75928 0.5763,-1.76061 1.148438,-2.62695 C -41.461314,118.09015 -38.86502,117 -36,117 h 6 c 2.791268,0 5.332068,1.03117 7.267578,2.73242 C -24.745391,117.44226 -27.697287,116 -31,116 Z"
-         class="ColorScheme-Highlight" />
+         id="rect4"
+         width="6.3500056"
+         height="5.1593828"
+         x="-6.4161458"
+         y="-69.254684"
+         transform="scale(-1)"
+         style="opacity:0.003;fill:#000000;fill-opacity:1;stroke-width:0.776512" />
+      <circle
+         style="color:#eff0f1;opacity:0.003;fill:currentColor;stroke-width:1;stop-color:#eff0f1"
+         cy="66.674995"
+         cx="3.836457"
+         id="circle2099"
+         class="ColorScheme-Background"
+         r="1.3890625" />
+      <circle
+         style="color:#eff0f1;opacity:0.003;fill:currentColor;stroke-width:1;stop-color:#eff0f1"
+         cy="66.674995"
+         cx="2.6458323"
+         id="circle2099-6"
+         class="ColorScheme-Background"
+         r="1.3890659" />
+      <g
+         id="g323"
+         style="opacity:0.16"
+         transform="translate(0,0.19843774)">
+        <rect
+           style="opacity:1;fill:url(#radialGradient38);stroke-width:0.147907;stroke-linecap:round;stroke-linejoin:round"
+           id="rect2-4-7"
+           width="1.9843785"
+           height="4.1671996"
+           x="-5.8208342"
+           y="-68.65937"
+           transform="scale(-1)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect2-4-7"
+           id="use38"
+           transform="matrix(-1,0,0,1,6.4822861,0)" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient85);stroke-width:0.120766;stroke-linecap:round;stroke-linejoin:round"
+           id="use39-0"
+           width="1.1906266"
+           height="1.984375"
+           x="2.6458306"
+           y="-66.476555"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient40);stroke-width:0.147907;stroke-linecap:round;stroke-linejoin:round"
+           id="rect39"
+           width="1.1906281"
+           height="2.1828072"
+           x="-3.8364568"
+           y="66.476555"
+           transform="scale(-1,1)" />
+      </g>
+      <g
+         id="g327"
+         transform="translate(-3.571879,-2.0836003)"
+         style="opacity:0.05">
+        <rect
+           style="opacity:1;fill:url(#radialGradient38-9);stroke-width:0.147907;stroke-linecap:round;stroke-linejoin:round"
+           id="rect2-4-7-2"
+           width="2.381253"
+           height="4.5640717"
+           x="-9.789587"
+           y="-71.040619"
+           transform="scale(-1)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect2-4-7-2"
+           id="use38-1"
+           transform="matrix(-1,0,0,1,13.626044,0)"
+           style="opacity:1" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient85-8);stroke-width:0.120766;stroke-linecap:round;stroke-linejoin:round"
+           id="use39-0-0"
+           width="1.1906264"
+           height="2.3812561"
+           x="6.2177081"
+           y="-68.857803"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient40-8);stroke-width:0.147907;stroke-linecap:round;stroke-linejoin:round"
+           id="rect39-5"
+           width="1.1906265"
+           height="2.3812609"
+           x="-7.4083343"
+           y="68.857796"
+           transform="scale(-1,1)" />
+      </g>
       <rect
-         style="opacity:0.003;fill:#ffffff;fill-opacity:1;stroke-width:0.167248;stroke-linecap:round;stroke-linejoin:round"
-         id="cursor-centerpoint"
-         width="3.9999957"
-         height="3.9999986"
-         x="-36"
-         y="125" />
-      <rect
-         style="opacity:0.08;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-         id="rect28"
-         width="28"
-         height="22"
-         x="-48"
-         y="116"
-         rx="11"
-         ry="11" />
-      <path
-         id="rect44"
-         style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
-         d="M -23.732422,118.73242 C -22.031169,120.66794 -21,123.20873 -21,126 c 0,6.09399 -4.906006,11 -11,11 h -6 c -2.791274,0 -5.332064,-1.03117 -7.267578,-2.73242 C -43.254605,136.55774 -40.302719,138 -37,138 h 6 c 6.093994,0 11,-4.90601 11,-11 0,-3.30272 -1.442264,-6.2546 -3.732422,-8.26758 z" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect1-5"
+         width="3.9687548"
+         height="2.778131"
+         x="-5.2255211"
+         y="-68.064064"
+         transform="scale(-1)"
+         ry="1.3890655"
+         rx="1.3890655" />
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#handle-plasma"
+       id="slidercursor-normal"
+       transform="rotate(-90,-33.499982,1030.8622)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#handle-plasma"
+       id="slidercursor-disabled"
+       transform="rotate(-90,-19.499976,1016.8623)" />
   </g>
 </svg>

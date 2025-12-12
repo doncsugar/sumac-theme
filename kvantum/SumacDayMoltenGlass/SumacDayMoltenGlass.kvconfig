@@ -116,9 +116,9 @@ tree_branch_line=false
 groupbox_top_label=false
 
 
-slider_width=4
-slider_handle_width=20
-slider_handle_length=20
+slider_width=18
+slider_handle_width=26
+slider_handle_length=32
 tickless_slider_handle_size=null
 
 
@@ -421,10 +421,10 @@ text.normal.color=#252525
 inherits=PanelButtonCommand
 frame.element=slider
 interior.element=slider
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+frame.top=9
+frame.bottom=9
+frame.left=9
+frame.right=9
 focusFrame=true
 
 [SliderCursor]
