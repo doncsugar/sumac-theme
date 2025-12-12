@@ -21,9 +21,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-57.27565"
-     inkscape:cy="1075.1559"
+     inkscape:zoom="16"
+     inkscape:cx="-13.4375"
+     inkscape:cy="1061.6875"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -9526,7 +9526,7 @@
          d="m -38,1084.3623 c -1.66195,0 -2.99991,1.338 -2.99991,2.9999 H -38 Z"
          id="path4315" />
       <path
-         style="opacity:0.08;fill:#000000;fill-opacity:1"
+         style="opacity:0.001;fill:#000000;fill-opacity:1"
          d="m -38,1084.3623 c -1.661915,0 -2.999846,1.338 -2.999846,2.9999 h 0.999891 c 0,-1.108 0.891968,-2 1.999955,-2 z"
          id="path4317"
          sodipodi:nodetypes="ccccc" />
@@ -9552,7 +9552,7 @@
          y="0"
          x="0" />
       <use
-         style="opacity:0.08"
+         style="opacity:0.001"
          height="1000"
          width="37"
          transform="matrix(1.9999999,0,0,1,12.000133,-0.99999962)"
@@ -9648,7 +9648,7 @@
       <path
          id="path5131"
          d="m -38,1084.3622 c -1.661975,0 -2.999955,1.338 -2.999955,3 h 1 c 0,-1.108 0.891968,-2 1.999955,-2 z"
-         style="opacity:0.08;fill:#000000;fill-opacity:1"
+         style="opacity:0.001;fill:#000000;fill-opacity:1"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
@@ -9679,7 +9679,7 @@
          transform="matrix(1.9999092,0,0,1,11.997731,-0.99999962)"
          width="37"
          height="1000"
-         style="opacity:0.08" />
+         style="opacity:0.001" />
     </g>
     <g
        transform="translate(25.000051,45.000148)"
@@ -9698,7 +9698,7 @@
          id="path5145"
          sodipodi:nodetypes="cccc" />
       <path
-         style="opacity:0.08;fill:#000000;fill-opacity:1"
+         style="opacity:0.001;fill:#000000;fill-opacity:1"
          d="m -38,1084.3621 c -1.662028,0 -3.000051,1.3381 -3.000051,3.0001 l 1,0 c 0,-1.108 0.892011,-2.0001 2.000051,-2.0001 z"
          id="path5147"
          sodipodi:nodetypes="ccccc" />
@@ -9724,7 +9724,7 @@
          y="0"
          x="0" />
       <use
-         style="opacity:0.08"
+         style="opacity:0.001"
          height="1000"
          width="37"
          transform="matrix(2.0000983,0,0,1,12.002647,-0.99999962)"
