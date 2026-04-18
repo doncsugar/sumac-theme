@@ -12,7 +12,7 @@
         "Id": "sumac-day-molten-glass-plasma",
         "License": "GPLv3",
         "Name": "Sumac Day Molten Glass",
-        "Version": "0.9",
+        "Version": "0.9.1",
         "Website": "https://www.pling.com/p/2321400/"
     },
     "X-Plasma-API": "5.0"
