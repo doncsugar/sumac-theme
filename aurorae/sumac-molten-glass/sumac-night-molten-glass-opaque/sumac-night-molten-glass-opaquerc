@@ -23,10 +23,10 @@ ButtonWidth=16
 
 ExplicitButtonSpacer=4
 
-PaddingBottom=22
-PaddingLeft=18
-PaddingRight=18
-PaddingTop=14
+PaddingBottom=66
+PaddingLeft=45
+PaddingRight=45
+PaddingTop=31
 
 TitleBorderLeft=1
 TitleBorderRight=1
