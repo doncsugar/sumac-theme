@@ -90,7 +90,7 @@ Color=255,255,255
 
 [General]
 Anchor=0.5,0.5
-Blur=true
+Blur=false
 ColorRandomization=false
 Description=Sumac Night Molten Glass
 FillStyle=Tile
