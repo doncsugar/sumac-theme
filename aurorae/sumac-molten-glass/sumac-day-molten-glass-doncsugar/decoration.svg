@@ -49,7 +49,7 @@
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="true"
-     inkscape:current-layer="edge-bevel"
+     inkscape:current-layer="g7"
      inkscape:cy="139.9375"
      inkscape:cx="-58.093748"
      inkscape:zoom="32.000001"
@@ -1664,7 +1664,7 @@
          transform="translate(-5.2236328e-6,1.1035156e-5)"><path
            sodipodi:nodetypes="cccccc"
            d="m 31.000071,884.36219 h 0.99992 l 10e-6,19 -18.99999,-2e-5 10e-6,-0.99992 c 0,-11.25003 6.75002,-18.00004 18.00005,-18.00006 z"
-           style="color:#eff0f1;opacity:0.05;fill:#000000;fill-opacity:1;stop-color:#000000"
+           style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1;stop-color:#000000"
            id="path2"
            class="ColorScheme-Background" /><path
            sodipodi:nodetypes="cccccc"
@@ -1732,7 +1732,7 @@
            height="17.416647"
            width="5.999989"
            id="rect4"
-           style="color:#eff0f1;opacity:0.05;fill:#000000;fill-opacity:1;stroke-width:1;stop-color:#000000"
+           style="color:#eff0f1;opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:1;stop-color:#000000"
            class="ColorScheme-Background" /><rect
            y="907.86218"
            x="36.000011"
