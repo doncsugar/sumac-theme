@@ -46,10 +46,19 @@ cp -a sumac-molten-glass/src-molten-glass-night/* output/sumac-night-molten-glas
 cp -a sumac-molten-glass/sumac-night-molten-glass-opaque/* output/sumac-night-molten-glass-opaque
 
 
-echo "Making sumac-night-molten-doncsugar"
+
+echo "Making sumac-night-molten-glass-doncsugar"
 mkdir output/sumac-night-molten-glass-doncsugar
 
 cp -a sumac-molten-glass/src-molten-glass-night/* output/sumac-night-molten-glass-doncsugar
 cp -a sumac-molten-glass/sumac-night-molten-glass-doncsugar/* output/sumac-night-molten-glass-doncsugar
+
+
+echo "Making sumac-day-molten-glass-doncsugar"
+mkdir output/sumac-day-molten-glass-doncsugar
+
+cp -a sumac-molten-glass/src-molten-glass-day/* output/sumac-day-molten-glass-doncsugar
+cp -a sumac-molten-glass/sumac-day-molten-glass-doncsugar/* output/sumac-day-molten-glass-doncsugar
+
 
 echo "Done"
