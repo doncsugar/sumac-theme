@@ -1713,7 +1713,7 @@
              style="opacity:1;fill:url(#radialGradient127)"
              id="path120" /></g></g><path
          id="path1-7"
-         style="color:#eff0f1;opacity:0.8;fill:#ffffff;fill-opacity:1;stop-color:#000000"
+         style="color:#eff0f1;opacity:0.4;fill:#ffffff;fill-opacity:1;stop-color:#000000"
          class="ColorScheme-Background"
          d="m 31.000006,885.3622 c -10.62504,2e-5 -17,6.37496 -17,17 v 1 l 1.499978,-2e-5 2e-6,-0.99998 c 0,-9.68756 5.812459,-15.5 15.50002,-15.50002 l 0.999994,0 6e-6,-1.49998 z"
          sodipodi:nodetypes="ssccccccs" /><path
@@ -1804,7 +1804,7 @@
          height="1.3750286"
          width="5.99999"
          id="rect5"
-         style="color:#eff0f1;opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:1;stop-color:#000000"
+         style="color:#eff0f1;opacity:0.4;fill:#ffffff;fill-opacity:1;stroke-width:1;stop-color:#000000"
          class="ColorScheme-Background" /><rect
          y="907.86206"
          x="36"
