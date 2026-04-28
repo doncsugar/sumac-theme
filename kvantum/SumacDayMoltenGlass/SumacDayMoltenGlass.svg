@@ -21,14 +21,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="-124.25"
-     inkscape:cy="614.84376"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-19.445436"
+     inkscape:cy="52.502678"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -616,66 +616,6 @@
        id="linearGradient2895"
        xlink:href="#coloredShadow"
        inkscape:collect="always" />
-    <linearGradient
-       id="buttonBottomHighlight"
-       inkscape:collect="always">
-      <stop
-         id="stop3001"
-         offset="0"
-         style="stop-color:#1d81fe;stop-opacity:1" />
-      <stop
-         id="stop3003"
-         offset="1"
-         style="stop-color:#0a74ff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="buttonTopHighlight">
-      <stop
-         style="stop-color:#1d81fe;stop-opacity:1"
-         offset="0"
-         id="stop2961" />
-      <stop
-         style="stop-color:#1d81fe;stop-opacity:1"
-         offset="1"
-         id="stop2963" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#buttonTopHighlight"
-       id="linearGradient4523"
-       x1="-37"
-       y1="55.362186"
-       x2="-37"
-       y2="61.362186"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#buttonTopHighlight"
-       id="linearGradient4531"
-       x1="-33.999962"
-       y1="55.362202"
-       x2="-33.999962"
-       y2="61.362202"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#buttonBottomHighlight"
-       id="linearGradient4539"
-       x1="-39.500015"
-       y1="61.362179"
-       x2="-39.500015"
-       y2="55.362179"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#buttonBottomHighlight"
-       id="linearGradient4547"
-       x1="-33.999977"
-       y1="67.362206"
-       x2="-33.999977"
-       y2="73.362206"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        y2="304.36218"
        x2="-41"
@@ -2105,7 +2045,7 @@
        width="100"
        height="1000" />
     <path
-       d="m -43.500001,66.862183 h 6 v -5 h -6 z"
+       d="m -45.5,66.862183 h 7.999999 v -5 H -45.5 Z"
        style="fill-opacity:1;stroke:none"
        id="path2965"
        sodipodi:nodetypes="ccccc" />
@@ -2115,29 +2055,30 @@
        id="path4566"
        d="m -37.000001,61.862185 v 4.999995 h 5 v -4.999995 z" />
     <path
-       sodipodi:nodetypes="cccccc"
+       sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
-       style="fill-opacity:1;fill-rule:evenodd;stroke-width:0.49999699"
-       d="m -38,55.362183 c -3.162501,0 -5.500003,2.33749 -5.500003,5.49997 l 4e-6,0.50003 h 6 v -6 z"
+       style="fill-opacity:1;fill-rule:evenodd;stroke-width:0.499997"
+       d="m -37.499981,53.362183 c -4.600018,0 -8.000034,3.399998 -8.000034,7.999986 l 8.000016,1.4e-5 z"
        id="path3798" />
     <path
        sodipodi:nodetypes="ccccc"
-       style="fill:url(#linearGradient4152);fill-opacity:1;fill-rule:evenodd;stroke-width:0.63245499"
+       style="fill:url(#linearGradient4152);fill-opacity:1;fill-rule:evenodd;stroke-width:0.63245499;opacity:0.001"
        d="m -32.000041,54.362166 4e-5,1.000017 -4.99996,1.7e-5 -4e-5,-1.000017 z"
        id="path3800" />
     <path
        id="path3804"
-       style="fill:url(#radialGradient4154);fill-opacity:1;stroke-width:1.82572997"
+       style="fill:url(#radialGradient4154);fill-opacity:1;stroke-width:1.82572997;opacity:0.001"
        d="m -45.000001,54.362185 2e-5,6.999971 h 1.5 l -2e-5,-0.499973 c 0,-3.16251 2.337496,-5.499998 5.499999,-5.499998 l 0.500021,-2e-6 v -1 z"
        sodipodi:nodetypes="cccccccc" />
     <path
        id="path3808"
        d="m -45.000002,61.862143 1.500001,4e-5 1.7e-5,4.99996 -1.500001,-4e-5 z"
-       style="fill:url(#linearGradient4156);fill-opacity:1;fill-rule:evenodd;stroke-width:0.63245499"
+       style="fill:url(#linearGradient4156);fill-opacity:1;fill-rule:evenodd;stroke-width:0.63245499;opacity:0.001"
        sodipodi:nodetypes="ccccc" />
     <g
        id="g3810"
-       transform="translate(-20.500001,-11.637817)">
+       transform="translate(-20.500001,-11.637817)"
+       style="opacity:0.001">
       <path
          id="path3812"
          style="fill:url(#radialGradient4158);fill-opacity:1;stroke-width:1.82572997"
@@ -2151,7 +2092,7 @@
     </g>
     <path
        sodipodi:nodetypes="ccccc"
-       style="fill:url(#linearGradient4162);fill-opacity:1;fill-rule:evenodd;stroke-width:0.63245499"
+       style="fill:url(#linearGradient4162);fill-opacity:1;fill-rule:evenodd;stroke-width:0.63245499;opacity:0.001"
        d="m -37.000001,75.362192 v -2 l 4.99996,-1.7e-5 v 2 z"
        id="path3820" />
     <g
@@ -2166,7 +2107,7 @@
          y="0"
          x="0" />
       <use
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;opacity:0.08"
          height="1000"
          width="100"
          transform="translate(20.499999,1)"
@@ -2196,7 +2137,7 @@
          width="48"
          height="1000" />
       <use
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;opacity:0.08"
          height="1000"
          width="48"
          transform="translate(20.499984,1.50004)"
@@ -2235,7 +2176,7 @@
          x="0"
          style="opacity:0.25" />
       <use
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;opacity:0.08"
          height="1000"
          width="48"
          transform="matrix(1,0,0,-1,20.499999,130.72437)"
@@ -2272,7 +2213,7 @@
          width="1"
          height="1"
          transform="translate(21,2)"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;opacity:0.08" />
     </g>
     <g
        id="g4015"
@@ -2286,7 +2227,7 @@
          width="48"
          height="1000" />
       <use
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;opacity:0.08"
          height="1000"
          width="48"
          transform="translate(21.000001,1.499998)"
@@ -2299,9 +2240,9 @@
        sodipodi:nodetypes="ccccc"
        id="path4045"
        style="fill-opacity:1;stroke:none"
-       d="m -32,73.362183 0,-6 -5,0 0,6 z" />
+       d="m -32,75.362183 v -8 h -5 v 8 z" />
     <path
-       d="m -32,61.362183 0,-6 -5,0 0,6 z"
+       d="m -32,61.362183 v -8 h -5 v 8 z"
        style="fill-opacity:1;stroke:none"
        id="path4047"
        sodipodi:nodetypes="ccccc" />
@@ -2326,7 +2267,7 @@
          x="0"
          style="opacity:0.25" />
       <use
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;opacity:0.08"
          transform="translate(21,0.999997)"
          height="1"
          width="1"
@@ -2672,7 +2613,7 @@
          y="0"
          x="0" />
       <use
-         style="fill:url(#linearGradient4523);fill-opacity:1"
+         style="fill:#1d81fe;fill-opacity:1"
          height="1000"
          width="100"
          transform="translate(20.499999,1)"
@@ -2732,7 +2673,7 @@
          width="48"
          height="1000" />
       <use
-         style="fill:url(#linearGradient4539);fill-opacity:1"
+         style="fill:#1d81fe;fill-opacity:1"
          height="1000"
          width="48"
          transform="matrix(1,0,0,-1,20.499999,130.72437)"
@@ -2769,7 +2710,7 @@
          width="1"
          height="1"
          transform="translate(21,2)"
-         style="fill:url(#linearGradient4547);fill-opacity:1" />
+         style="fill:#1d81fe;fill-opacity:1" />
       <use
          x="0"
          y="0"
@@ -2813,7 +2754,7 @@
          width="48"
          height="1000" />
       <use
-         style="fill:url(#linearGradient4531);fill-opacity:1"
+         style="fill:#1d81fe;fill-opacity:1"
          transform="translate(21,0.999997)"
          height="1"
          width="1"
