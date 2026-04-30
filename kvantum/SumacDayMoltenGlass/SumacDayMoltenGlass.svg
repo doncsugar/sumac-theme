@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="-18.948252"
-     inkscape:cy="1170.3943"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-24.969708"
+     inkscape:cy="533.33529"
      inkscape:document-units="px"
-     inkscape:current-layer="g47898"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1010"
@@ -5687,7 +5687,7 @@
          transform="translate(4.999997,17.999793)"
          width="37"
          height="1000"
-         style="opacity:0.05" /></g><path
+         style="opacity:0.001" /></g><path
        sodipodi:nodetypes="ccccc"
        id="path33379"
        d="m -65,582.36218 5,0 0,5 -5,0 z"
@@ -5709,7 +5709,7 @@
          id="path33385"
          d="m -60,588.36218 5,0 0,5 -5,0 z"
          style="opacity:0.05;fill-opacity:1;fill-rule:evenodd;stroke-width:3.09838009" /><path
-         style="opacity:0.05;fill-opacity:1;fill-rule:evenodd;stroke-width:3.09838009"
+         style="opacity:0.001;fill-opacity:1;fill-rule:evenodd;stroke-width:3.09838009"
          d="m -60,588.36218 1,0 0,5 -1,0 z"
          id="path33387"
          sodipodi:nodetypes="ccccc" /></g><g
