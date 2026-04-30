@@ -550,10 +550,10 @@ min_width=3font
 inherits=PanelButtonCommand
 frame=true
 frame.element=tabframe
-frame.top=5
-frame.bottom=5
-frame.left=5
-frame.right=5
+frame.top=8
+frame.bottom=8
+frame.left=8
+frame.right=8
 interior=true
 interior.element=tabframe
 
