@@ -113,7 +113,7 @@ transient_groove=false
 tree_branch_line=false
 
 
-groupbox_top_label=false
+groupbox_top_label=true
 
 
 slider_width=18
