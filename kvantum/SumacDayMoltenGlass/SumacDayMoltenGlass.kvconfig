@@ -269,10 +269,10 @@ text.shadow.yshift=0
 text.iconspacing=4
 
 text.margin=true
-text.margin.top=2
+text.margin.top=4
 text.margin.bottom=4
-text.margin.left=12
-text.margin.right=12
+text.margin.left=8
+text.margin.right=8
 
 min_width=0
 min_height=18
