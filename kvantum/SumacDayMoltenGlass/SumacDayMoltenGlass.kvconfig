@@ -321,6 +321,7 @@ inherits=PanelButtonTool
 frame.element=tbutton
 interior.element=tbutton
 
+text.toggle.color=#ffffff
 
 
 [RadioButton]
