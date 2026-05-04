@@ -301,7 +301,7 @@ frame.expansion=38
 text.normal.color=#252525
 text.focus.color=#252525
 text.press.color=#252525
-text.toggle.color=#252525
+text.toggle.color=#ffffff
 text.normal.inactive.color=#252525
 text.toggle.inactive.color=#252525
 
